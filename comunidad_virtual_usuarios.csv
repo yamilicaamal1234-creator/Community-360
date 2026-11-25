@@ -1,0 +1,1069 @@
+﻿id_usuario,alias,fecha_ingreso,pais,estado,ciudad,latitud,longitud,zona_horaria,rango_edad,especie_fursona,interes_principal,plataforma_principal,es_artista,mensajes_30d,reacciones_30d,eventos_asistidos,comisiones_compradas,sentimiento_promedio,ultima_actividad,estatus,consentimiento_datos
+U000001,PixelZac83,21/04/2026,México,Yucatán,Mérida,20.936,-89.6843,America/Merida,18-24,Reptil,Arte digital,Facebook,1,4,13,0,0,0.394,04/10/2026,en_riesgo,si
+U000002,YukiInk45,11/10/2026,México,Jalisco,Guadalajara,20.6824,-103.426,America/Mexico_City,25-31,Perro,Streaming/Contenido,Facebook,0,817,2026,0,0,0.252,01/11/2026,activo,si
+U000003,FlareKin64,02/05/2026,México,Nuevo León,Monterrey,25.7209,-100.236,America/Monterrey,25-31,Conejo,Cómics,TikTok,0,0,0,0,0,-0.28,02/05/2026,inactivo,si
+U000004,AshCh'a30,06/04/2026,México,Nuevo León,Monterrey,,,America/Monterrey,25-31,Gato,Arte digital,Twitter/X,0,19,75,0,5,-0.022,28/10/2026,activo,no
+U000005,BrunoInk2,27/04/2022,México,Nuevo León,Monterrey,,,America/Monterrey,32-38,Perro,Música,Discord,0,3,7,0,0,-0.463,24/10/2026,en_riesgo,si
+U000006,LoboZac34,29/07/2024,México,Yucatán,Mérida,20.8922,-89.7,America/Merida,25-31,Híbrido/Otro,Streaming/Contenido,Telegram,0,16,52,0,0,-0.021,07/11/2026,activo,si
+U000007,MikaTail80,28/05/2022,México,Campeche,Campeche,19.791,-90.5143,America/Merida,25-31,Zorro,Videojuegos,Facebook,0,0,0,0,0,-0.13,05/09/2026,inactivo,si
+U000008,AshFang65,22/05/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Perro,Convenciones,Facebook,0,2,4,2,1,0.138,30/10/2026,activo,si
+U000009,SolCh'a60,07/02/2025,México,Jalisco,Guadalajara,20.7242,-103.3577,America/Mexico_City,25-31,Zorro,Convenciones,TikTok,0,7,16,0,0,0.671,08/11/2026,activo,si
+U000010,AshZac28,01/01/2026,Argentina,Buenos Aires,Buenos Aires,-34.6004,-58.3352,America/Argentina/Buenos_Aires,18-24,Gato,Videojuegos,Facebook,0,8,16,0,0,0.373,07/11/2026,activo,si
+U000011,SolZac68,18/01/2026,México,Puebla,Puebla,,,America/Mexico_City,18-24,Dragón,Convenciones,Instagram,0,10,33,2,0,0.566,27/10/2026,activo,no
+U000012,SolInk72,11/11/2025,México,Quintana Roo,Cancún,21.1834,-86.913,America/Cancun,18-24,Dragón,Escritura/Historias,Telegram,0,11,16,0,0,0.171,26/10/2026,activo,si
+U000013,RexInk33,13/07/2022,Perú,Lima,Lima,-12.0328,-77.0152,America/Lima,25-31,Híbrido/Otro,Cómics,Facebook,0,12,37,0,0,-0.109,06/11/2026,activo,si
+U000014,OnixPelaje87,18/05/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,39+,Husky,Música,Telegram,0,6,14,1,0,0.742,07/10/2026,en_riesgo,si
+U000015,TalaFox70,08/09/2026,México,Tabasco,Villahermosa,17.9715,-92.9717,America/Mexico_City,18-24,Zorro,Arte tradicional,Telegram,1,48,188,0,2,-0.04,18/10/2026,en_riesgo,si
+U000016,BrumaKin88,11/01/2025,México,Quintana Roo,Cancún,21.0861,-86.7914,America/Cancun,32-38,Husky,Convenciones,Facebook,0,0,0,0,0,0.095,25/07/2026,inactivo,si
+U000017,ZorriDash8,22/06/2025,México,Puebla,Puebla,,,America/Mexico_City,32-38,Perro,Arte digital,Facebook,0,0,0,0,0,-0.01,06/11/2025,inactivo,no
+U000018,ÁmbarFang25,10/02/2023,México,Nuevo León,Monterrey,,,America/Monterrey,18-24,Conejo,Cómics,Telegram,0,4,5,0,0,0.144,27/10/2026,activo,no
+U000019,SombraByte90,24/02/2025,Argentina,Buenos Aires,Buenos Aires,-34.5852,-58.334,America/Argentina/Buenos_Aires,18-24,Zorro,Videojuegos,Instagram,0,4,5,0,0,0.243,23/10/2026,en_riesgo,si
+U000020,YukiByte96,09/05/2025,México,Jalisco,Guadalajara,20.6132,-103.4255,America/Mexico_City,18-24,Coyote,Convenciones,TikTok,0,0,0,0,0,0.352,12/03/2026,inactivo,si
+U000021,KibaPaw48,13/11/2023,México,Tabasco,Villahermosa,17.9989,-92.9705,America/Mexico_City,18-24,Husky,Videojuegos,Discord,0,0,0,0,0,-0.156,17/08/2026,inactivo,si
+U000022,KuroPaw64,21/12/2025,México,Jalisco,Guadalajara,20.719,-103.3948,America/Mexico_City,25-31,Perro,Fursuit,TikTok,0,0,0,0,0,0.316,30/01/2026,inactivo,si
+U000023,FlareSpark28,02/02/2023,México,Nuevo León,Monterrey,,,America/Monterrey,18-24,Zorro,Escritura/Historias,Facebook,0,1,2,1,0,0.692,25/09/2026,en_riesgo,no
+U000024,NeoKin92,30/12/2023,México,Nuevo León,Monterrey,25.5996,-100.326,America/Monterrey,18-24,Zorro,Cómics,TikTok,0,0,0,0,0,0.172,25/12/2025,inactivo,si
+U000025,FlarePelaje61,08/04/2026,México,Yucatán,Mérida,,,America/Merida,18-24,Husky,Videojuegos,Discord,1,6,20,0,0,-0.054,03/10/2026,en_riesgo,si
+U000026,MikaMaya27,02/04/2025,México,CDMX,Ciudad de México,19.5081,-99.0643,America/Mexico_City,25-31,Perro,Arte digital,Facebook,1,11,26,1,0,0.576,02/11/2026,activo,si
+U000027,ZetaCh'a42,21/03/2026,México,Querétaro,Querétaro,20.6481,-100.3539,America/Mexico_City,25-31,Gato,Arte digital,Instagram,1,7,24,0,0,-0.31,02/11/2026,activo,si
+U000028,ÁmbarPaw66,03/10/2026,Colombia,Cundinamarca,Bogotá,4.7689,-74.0491,America/Bogota,32-38,Híbrido/Otro,Videojuegos,Telegram,0,3,11,0,0,-0.066,05/10/2026,en_riesgo,si
+U000029,RuneZac68,06/12/2022,México,CDMX,Ciudad de México,19.5068,-99.0934,America/Mexico_City,18-24,Husky,Arte tradicional,Instagram,0,2,5,0,0,0.506,14/10/2026,en_riesgo,si
+U000030,BrumaWolf36,07/01/2026,México,Yucatán,Mérida,20.9774,-89.6954,America/Merida,18-24,Perro,Streaming/Contenido,Instagram,0,7,12,1,0,0.612,08/11/2026,activo,si
+U000031,ZorriPelaje20,18/06/2026,México,Nuevo León,Monterrey,25.7233,-100.3627,America/Monterrey,18-24,Híbrido/Otro,Arte digital,Telegram,1,1,2,1,0,-0.08,28/09/2026,en_riesgo,si
+U000032,RunePelaje59,15/04/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Conejo,Escritura/Historias,Instagram,0,9,33,0,0,0.424,07/11/2026,activo,no
+U000033,RexByte83,27/06/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Híbrido/Otro,Convenciones,Telegram,0,8,26,0,0,-0.021,02/11/2026,activo,si
+U000034,MikaHowl59,24/03/2024,México,Yucatán,Mérida,,,America/Merida,39+,Husky,Música,Telegram,1,4,10,0,0,0.319,25/10/2026,en_riesgo,si
+U000035,LunaPaw68,21/07/2026,México,Yucatán,Mérida,21.0098,-89.6886,America/Merida,25-31,Lobo,Videojuegos,Discord,0,4,6,0,0,0.221,13/09/2026,en_riesgo,si
+U000036,LoboClaw40,10/09/2026,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,25-31,Dragón,Arte tradicional,Facebook,0,4,7,0,0,1,08/11/2026,activo,no
+U000037,NovaSpark94,29/04/2022,México,Yucatán,Mérida,20.9247,-89.6878,America/Merida,18-24,Perro,Videojuegos,Telegram,0,6,17,0,0,0.491,09/11/2026,activo,si
+U000038,RuneSpark1,29/07/2023,México,Yucatán,Mérida,,,America/Merida,32-38,Dragón,Arte digital,Telegram,0,2,5,0,0,0.483,10/10/2026,en_riesgo,si
+U000039,LoboMaya66,10/05/2025,España,Comunidad de Madrid,Madrid,40.4521,-3.6926,Europe/Madrid,25-31,Gato,Arte digital,Instagram,0,7,12,1,2,0.37,08/11/2026,activo,si
+U000040,LunaKin46,28/06/2023,México,Puebla,Puebla,19.1174,-98.1751,America/Mexico_City,18-24,Lobo,Cómics,Telegram,0,4,6,2,0,0.189,05/11/2026,activo,si
+U000041,FlareZac32,25/02/2026,México,Tabasco,Villahermosa,17.967,-92.8912,America/Mexico_City,25-31,Coyote,Videojuegos,Telegram,0,8,31,0,0,-0.133,29/10/2026,activo,si
+U000042,MikaFang77,19/07/2025,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Híbrido/Otro,Música,Instagram,0,2,6,0,0,0.079,07/10/2026,en_riesgo,no
+U000043,BrumaCh'a15,25/07/2022,México,Puebla,Puebla,19.031,-98.2691,America/Mexico_City,18-24,Zorro,Arte digital,TikTok,1,0,0,0,0,0.794,04/05/2026,inactivo,si
+U000044,BrunoInk58,24/10/2025,México,Veracruz,Veracruz,19.2288,-96.1036,America/Mexico_City,18-24,Lobo,Cómics,Facebook,0,1,3,0,0,0.626,10/10/2026,en_riesgo,si
+U000045,CobreKin51,20/05/2023,México,Querétaro,Querétaro,20.6172,-100.45,America/Mexico_City,39+,Coyote,Videojuegos,TikTok,0,7,14,0,0,0.039,05/11/2026,activo,si
+U000046,ZorriWolf77,06/11/2024,México,Querétaro,Querétaro,,,America/Mexico_City,25-31,Perro,Videojuegos,Discord,0,0,0,0,0,0.895,23/10/2025,inactivo,no
+U000047,PixelArt2,06/06/2024,México,Tabasco,Villahermosa,18.0402,-92.9403,America/Mexico_City,18-24,Lobo,Cómics,Telegram,0,14,50,0,0,-0.042,21/09/2026,en_riesgo,si
+U000048,NovaSpark16,06/08/2024,México,Yucatán,Mérida,20.9904,-89.6841,America/Merida,18-24,Husky,Fursuit,Twitter/X,0,4,13,1,2,-0.017,15/09/2026,en_riesgo,si
+U000049,ÁmbarDash77,28/03/2023,México,Quintana Roo,Cancún,,,America/Cancun,18-24,Híbrido/Otro,Arte digital,Facebook,1,0,0,0,0,0.698,07/03/2026,inactivo,no
+U000050,ÁmbarHowl96,05/10/2022,México,Yucatán,Mérida,20.9313,-89.5718,America/Merida,25-31,Conejo,Arte digital,Facebook,1,0,0,1,1,0.539,26/08/2026,inactivo,si
+U000051,RunePaw74,06/12/2025,México,Tabasco,Villahermosa,18.0282,-92.8709,America/Mexico_City,18-24,Híbrido/Otro,Fursuit,TikTok,0,4,7,1,1,-0.035,22/10/2026,en_riesgo,si
+U000052,KibaZac40,02/09/2026,México,Nuevo León,Monterrey,25.6935,-100.292,America/Monterrey,25-31,Conejo,Fursuit,Discord,0,0,0,1,2,0.2,07/09/2026,inactivo,si
+U000053,RuneMaya75,22/12/2023,Colombia,Cundinamarca,Bogotá,4.7531,-74.0809,America/Bogota,18-24,Híbrido/Otro,Cómics,Discord,1,9,11,1,0,0.137,27/10/2026,activo,si
+U000054,NovaByte8,19/08/2022,México,CDMX,Ciudad de México,19.4612,-99.1993,America/Mexico_City,18-24,Husky,Arte digital,Discord,0,17,34,0,0,0.217,16/10/2026,en_riesgo,si
+U000055,ZorriSpark5,28/12/2022,Colombia,Cundinamarca,Bogotá,,,America/Bogota,39+,Zorro,Streaming/Contenido,Facebook,0,2,4,0,0,0.545,26/09/2026,en_riesgo,si
+U000056,OnixPelaje62,10/07/2024,México,Yucatán,Mérida,21.0004,-89.695,America/Merida,18-24,Gato,Música,Telegram,0,3,8,0,0,0.654,07/10/2026,en_riesgo,si
+U000057,KuroFox47,15/02/2025,México,Jalisco,Guadalajara,20.6303,-103.4108,America/Mexico_City,18-24,Coyote,Arte digital,Facebook,1,0,0,0,0,0.36,17/08/2026,inactivo,si
+U000058,RexHowl61,18/07/2022,México,CDMX,Ciudad de México,19.3989,-99.1671,America/Mexico_City,18-24,Husky,Música,Discord,0,65,119,1,1,0.452,23/09/2026,en_riesgo,si
+U000059,BrunoTail34,23/09/2026,México,Yucatán,Mérida,,,America/Merida,32-38,Lobo,Convenciones,Discord,0,2,7,0,0,0.613,26/09/2026,en_riesgo,no
+U000060,CobreDash13,14/08/2023,México,CDMX,Ciudad de México,19.36,-99.1058,America/Mexico_City,32-38,Zorro,Streaming/Contenido,Discord,0,0,0,0,0,-0.108,27/02/2026,inactivo,si
+U000061,PixelHowl52,14/12/2024,México,Quintana Roo,Cancún,,,America/Cancun,32-38,Híbrido/Otro,Cosplay,Telegram,0,11,27,3,0,0.816,18/10/2026,en_riesgo,si
+U000062,MikaByte36,20/10/2026,México,CDMX,Ciudad de México,19.3982,-99.1608,America/Mexico_City,18-24,Gato,Videojuegos,Facebook,0,2,5,0,0,0.784,20/10/2026,en_riesgo,si
+U000063,KuroSpark49,05/04/2026,México,Nuevo León,Monterrey,25.7269,-100.2717,America/Monterrey,18-24,Gato,Convenciones,Telegram,0,0,0,3,0,0.346,06/08/2026,inactivo,si
+U000064,BrunoPelaje60,25/03/2026,México,Campeche,Campeche,19.8917,-90.4678,America/Merida,25-31,Tigre,Arte digital,Facebook,1,24,81,0,0,-0.182,26/09/2026,en_riesgo,si
+U000065,BrumaInk16,03/09/2025,México,Yucatán,Mérida,,,America/Merida,18-24,Híbrido/Otro,Videojuegos,TikTok,0,0,0,0,0,0.798,12/06/2026,inactivo,no
+U000066,KuroKin17,07/09/2023,Estados Unidos,Texas,Houston,29.8368,-95.4431,America/Chicago,18-24,Lobo,Fursuit,Telegram,1,1,1,0,0,-0.007,07/10/2026,en_riesgo,si
+U000067,NeoTail57,06/12/2025,México,Yucatán,Mérida,20.9573,-89.5863,America/Merida,32-38,Reptil,Arte tradicional,Facebook,0,1,2,0,3,0.196,22/10/2026,en_riesgo,si
+U000068,KuroPaw1,07/04/2023,México,CDMX,Ciudad de México,19.4901,-99.1312,America/Mexico_City,18-24,Perro,Arte tradicional,Twitter/X,1,0,0,0,0,0.102,28/05/2026,inactivo,si
+U000069,LunaPaw18,02/06/2024,México,CDMX,Ciudad de México,19.4313,-99.0924,America/Mexico_City,32-38,Zorro,Arte digital,Telegram,0,8,25,0,3,0.478,23/10/2026,en_riesgo,si
+U000070,ÁmbarTail66,03/06/2024,México,Yucatán,Mérida,,,America/Merida,18-24,Perro,Cómics,Telegram,0,0,0,0,0,0.662,09/09/2026,inactivo,no
+U000071,LunaPelaje51,24/09/2026,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,18-24,Gato,Arte tradicional,Discord,1,2,4,0,1,0.104,24/09/2026,en_riesgo,no
+U000072,BrumaMoon49,06/09/2023,México,Guanajuato,León,21.1569,-101.6456,America/Mexico_City,18-24,Tigre,Convenciones,Telegram,0,4,11,5,1,0.204,14/10/2026,en_riesgo,si
+U000073,ZorriFang18,07/05/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Conejo,Videojuegos,Facebook,0,1,2,0,0,-0.013,15/10/2026,en_riesgo,no
+U000074,TalaTail60,03/07/2026,México,CDMX,Ciudad de México,19.4253,-99.0594,America/Mexico_City,32-38,Híbrido/Otro,Arte digital,Facebook,1,2,4,0,5,-0.1,16/09/2026,en_riesgo,si
+U000075,PixelClaw13,08/08/2025,México,Yucatán,Mérida,,,America/Merida,32-38,Zorro,Videojuegos,Telegram,0,1,1,1,0,0.121,25/10/2026,en_riesgo,no
+U000076,YukiDash42,29/04/2022,México,Puebla,Puebla,18.9716,-98.1769,America/Mexico_City,18-24,Híbrido/Otro,Arte tradicional,Telegram,0,0,0,0,2,-0.075,09/01/2026,inactivo,si
+U000077,KibaPaw54,16/01/2024,México,CDMX,Ciudad de México,19.375,-99.1533,America/Mexico_City,18-24,Perro,Cómics,TikTok,0,8,18,3,0,0.45,03/11/2026,activo,si
+U000078,SombraClaw77,12/06/2025,México,Yucatán,Mérida,20.9263,-89.5721,America/Merida,25-31,Híbrido/Otro,Convenciones,Telegram,0,57,149,2,1,0.507,03/11/2026,activo,si
+U000079,NovaZac86,13/08/2025,México,CDMX,Ciudad de México,19.391,-99.089,America/Mexico_City,18-24,Ave,Arte tradicional,Telegram,0,3,6,0,5,0.01,11/09/2026,en_riesgo,si
+U000080,NubeCh'a40,18/08/2023,México,Guanajuato,León,,,America/Mexico_City,18-24,Zorro,Música,Facebook,0,8,14,0,0,0.72,03/11/2026,activo,no
+U000081,NeoPelaje7,15/01/2024,España,Comunidad de Madrid,Madrid,40.385,-3.7342,Europe/Madrid,32-38,Perro,Fursuit,Twitter/X,0,2,5,0,3,0.27,21/10/2026,en_riesgo,si
+U000082,OnixMoon4,02/12/2023,Argentina,Buenos Aires,Buenos Aires,-34.6146,-58.4117,America/Argentina/Buenos_Aires,18-24,Dragón,Videojuegos,Telegram,0,37,96,0,0,-0.224,30/10/2026,activo,si
+U000083,MikaPelaje22,31/01/2026,México,Baja California,Tijuana,32.5371,-117.1153,America/Tijuana,25-31,Husky,Arte digital,Telegram,1,0,0,2,3,-0.086,13/02/2026,inactivo,si
+U000084,ÁmbarFox12,07/05/2025,México,Yucatán,Mérida,20.9342,-89.6574,America/Merida,18-24,Gato,Convenciones,Facebook,0,6,18,1,0,0.011,06/11/2026,activo,si
+U000085,YukiInk27,25/02/2023,México,Nuevo León,Monterrey,25.6867,-100.2848,America/Monterrey,18-24,Coyote,Arte tradicional,Twitter/X,1,7,27,0,1,0.097,29/10/2026,activo,si
+U000086,FlareWolf27,06/06/2023,México,Yucatán,Mérida,20.9175,-89.6095,America/Merida,25-31,Gato,Arte digital,Facebook,0,13,34,0,0,0.728,07/11/2026,activo,si
+U000087,BrumaClaw82,08/11/2025,México,Yucatán,Mérida,21.0175,-89.5867,America/Merida,32-38,Zorro,Videojuegos,Telegram,0,2,3,1,0,0.079,19/10/2026,en_riesgo,si
+U000088,KuroFang48,11/04/2025,Colombia,Cundinamarca,Bogotá,,,America/Bogota,18-24,Zorro,Cosplay,Instagram,0,0,0,2,1,0.579,13/03/2026,inactivo,no
+U000089,BrunoKin15,30/09/2026,México,Yucatán,Mérida,21.0145,-89.5513,America/Merida,18-24,Híbrido/Otro,Arte digital,Telegram,1,4,14,0,0,-0.259,30/09/2026,en_riesgo,si
+U000090,FlareDash92,22/06/2026,México,Yucatán,Mérida,,,America/Merida,18-24,Lobo,Fursuit,Instagram,0,0,0,1,5,-0.166,22/06/2026,inactivo,no
+U000091,FlareWolf81,09/04/2025,México,Jalisco,Guadalajara,20.6902,-103.3955,America/Mexico_City,18-24,Dragón,Convenciones,Facebook,0,18,52,0,1,0.175,01/11/2026,activo,si
+U000092,SolPelaje68,26/12/2023,México,Jalisco,Guadalajara,20.6735,-103.3734,America/Mexico_City,18-24,Husky,Streaming/Contenido,Telegram,0,0,0,0,0,0.486,29/07/2026,inactivo,si
+U000093,SombraInk42,13/10/2026,México,Jalisco,Guadalajara,20.6563,-103.3683,America/Mexico_City,25-31,Coyote,Cómics,Instagram,0,13,29,0,1,0.003,07/11/2026,activo,si
+U000094,MikaPaw60,12/04/2025,México,Baja California,Tijuana,32.5207,-117.034,America/Tijuana,18-24,Husky,Streaming/Contenido,TikTok,0,0,0,0,0,0.103,13/10/2026,en_riesgo,si
+U000095,RunePaw30,12/06/2025,México,Yucatán,Mérida,20.9545,-89.5784,America/Merida,25-31,Tigre,Música,Discord,1,0,0,0,0,0.069,09/08/2026,inactivo,si
+U000096,OnixKin15,16/07/2026,México,Jalisco,Guadalajara,20.6777,-103.4095,America/Mexico_City,39+,Ave,Arte digital,Telegram,1,0,0,0,1,0.465,16/07/2026,inactivo,si
+U000097,KibaMaya98,16/04/2025,México,CDMX,Ciudad de México,19.4536,-99.1594,America/Mexico_City,18-24,Gato,Música,TikTok,0,5,11,0,0,-0.432,18/10/2026,en_riesgo,si
+U000098,BrunoZac25,05/07/2026,México,Jalisco,Guadalajara,20.7328,-103.3882,America/Mexico_City,18-24,Gato,Escritura/Historias,Telegram,0,5,12,0,1,0.432,21/10/2026,en_riesgo,si
+U000099,PixelByte53,15/05/2025,México,Nuevo León,Monterrey,25.6687,-100.3089,America/Monterrey,39+,Perro,Arte digital,Facebook,1,6,12,0,1,-0.14,04/11/2026,activo,si
+U000100,KuroFox15,06/10/2026,México,Nuevo León,Monterrey,25.6403,-100.3702,America/Monterrey,25-31,Zorro,Convenciones,Twitter/X,0,14,20,0,0,0.173,06/11/2026,activo,si
+U000101,FlareByte64,17/05/2025,México,Yucatán,Mérida,21.0407,-89.5565,America/Merida,32-38,Gato,Cómics,Telegram,0,0,0,0,0,-0.45,12/08/2026,inactivo,si
+U000102,OnixInk33,12/05/2026,México,CDMX,Ciudad de México,19.398,-99.1761,America/Mexico_City,18-24,Lobo,Cosplay,TikTok,0,0,0,0,0,0.992,16/08/2026,inactivo,si
+U000103,NovaZac13,21/05/2025,Argentina,Buenos Aires,Buenos Aires,-34.6218,-58.3078,America/Argentina/Buenos_Aires,18-24,Tigre,Escritura/Historias,Telegram,0,10,27,0,0,-0.697,31/10/2026,activo,si
+U000104,KibaPaw11,24/02/2026,México,Yucatán,Mérida,,,America/Merida,18-24,Husky,Música,Telegram,0,6,22,0,0,0.422,03/11/2026,activo,si
+U000105,AshKin51,12/02/2024,México,Veracruz,Veracruz,19.2441,-96.1381,America/Mexico_City,18-24,Zorro,Videojuegos,Twitter/X,0,0,0,0,0,-0.278,06/08/2026,inactivo,si
+U000106,PixelArt7,08/08/2026,México,Puebla,Puebla,19.0952,-98.1852,America/Mexico_City,25-31,Conejo,Arte digital,Telegram,1,8,27,2,1,0.716,03/11/2026,activo,si
+U000107,AshMaya48,23/12/2023,México,Querétaro,Querétaro,20.6093,-100.4396,America/Mexico_City,25-31,Zorro,Convenciones,Twitter/X,0,23,89,1,0,0.49,07/11/2026,activo,si
+U000108,KuroMaya6,22/11/2025,Perú,Lima,Lima,-12.0795,-77.0365,America/Lima,18-24,Perro,Arte tradicional,TikTok,1,12,43,0,0,-0.42,29/10/2026,activo,si
+U000109,CobreKin28,16/12/2025,Estados Unidos,California,Los Ángeles,34.0008,-118.2399,America/Los_Angeles,25-31,Dragón,Convenciones,Discord,0,0,0,0,0,0.809,10/07/2026,inactivo,si
+U000110,MikaClaw54,21/09/2023,México,Nuevo León,Monterrey,25.6151,-100.3757,America/Monterrey,25-31,Lobo,Fursuit,Facebook,0,4,8,1,2,0.377,06/11/2026,activo,si
+U000111,TalaClaw10,25/04/2024,Estados Unidos,California,Los Ángeles,34.0563,-118.2278,America/Los_Angeles,18-24,Zorro,Música,Telegram,0,0,0,0,1,0.778,03/09/2026,inactivo,si
+U000112,NeoMaya61,08/05/2022,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Zorro,Arte digital,Facebook,0,13,29,0,2,0.022,28/10/2026,activo,no
+U000113,PixelArt64,23/06/2024,México,Nuevo León,Monterrey,25.6506,-100.3611,America/Monterrey,25-31,Zorro,Videojuegos,Facebook,0,7,10,0,0,-0.532,01/11/2026,activo,si
+U000114,OnixInk13,31/12/2023,México,CDMX,Ciudad de México,19.3522,-99.0794,America/Mexico_City,18-24,Perro,Fursuit,Instagram,0,7,21,1,0,-0.16,27/10/2026,activo,si
+U000115,PixelArt28,05/10/2022,México,Yucatán,Mérida,21.011,-89.6581,America/Merida,39+,Zorro,Videojuegos,Twitter/X,0,2,3,0,0,0.66,29/10/2026,activo,si
+U000116,OnixArt54,18/11/2025,México,Veracruz,Veracruz,19.1396,-96.1303,America/Mexico_City,25-31,Ave,Fursuit,Telegram,0,13,40,0,2,0.306,08/10/2026,en_riesgo,si
+U000117,LunaMoon50,14/04/2024,México,Yucatán,Mérida,,,America/Merida,25-31,Lobo,Arte tradicional,Facebook,1,5,11,0,0,0.502,08/11/2026,activo,si
+U000118,NeoByte96,06/08/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Perro,Videojuegos,Twitter/X,0,24,71,0,0,0.369,29/10/2026,activo,si
+U000119,NeoCh'a71,15/02/2023,Perú,Lima,Lima,-12.0622,-77.0435,America/Lima,32-38,Dragón,Cosplay,Facebook,0,0,0,0,0,0.156,09/10/2025,inactivo,si
+U000120,SolWolf38,29/08/2024,México,CDMX,Ciudad de México,19.4446,-99.1465,America/Mexico_City,39+,Lobo,Videojuegos,Facebook,0,0,0,0,0,0.38,22/08/2026,inactivo,si
+U000121,FlareMoon15,28/06/2025,México,CDMX,Ciudad de México,19.4612,-99.1896,America/Mexico_City,18-24,Coyote,Cosplay,Discord,1,3,4,1,0,0.809,12/10/2026,en_riesgo,si
+U000122,MikaDash11,07/07/2026,México,Querétaro,Querétaro,20.6358,-100.4084,America/Mexico_City,32-38,Lobo,Videojuegos,TikTok,0,1,2,0,0,-0.195,01/10/2026,en_riesgo,si
+U000123,RexPaw3,30/08/2023,México,Nuevo León,Monterrey,25.7209,-100.3174,America/Monterrey,32-38,Gato,Arte digital,Facebook,1,4,5,0,3,-0.241,09/11/2026,activo,si
+U000124,KuroWolf89,09/08/2022,México,Puebla,Puebla,19.0399,-98.2598,America/Mexico_City,18-24,Husky,Videojuegos,Telegram,1,29,56,0,0,0.278,29/10/2026,activo,si
+U000125,SombraCh'a83,25/07/2026,México,Oaxaca,Oaxaca,,,America/Mexico_City,18-24,Ave,Arte digital,Telegram,1,4,5,0,1,0.407,22/10/2026,en_riesgo,si
+U000126,RexPaw24,29/08/2026,México,Yucatán,Mérida,,,America/Merida,25-31,Dragón,Arte digital,Facebook,1,0,0,0,0,0.087,29/08/2026,inactivo,no
+U000127,ÁmbarWolf12,11/08/2023,México,Oaxaca,Oaxaca,17.1115,-96.7929,America/Mexico_City,18-24,Híbrido/Otro,Cómics,TikTok,0,8,24,0,0,-0.303,04/11/2026,activo,si
+U000128,SombraArt83,27/12/2022,Estados Unidos,California,Los Ángeles,34.1297,-118.2718,America/Los_Angeles,39+,Reptil,Arte digital,Telegram,0,9,25,0,0,0.751,08/11/2026,activo,si
+U000129,TalaCh'a94,30/08/2024,México,Campeche,Campeche,19.8219,-90.6016,America/Merida,32-38,Perro,Arte digital,Discord,0,9,25,0,0,0.919,05/10/2026,en_riesgo,si
+U000130,SolPaw15,20/05/2024,Argentina,Buenos Aires,Buenos Aires,-34.5438,-58.3515,America/Argentina/Buenos_Aires,39+,Tigre,Videojuegos,Twitter/X,0,7,25,0,0,0.131,04/11/2026,activo,si
+U000131,SombraInk37,06/02/2024,Argentina,Buenos Aires,Buenos Aires,-34.5238,-58.4247,America/Argentina/Buenos_Aires,39+,Perro,Videojuegos,Instagram,0,24,84,0,0,0.857,04/11/2026,activo,si
+U000132,SolFox63,02/04/2022,Colombia,Cundinamarca,Bogotá,4.64,-74.0662,America/Bogota,18-24,Reptil,Convenciones,Facebook,0,0,0,0,0,-0.113,26/11/2025,inactivo,si
+U000133,KuroTail75,30/12/2025,México,Tabasco,Villahermosa,17.9858,-92.9374,America/Mexico_City,18-24,Zorro,Fursuit,Facebook,1,0,0,0,0,0.057,28/05/2026,inactivo,si
+U000134,BrumaWolf8,04/11/2022,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Gato,Arte digital,Twitter/X,1,4,12,0,1,0.473,02/10/2026,en_riesgo,si
+U000135,NeoTail58,19/12/2022,Argentina,Buenos Aires,Buenos Aires,-34.6653,-58.3681,America/Argentina/Buenos_Aires,18-24,Conejo,Videojuegos,TikTok,0,1,3,0,0,-0.102,20/10/2026,en_riesgo,si
+U000136,ZorriInk5,11/05/2025,México,Nuevo León,Monterrey,25.7059,-100.2646,America/Monterrey,25-31,Reptil,Arte digital,Twitter/X,1,0,0,0,3,-0.254,19/08/2026,inactivo,si
+U000137,LoboCh'a74,25/02/2025,México,Baja California,Tijuana,,,America/Tijuana,18-24,Perro,Música,TikTok,0,4,13,0,0,0.571,08/11/2026,activo,no
+U000138,LunaKin32,08/05/2022,México,Querétaro,Querétaro,,,America/Mexico_City,25-31,Perro,Arte tradicional,Telegram,1,0,0,1,1,-0.313,27/08/2026,inactivo,si
+U000139,SolDash74,08/05/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,39+,Gato,Streaming/Contenido,TikTok,0,7,11,0,0,0.801,30/10/2026,activo,no
+U000140,MikaSpark31,16/10/2023,Colombia,Cundinamarca,Bogotá,,,America/Bogota,18-24,Híbrido/Otro,Cómics,TikTok,0,0,0,0,0,0.345,18/08/2026,inactivo,no
+U000141,YukiDash1,14/01/2024,México,Nuevo León,Monterrey,25.6206,-100.2384,America/Monterrey,25-31,Husky,Arte digital,TikTok,1,2,6,0,3,-0.103,13/10/2026,en_riesgo,si
+U000142,AshCh'a44,11/01/2026,México,CDMX,Ciudad de México,19.4619,-99.1486,America/Mexico_City,25-31,Zorro,Cómics,Facebook,1,0,0,3,0,0.518,29/08/2026,inactivo,si
+U000143,ÁmbarPaw6,26/05/2026,México,Jalisco,Guadalajara,20.6201,-103.3768,America/Mexico_City,39+,Híbrido/Otro,Arte digital,Telegram,1,2,6,0,0,0.293,04/10/2026,en_riesgo,si
+U000144,AshSpark80,10/11/2025,México,Veracruz,Veracruz,,,America/Mexico_City,18-24,Perro,Arte digital,Telegram,1,0,0,0,0,-0.062,25/10/2026,en_riesgo,si
+U000145,ZetaPelaje13,10/07/2023,México,CDMX,Ciudad de México,19.4171,-99.0623,America/Mexico_City,18-24,Perro,Convenciones,Telegram,0,8,23,1,0,0.845,12/10/2026,en_riesgo,si
+U000146,PixelPelaje35,22/05/2025,México,Quintana Roo,Cancún,21.2029,-86.7812,America/Cancun,32-38,Husky,Arte digital,Telegram,1,4,9,1,1,0.163,29/10/2026,activo,si
+U000147,BrunoArt50,18/01/2026,México,CDMX,Ciudad de México,19.4125,-99.0966,America/Mexico_City,18-24,Gato,Cómics,TikTok,0,16,29,0,0,0.126,06/11/2026,activo,si
+U000148,RuneInk10,19/04/2025,México,Yucatán,Mérida,20.9861,-89.6954,America/Merida,25-31,Reptil,Arte digital,Telegram,1,3,4,0,0,0.556,31/10/2026,activo,si
+U000149,BrunoWolf42,27/09/2024,México,Quintana Roo,Cancún,,,America/Cancun,32-38,Perro,Fursuit,TikTok,0,4,7,0,3,0.272,19/10/2026,en_riesgo,si
+U000150,SolInk42,27/06/2023,México,Veracruz,Veracruz,19.2188,-96.1649,America/Mexico_City,25-31,Zorro,Arte digital,Instagram,1,7,15,1,0,0.084,01/11/2026,activo,si
+U000151,CobreFox10,03/11/2025,España,Comunidad de Madrid,Madrid,,,Europe/Madrid,18-24,Perro,Arte digital,Telegram,1,6,21,0,3,0.057,15/10/2026,en_riesgo,no
+U000152,RuneKin34,08/10/2026,México,Tabasco,Villahermosa,18.006,-92.9163,America/Mexico_City,18-24,Lobo,Música,Facebook,0,33,82,0,0,0.441,08/11/2026,activo,si
+U000153,NubeKin52,24/07/2026,México,Nuevo León,Monterrey,25.6167,-100.3251,America/Monterrey,18-24,Gato,Streaming/Contenido,Instagram,0,3,5,0,0,0.304,22/10/2026,en_riesgo,si
+U000154,NeoInk8,22/09/2025,México,Quintana Roo,Cancún,,,America/Cancun,18-24,Híbrido/Otro,Streaming/Contenido,Telegram,0,9,35,2,0,0.414,07/10/2026,en_riesgo,no
+U000155,LoboWolf28,27/03/2023,México,Chihuahua,Chihuahua,28.5918,-106.1326,America/Chihuahua,25-31,Híbrido/Otro,Convenciones,Discord,1,2,3,3,0,-0.52,18/09/2026,en_riesgo,si
+U000156,LoboSpark82,06/05/2025,México,Oaxaca,Oaxaca,17.1007,-96.7459,America/Mexico_City,18-24,Zorro,Cómics,TikTok,1,3,6,0,0,0.372,22/09/2026,en_riesgo,si
+U000157,AshArt74,29/11/2022,México,Quintana Roo,Cancún,21.1679,-86.9111,America/Cancun,25-31,Conejo,Arte tradicional,Facebook,1,9,17,0,0,-0.21,23/09/2026,en_riesgo,si
+U000158,NovaInk87,16/03/2023,México,Querétaro,Querétaro,20.5435,-100.4429,America/Mexico_City,25-31,Gato,Arte tradicional,TikTok,1,6,16,0,2,0.015,16/10/2026,en_riesgo,si
+U000159,RuneMoon62,03/06/2022,México,Quintana Roo,Cancún,21.1161,-86.8681,America/Cancun,18-24,Zorro,Arte digital,Telegram,1,17,29,1,3,0.388,05/11/2026,activo,si
+U000160,TalaDash34,09/11/2024,México,Tabasco,Villahermosa,,,America/Mexico_City,18-24,Zorro,Escritura/Historias,TikTok,1,10,16,0,0,0.303,05/11/2026,activo,no
+U000161,RuneDash1,04/12/2023,México,Jalisco,Guadalajara,20.7001,-103.3071,America/Mexico_City,18-24,Husky,Arte tradicional,Facebook,1,0,0,0,0,0.042,10/07/2026,inactivo,si
+U000162,NovaZac19,17/05/2023,México,Oaxaca,Oaxaca,17.1283,-96.7542,America/Mexico_City,25-31,Gato,Escritura/Historias,Instagram,0,0,0,1,0,0.126,06/05/2026,inactivo,si
+U000163,RuneDash21,26/06/2023,México,Yucatán,Mérida,20.9862,-89.5746,America/Merida,25-31,Perro,Arte digital,Discord,1,12,32,0,0,0.362,08/11/2026,activo,si
+U000164,BrunoPaw92,31/05/2023,México,CDMX,Ciudad de México,19.4843,-99.1678,America/Mexico_City,25-31,Zorro,Arte digital,Telegram,1,2,4,0,2,0.728,20/10/2026,en_riesgo,si
+U000165,YukiWolf53,10/03/2024,Estados Unidos,Texas,Houston,29.6884,-95.3278,America/Chicago,18-24,Lobo,Arte digital,Telegram,1,2,7,0,0,0.825,06/10/2026,en_riesgo,si
+U000166,SolInk46,24/08/2023,México,Yucatán,Mérida,20.9535,-89.5595,America/Merida,18-24,Dragón,Convenciones,Facebook,0,16,62,0,0,0.001,01/11/2026,activo,si
+U000167,YukiDash81,04/11/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Tigre,Videojuegos,Twitter/X,0,8,26,0,0,0.43,04/11/2026,activo,si
+U000168,PixelArt84,29/01/2023,México,Nuevo León,Monterrey,25.6766,-100.2474,America/Monterrey,18-24,Husky,Streaming/Contenido,TikTok,0,1,3,0,0,0.517,27/09/2026,en_riesgo,si
+U000169,MikaFang21,29/03/2022,México,Veracruz,Veracruz,19.1695,-96.1492,America/Mexico_City,18-24,Híbrido/Otro,Convenciones,Telegram,0,277,726,6,0,0.542,23/10/2026,en_riesgo,si
+U000170,NeoMoon96,12/05/2023,México,Quintana Roo,Cancún,,,America/Cancun,39+,Zorro,Cosplay,Telegram,0,5,10,0,0,0.014,29/10/2026,activo,si
+U000171,MikaFox32,15/06/2022,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Híbrido/Otro,Videojuegos,Facebook,0,10,30,4,0,1,24/10/2026,en_riesgo,si
+U000172,LunaFang49,27/11/2025,Colombia,Cundinamarca,Bogotá,4.752,-74.0229,America/Bogota,32-38,Zorro,Cosplay,Facebook,0,5,16,2,0,0.612,02/10/2026,en_riesgo,si
+U000173,BrunoWolf67,06/12/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Lobo,Cómics,Telegram,0,3,4,0,0,-0.234,21/09/2026,en_riesgo,si
+U000174,NubeZac44,25/09/2026,México,Yucatán,Mérida,21.028,-89.5914,America/Merida,25-31,Conejo,Cosplay,Twitter/X,0,12,45,2,0,0.635,02/11/2026,activo,si
+U000175,BrunoTail39,22/05/2024,México,Tabasco,Villahermosa,17.996,-92.9836,America/Mexico_City,25-31,Perro,Cómics,Facebook,0,1,3,0,0,-0.137,20/10/2026,en_riesgo,si
+U000176,LoboPaw93,18/01/2025,Perú,Lima,Lima,,,America/Lima,18-24,Perro,Streaming/Contenido,Telegram,0,42,66,0,0,0.603,07/11/2026,activo,si
+U000177,NovaHowl34,30/01/2024,México,Querétaro,Querétaro,20.6502,-100.3373,America/Mexico_City,39+,Dragón,Música,Instagram,0,0,0,0,0,0.081,06/07/2026,inactivo,si
+U000178,TalaByte33,29/05/2026,México,Jalisco,Guadalajara,20.7348,-103.3201,America/Mexico_City,25-31,Reptil,Música,Instagram,0,2,4,0,0,0.336,19/10/2026,en_riesgo,si
+U000179,RexFox22,09/01/2023,México,Nuevo León,Monterrey,25.6643,-100.3319,America/Monterrey,32-38,Zorro,Arte digital,TikTok,1,2,2,0,0,0.36,22/10/2026,en_riesgo,si
+U000180,OnixPaw4,31/12/2025,México,Tabasco,Villahermosa,,,America/Mexico_City,18-24,Reptil,Streaming/Contenido,Telegram,1,2,7,0,0,0.051,20/09/2026,en_riesgo,si
+U000181,RunePaw68,11/08/2024,México,Yucatán,Mérida,21.0148,-89.669,America/Merida,18-24,Lobo,Fursuit,Twitter/X,0,3,5,0,0,0.706,08/10/2026,en_riesgo,si
+U000182,AshFang78,02/04/2026,México,CDMX,Ciudad de México,19.3811,-99.135,America/Mexico_City,39+,Ave,Arte tradicional,Instagram,1,2,4,0,0,0.286,30/10/2026,activo,si
+U000183,NeoClaw70,05/12/2023,México,Quintana Roo,Cancún,,,America/Cancun,18-24,Husky,Música,Facebook,0,1,3,0,1,-0.486,27/09/2026,en_riesgo,no
+U000184,ZetaPelaje66,21/05/2026,México,Jalisco,Guadalajara,20.7253,-103.2834,America/Mexico_City,25-31,Zorro,Cómics,Telegram,0,0,0,0,0,0.42,19/07/2026,inactivo,si
+U000185,CobreCh'a36,02/10/2022,México,Yucatán,Mérida,21.0026,-89.6092,America/Merida,25-31,Husky,Arte tradicional,Telegram,1,0,0,0,5,-0.053,31/07/2026,inactivo,si
+U000186,RexDash46,14/01/2023,México,Quintana Roo,Cancún,,,America/Cancun,39+,Perro,Convenciones,Instagram,0,6,19,0,0,0.338,08/11/2026,activo,si
+U000187,AshKin42,20/05/2026,México,Tabasco,Villahermosa,,,America/Mexico_City,18-24,Perro,Streaming/Contenido,Telegram,0,24,62,0,0,0.12,14/09/2026,en_riesgo,si
+U000188,YukiWolf36,17/07/2026,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Zorro,Videojuegos,Discord,0,0,0,0,0,0.479,17/07/2026,inactivo,no
+U000189,PixelHowl88,22/01/2026,México,Nuevo León,Monterrey,,,America/Monterrey,32-38,Gato,Videojuegos,Telegram,0,3,10,0,0,-0.38,11/10/2026,en_riesgo,si
+U000190,NovaHowl45,27/05/2026,México,Veracruz,Veracruz,19.1969,-96.1389,America/Mexico_City,18-24,Perro,Fursuit,Twitter/X,0,3,4,6,2,0.364,05/10/2026,en_riesgo,si
+U000191,KibaFang59,27/08/2025,México,Jalisco,Guadalajara,20.6843,-103.3012,America/Mexico_City,25-31,Híbrido/Otro,Arte digital,Facebook,0,3,11,0,0,0.886,09/11/2026,activo,si
+U000192,YukiKin58,12/10/2023,México,Nuevo León,Monterrey,25.707,-100.2991,America/Monterrey,25-31,Lobo,Escritura/Historias,Telegram,0,8,23,0,1,0.019,24/10/2026,en_riesgo,si
+U000193,NovaPaw81,18/01/2024,México,Querétaro,Querétaro,20.5497,-100.4248,America/Mexico_City,18-24,Ave,Arte digital,TikTok,1,3,6,5,2,0.477,08/10/2026,en_riesgo,si
+U000194,LunaByte4,26/05/2026,México,Campeche,Campeche,,,America/Merida,18-24,Lobo,Arte tradicional,Instagram,1,8,20,1,2,0.772,01/11/2026,activo,no
+U000195,OnixClaw27,03/03/2025,México,Jalisco,Guadalajara,20.6329,-103.3504,America/Mexico_City,25-31,Gato,Arte tradicional,Facebook,1,1,2,0,2,-0.491,14/09/2026,en_riesgo,si
+U000196,YukiInk15,07/12/2024,México,Jalisco,Guadalajara,,,America/Mexico_City,32-38,Lobo,Streaming/Contenido,Discord,0,10,22,0,0,0.172,06/11/2026,activo,no
+U000197,OnixDash57,12/03/2023,México,Yucatán,Mérida,,,America/Merida,25-31,Gato,Cómics,Facebook,0,8,14,1,0,0.156,02/11/2026,activo,no
+U000198,NeoByte74,08/05/2026,México,Nuevo León,Monterrey,25.7304,-100.3555,America/Monterrey,18-24,Zorro,Videojuegos,Facebook,0,2,4,0,0,0.216,24/10/2026,en_riesgo,si
+U000199,CobreMoon18,05/02/2026,México,Yucatán,Mérida,21.0217,-89.589,America/Merida,25-31,Perro,Escritura/Historias,Twitter/X,0,6,13,2,0,0.12,30/10/2026,activo,si
+U000200,RuneHowl32,26/07/2025,Colombia,Cundinamarca,Bogotá,4.7622,-74.0321,America/Bogota,18-24,Husky,Streaming/Contenido,Telegram,0,0,0,1,0,0.213,22/07/2026,inactivo,si
+U000201,SombraInk8,02/09/2024,México,Quintana Roo,Cancún,21.2047,-86.854,America/Cancun,32-38,Reptil,Videojuegos,TikTok,0,2,4,0,0,0.233,05/10/2026,en_riesgo,si
+U000202,SolHowl46,02/07/2025,México,Yucatán,Mérida,20.911,-89.6084,America/Merida,18-24,Híbrido/Otro,Arte digital,Facebook,0,3,11,0,1,0.384,24/10/2026,en_riesgo,si
+U000203,AshKin66,21/08/2023,México,Veracruz,Veracruz,,,America/Mexico_City,18-24,Zorro,Arte digital,TikTok,1,1,1,0,2,0.273,12/10/2026,en_riesgo,no
+U000204,RexPaw19,08/02/2022,Estados Unidos,Texas,Houston,29.8383,-95.3635,America/Chicago,25-31,Perro,Arte digital,Facebook,0,8,20,2,0,0.589,24/10/2026,en_riesgo,si
+U000205,LoboInk7,24/03/2022,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,18-24,Lobo,Música,Telegram,0,2,5,0,0,0.292,08/10/2026,en_riesgo,no
+U000206,YukiInk71,22/06/2026,México,Tabasco,Villahermosa,18.0401,-92.9615,America/Mexico_City,25-31,Conejo,Música,TikTok,0,8,17,0,0,-0.136,31/10/2026,activo,si
+U000207,CobreMaya34,23/07/2022,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Coyote,Videojuegos,Facebook,0,3,8,3,0,1,03/11/2026,activo,no
+U000208,NeoByte77,12/10/2023,México,Nuevo León,Monterrey,,,America/Monterrey,25-31,Perro,Arte digital,Facebook,1,18,37,0,0,0.894,03/11/2026,activo,si
+U000209,ZetaCh'a94,02/05/2026,México,Tabasco,Villahermosa,,,America/Mexico_City,18-24,Tigre,Arte tradicional,Telegram,0,3,6,0,0,0.41,21/09/2026,en_riesgo,no
+U000210,YukiTail94,03/04/2022,México,Guanajuato,León,21.068,-101.7362,America/Mexico_City,18-24,Coyote,Streaming/Contenido,Telegram,0,39,104,0,1,-0.248,07/11/2026,activo,si
+U000211,LunaClaw53,28/07/2025,México,Tabasco,Villahermosa,,,America/Mexico_City,39+,Lobo,Streaming/Contenido,Telegram,0,12,24,0,1,-0.234,06/10/2026,en_riesgo,no
+U000212,CobreByte85,20/02/2026,México,Veracruz,Veracruz,19.1861,-96.1921,America/Mexico_City,18-24,Tigre,Streaming/Contenido,Telegram,0,0,0,0,0,1,02/09/2026,inactivo,si
+U000213,RuneHowl50,18/05/2025,México,Puebla,Puebla,,,America/Mexico_City,18-24,Zorro,Fursuit,TikTok,0,15,56,1,0,-0.067,08/11/2026,activo,si
+U000214,LoboCh'a36,20/04/2022,Colombia,Cundinamarca,Bogotá,4.6693,-74.0379,America/Bogota,18-24,Coyote,Arte digital,Twitter/X,1,0,0,1,0,0.278,04/08/2026,inactivo,si
+U000215,BrunoMaya88,08/10/2025,México,Guanajuato,León,21.0661,-101.6443,America/Mexico_City,18-24,Gato,Fursuit,Instagram,0,4,9,0,3,0.229,23/10/2026,en_riesgo,si
+U000216,CobreZac53,01/08/2022,México,CDMX,Ciudad de México,19.4645,-99.1801,America/Mexico_City,32-38,Coyote,Arte digital,Twitter/X,1,0,0,0,5,0.975,10/05/2026,inactivo,si
+U000217,FlarePaw84,09/07/2023,México,Tabasco,Villahermosa,,,America/Mexico_City,32-38,Ave,Videojuegos,Telegram,0,0,0,0,0,0.229,19/09/2026,en_riesgo,no
+U000218,BrumaCh'a91,22/09/2026,México,Querétaro,Querétaro,,,America/Mexico_City,25-31,Tigre,Escritura/Historias,Facebook,0,2,6,1,0,0.207,23/10/2026,en_riesgo,no
+U000219,TalaKin37,10/02/2026,México,Jalisco,Guadalajara,20.6309,-103.3502,America/Mexico_City,18-24,Híbrido/Otro,Fursuit,Telegram,1,3,9,0,1,0.04,19/10/2026,en_riesgo,si
+U000220,SombraZac56,21/08/2022,México,CDMX,Ciudad de México,19.4767,-99.1936,America/Mexico_City,25-31,Dragón,Arte digital,Discord,0,3,11,0,5,0.26,20/10/2026,en_riesgo,si
+U000221,NovaFang5,08/12/2025,México,Tabasco,Villahermosa,,,America/Mexico_City,18-24,Lobo,Cómics,Instagram,0,0,0,0,0,0.738,15/10/2026,en_riesgo,no
+U000222,YukiDash35,25/10/2026,México,Yucatán,Mérida,21.0301,-89.5974,America/Merida,18-24,Híbrido/Otro,Música,Facebook,0,2,7,0,0,0.253,25/10/2026,en_riesgo,si
+U000223,ZorriArt90,27/05/2023,México,CDMX,Ciudad de México,19.4343,-99.1937,America/Mexico_City,32-38,Zorro,Fursuit,Facebook,0,11,16,1,1,0.645,05/11/2026,activo,si
+U000224,LunaCh'a30,10/07/2025,Estados Unidos,California,Los Ángeles,34.0048,-118.3005,America/Los_Angeles,18-24,Coyote,Convenciones,Telegram,0,6,16,0,0,0.095,30/10/2026,activo,si
+U000225,ZorriDash36,06/05/2022,México,CDMX,Ciudad de México,19.3611,-99.0939,America/Mexico_City,18-24,Lobo,Escritura/Historias,Telegram,0,8,26,0,0,0.875,19/10/2026,en_riesgo,si
+U000226,CobreMaya90,22/09/2025,Colombia,Cundinamarca,Bogotá,,,America/Bogota,25-31,Ave,Videojuegos,Telegram,0,0,0,3,0,0.015,12/08/2026,inactivo,si
+U000227,NeoTail98,19/07/2025,México,Yucatán,Mérida,20.933,-89.6961,America/Merida,32-38,Gato,Arte digital,Instagram,1,4,11,6,5,0.37,04/11/2026,activo,si
+U000228,SolMaya3,26/12/2025,México,Baja California,Tijuana,,,America/Tijuana,25-31,Dragón,Arte digital,Twitter/X,1,5,6,0,0,1,25/09/2026,en_riesgo,no
+U000229,CobreCh'a18,08/01/2026,México,Yucatán,Mérida,21.0371,-89.6394,America/Merida,25-31,Dragón,Arte digital,Telegram,1,1,1,0,1,-0.269,20/10/2026,en_riesgo,si
+U000230,YukiTail87,07/05/2023,México,CDMX,Ciudad de México,19.4294,-99.0535,America/Mexico_City,18-24,Perro,Arte digital,Instagram,0,1,2,0,0,0.526,20/10/2026,en_riesgo,si
+U000231,ZorriZac54,20/06/2022,México,Guanajuato,León,21.1483,-101.6022,America/Mexico_City,32-38,Zorro,Cómics,Instagram,0,11,30,0,0,0.275,09/11/2026,activo,si
+U000232,LunaTail58,19/07/2022,México,Guanajuato,León,,,America/Mexico_City,32-38,Lobo,Videojuegos,Discord,0,0,0,0,0,0.031,16/01/2026,inactivo,no
+U000233,FlareMaya76,21/12/2024,Estados Unidos,Texas,Houston,29.7828,-95.386,America/Chicago,25-31,Zorro,Arte digital,TikTok,0,2,6,0,0,0.679,23/10/2026,en_riesgo,si
+U000234,OnixArt65,17/08/2025,México,Yucatán,Mérida,20.8924,-89.5716,America/Merida,18-24,Husky,Streaming/Contenido,TikTok,0,12,45,0,1,-0.654,22/10/2026,en_riesgo,si
+U000235,AshPaw69,18/12/2025,México,Veracruz,Veracruz,,,America/Mexico_City,18-24,Reptil,Convenciones,Telegram,0,11,22,1,0,0.557,06/11/2026,activo,si
+U000236,KibaFox80,21/07/2022,México,Tabasco,Villahermosa,18.0553,-92.9714,America/Mexico_City,25-31,Husky,Fursuit,Telegram,0,4,6,2,0,-0.247,22/10/2026,en_riesgo,si
+U000237,MikaWolf89,20/08/2022,México,Nuevo León,Monterrey,25.7378,-100.2588,America/Monterrey,18-24,Híbrido/Otro,Arte tradicional,Telegram,1,2,3,0,2,1,07/10/2026,en_riesgo,si
+U000238,NubeArt3,18/09/2022,México,Quintana Roo,Cancún,21.1799,-86.9084,America/Cancun,18-24,Husky,Música,TikTok,0,7,25,0,0,0.719,27/09/2026,en_riesgo,si
+U000239,KibaCh'a59,08/06/2023,Perú,Lima,Lima,-12.1236,-76.982,America/Lima,18-24,Lobo,Música,Instagram,0,2,6,0,0,0.487,18/09/2026,en_riesgo,si
+U000240,BrunoByte64,04/02/2024,Argentina,Buenos Aires,Buenos Aires,-34.6497,-58.4476,America/Argentina/Buenos_Aires,25-31,Perro,Arte digital,Telegram,0,13,20,0,5,0.493,27/10/2026,activo,si
+U000241,FlareArt30,08/05/2026,México,Tabasco,Villahermosa,18.0138,-92.8881,America/Mexico_City,18-24,Zorro,Arte digital,Facebook,1,1,1,0,5,0.557,30/09/2026,en_riesgo,si
+U000242,LunaWolf93,18/07/2025,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Perro,Arte tradicional,Facebook,1,2,5,1,2,0.714,13/09/2026,en_riesgo,no
+U000243,OnixInk1,11/10/2024,México,Oaxaca,Oaxaca,17.0305,-96.6493,America/Mexico_City,25-31,Zorro,Arte digital,Telegram,1,2,3,0,2,0.19,26/10/2026,activo,si
+U000244,MikaZac45,04/12/2022,Chile,Región Metropolitana,Santiago,,,America/Santiago,18-24,Lobo,Convenciones,Twitter/X,0,21,73,0,0,0.686,06/11/2026,activo,no
+U000245,NeoMaya35,14/04/2024,México,Nuevo León,Monterrey,,,America/Monterrey,39+,Perro,Convenciones,TikTok,1,8,9,0,0,0.302,01/11/2026,activo,no
+U000246,NeoClaw16,22/09/2025,México,Guanajuato,León,21.0577,-101.6823,America/Mexico_City,39+,Híbrido/Otro,Videojuegos,Facebook,1,2,2,0,0,-0.058,16/10/2026,en_riesgo,si
+U000247,TalaArt74,02/11/2022,México,CDMX,Ciudad de México,19.4089,-99.1643,America/Mexico_City,39+,Husky,Arte digital,Telegram,1,6,10,0,0,-0.023,07/11/2026,activo,si
+U000248,ZorriZac87,26/03/2022,México,Jalisco,Guadalajara,20.6515,-103.2707,America/Mexico_City,32-38,Dragón,Escritura/Historias,Facebook,0,0,0,0,0,0.352,17/08/2026,inactivo,si
+U000249,NovaPelaje44,12/10/2025,México,Quintana Roo,Cancún,21.2052,-86.7723,America/Cancun,25-31,Gato,Streaming/Contenido,Discord,0,9,34,0,0,0.538,07/11/2026,activo,si
+U000250,KibaPaw85,20/03/2025,México,Nuevo León,Monterrey,25.7184,-100.3279,America/Monterrey,18-24,Husky,Arte digital,Twitter/X,0,0,0,0,2,0.126,11/07/2026,inactivo,si
+U000251,YukiWolf62,06/05/2022,México,Oaxaca,Oaxaca,17.0563,-96.6986,America/Mexico_City,18-24,Tigre,Videojuegos,Telegram,0,2,6,0,0,-0.193,13/10/2026,en_riesgo,si
+U000252,BrunoHowl5,28/08/2026,Perú,Lima,Lima,-12.0979,-77.0356,America/Lima,18-24,Híbrido/Otro,Streaming/Contenido,Instagram,0,37,72,0,0,-0.228,27/10/2026,activo,si
+U000253,TalaFang22,09/06/2023,México,Campeche,Campeche,19.7971,-90.4688,America/Merida,25-31,Perro,Cosplay,TikTok,0,3,8,0,0,0.549,11/10/2026,en_riesgo,si
+U000254,NeoKin26,20/04/2022,México,Jalisco,Guadalajara,,,America/Mexico_City,25-31,Perro,Fursuit,TikTok,0,5,12,3,0,0.883,31/10/2026,activo,no
+U000255,BrumaZac49,11/03/2026,México,CDMX,Ciudad de México,19.4415,-99.1941,America/Mexico_City,25-31,Perro,Convenciones,Facebook,0,17,42,0,0,0.817,02/11/2026,activo,si
+U000256,OnixDash54,30/01/2023,México,CDMX,Ciudad de México,19.3787,-99.0831,America/Mexico_City,39+,Tigre,Fursuit,Instagram,0,0,0,2,3,0.007,29/06/2026,inactivo,si
+U000257,ZetaByte92,10/10/2024,México,Baja California,Tijuana,32.4889,-117.0967,America/Tijuana,25-31,Ave,Fursuit,Telegram,0,55,206,0,0,0.586,04/11/2026,activo,si
+U000258,KibaHowl18,31/08/2023,México,Nuevo León,Monterrey,25.7434,-100.3196,America/Monterrey,25-31,Zorro,Música,Telegram,0,11,36,6,0,0.083,05/11/2026,activo,si
+U000259,LoboKin46,20/06/2023,México,Jalisco,Guadalajara,20.7164,-103.321,America/Mexico_City,18-24,Híbrido/Otro,Cómics,Twitter/X,0,10,24,0,0,-0.003,13/10/2026,en_riesgo,si
+U000260,BrunoArt65,22/12/2024,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,25-31,Husky,Cómics,Telegram,0,3,8,0,0,0.187,08/11/2026,activo,no
+U000261,MikaZac56,05/10/2023,España,Comunidad de Madrid,Madrid,40.4615,-3.7183,Europe/Madrid,25-31,Lobo,Videojuegos,Facebook,0,24,81,0,0,0.654,31/10/2026,activo,si
+U000262,TalaHowl94,05/08/2026,México,Yucatán,Mérida,20.9092,-89.689,America/Merida,18-24,Lobo,Escritura/Historias,Facebook,0,0,0,0,0,0.175,19/08/2026,inactivo,si
+U000263,NubeByte65,28/09/2025,México,Quintana Roo,Cancún,,,America/Cancun,18-24,Zorro,Videojuegos,Discord,0,14,24,0,0,0.28,29/09/2026,en_riesgo,si
+U000264,ÁmbarSpark58,10/07/2026,México,Jalisco,Guadalajara,20.7055,-103.4028,America/Mexico_City,18-24,Dragón,Fursuit,Telegram,0,9,34,0,3,0.556,03/11/2026,activo,si
+U000265,RunePaw60,21/05/2026,México,Yucatán,Mérida,20.9104,-89.6563,America/Merida,18-24,Zorro,Escritura/Historias,Telegram,0,5,18,0,0,0.306,06/11/2026,activo,si
+U000266,ÁmbarMoon40,05/07/2022,México,Quintana Roo,Cancún,21.1329,-86.8321,America/Cancun,25-31,Zorro,Fursuit,Telegram,0,10,33,0,0,0.493,28/10/2026,activo,si
+U000267,NeoPelaje17,04/12/2025,Colombia,Cundinamarca,Bogotá,4.7264,-74.144,America/Bogota,18-24,Husky,Arte digital,Telegram,0,8,10,0,2,0.167,29/10/2026,activo,si
+U000268,MikaMaya20,24/07/2024,México,Nuevo León,Monterrey,25.6954,-100.3574,America/Monterrey,18-24,Perro,Convenciones,Instagram,0,0,0,2,0,0.64,08/03/2026,inactivo,si
+U000269,ZorriZac65,26/05/2025,México,Jalisco,Guadalajara,20.7247,-103.3816,America/Mexico_City,25-31,Tigre,Escritura/Historias,Instagram,0,2,4,0,0,0.369,05/10/2026,en_riesgo,si
+U000270,SolPaw65,01/10/2024,Chile,Región Metropolitana,Santiago,-33.3879,-70.6274,America/Santiago,18-24,Ave,Streaming/Contenido,Discord,0,0,0,0,0,-0.306,15/09/2026,en_riesgo,si
+U000271,LoboClaw60,20/03/2025,México,Campeche,Campeche,19.848,-90.542,America/Merida,25-31,Tigre,Arte digital,Telegram,0,0,0,0,1,0.304,08/08/2026,inactivo,si
+U000272,FlareWolf45,27/11/2023,Estados Unidos,California,Los Ángeles,33.9849,-118.1922,America/Los_Angeles,25-31,Lobo,Convenciones,Telegram,0,3,7,0,0,-0.113,27/10/2026,activo,si
+U000273,NubeMoon76,18/04/2022,México,Quintana Roo,Cancún,21.2113,-86.8485,America/Cancun,18-24,Reptil,Cosplay,Twitter/X,1,0,0,0,0,-0.101,22/08/2026,inactivo,si
+U000274,SombraMoon75,16/01/2026,México,Campeche,Campeche,19.8364,-90.5873,America/Merida,18-24,Perro,Arte digital,Instagram,1,12,18,1,1,0.475,04/11/2026,activo,si
+U000275,YukiMaya13,02/02/2026,México,CDMX,Ciudad de México,19.4934,-99.1942,America/Mexico_City,18-24,Híbrido/Otro,Escritura/Historias,Instagram,0,0,0,0,0,0.601,05/09/2026,inactivo,si
+U000276,NovaPaw97,24/02/2023,Chile,Región Metropolitana,Santiago,-33.4304,-70.6858,America/Santiago,25-31,Reptil,Videojuegos,Facebook,0,10,20,0,0,-0.17,07/11/2026,activo,si
+U000277,LoboClaw13,12/10/2025,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Zorro,Streaming/Contenido,TikTok,0,0,0,1,0,-0.062,14/01/2026,inactivo,si
+U000278,SolArt87,25/09/2025,México,Jalisco,Guadalajara,20.6325,-103.3802,America/Mexico_City,18-24,Tigre,Videojuegos,Telegram,0,11,20,0,0,0.248,09/11/2026,activo,si
+U000279,KuroClaw47,09/04/2025,México,CDMX,Ciudad de México,19.4814,-99.0842,America/Mexico_City,18-24,Híbrido/Otro,Videojuegos,Instagram,0,0,0,0,0,0.564,08/09/2026,inactivo,si
+U000280,YukiHowl65,08/04/2024,México,CDMX,Ciudad de México,19.4026,-99.0562,America/Mexico_City,18-24,Coyote,Arte digital,TikTok,1,1,1,0,1,0.547,19/10/2026,en_riesgo,si
+U000281,PixelSpark21,27/07/2024,México,Jalisco,Guadalajara,20.7412,-103.3751,America/Mexico_City,18-24,Ave,Arte tradicional,Instagram,1,28,93,0,3,0.166,30/10/2026,activo,si
+U000282,KuroMoon29,04/05/2026,México,Nuevo León,Monterrey,25.6243,-100.3386,America/Monterrey,25-31,Dragón,Videojuegos,Facebook,0,19,41,0,0,0.002,29/10/2026,activo,si
+U000283,MikaByte22,06/06/2026,México,Yucatán,Mérida,,,America/Merida,39+,Husky,Videojuegos,Discord,0,16,35,0,1,0.097,09/11/2026,activo,no
+U000284,ZorriArt55,30/09/2024,México,Puebla,Puebla,18.9892,-98.1203,America/Mexico_City,25-31,Zorro,Cosplay,Instagram,0,0,0,1,0,0.162,18/10/2026,en_riesgo,si
+U000285,RexSpark35,06/03/2023,México,CDMX,Ciudad de México,19.4723,-99.1334,America/Mexico_City,25-31,Lobo,Arte digital,Instagram,1,14,42,0,0,-0.094,08/11/2026,activo,si
+U000286,BrunoDash74,07/02/2024,Colombia,Cundinamarca,Bogotá,4.7619,-74.0089,America/Bogota,32-38,Coyote,Streaming/Contenido,Instagram,0,0,0,0,1,0.261,05/09/2026,inactivo,si
+U000287,LunaCh'a14,19/08/2022,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Reptil,Arte digital,Twitter/X,1,9,20,2,2,0.235,31/10/2026,activo,no
+U000288,TalaArt44,05/02/2025,México,Puebla,Puebla,19.0908,-98.172,America/Mexico_City,18-24,Ave,Videojuegos,Facebook,0,0,0,1,0,0.057,01/09/2026,inactivo,si
+U000289,AshPaw19,26/11/2023,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Perro,Convenciones,Twitter/X,0,0,0,0,0,0.299,05/01/2026,inactivo,no
+U000290,ZetaFox41,04/01/2024,México,CDMX,Ciudad de México,19.4132,-99.1847,America/Mexico_City,32-38,Dragón,Videojuegos,Telegram,0,6,16,0,1,0.071,06/11/2026,activo,si
+U000291,RexHowl18,03/10/2026,México,Baja California,Tijuana,,,America/Tijuana,25-31,Conejo,Videojuegos,Telegram,0,3,8,0,0,-0.753,03/10/2026,en_riesgo,si
+U000292,KuroPelaje69,28/04/2024,Chile,Región Metropolitana,Santiago,,,America/Santiago,18-24,Zorro,Arte digital,Telegram,1,31,43,0,0,0.345,15/10/2026,en_riesgo,no
+U000293,AshFox60,07/10/2022,México,CDMX,Ciudad de México,19.5036,-99.1856,America/Mexico_City,25-31,Coyote,Convenciones,Twitter/X,0,3,9,0,1,0.52,04/10/2026,en_riesgo,si
+U000294,MikaTail54,03/05/2024,México,CDMX,Ciudad de México,19.4896,-99.1628,America/Mexico_City,25-31,Lobo,Fursuit,Twitter/X,0,0,0,2,5,0.094,02/07/2026,inactivo,si
+U000295,FlareFang18,28/01/2023,México,Jalisco,Guadalajara,20.6763,-103.3835,America/Mexico_City,18-24,Perro,Cómics,Telegram,0,3,11,0,0,0.025,30/10/2026,activo,si
+U000296,SolDash25,02/05/2024,México,Querétaro,Querétaro,20.5898,-100.3495,America/Mexico_City,18-24,Zorro,Streaming/Contenido,TikTok,0,8,13,0,0,0.433,31/10/2026,activo,si
+U000297,MikaPelaje64,25/12/2022,México,Nuevo León,Monterrey,25.7298,-100.3127,America/Monterrey,25-31,Híbrido/Otro,Cómics,Twitter/X,0,0,0,0,0,0.07,22/10/2026,en_riesgo,si
+U000298,AshCh'a66,22/07/2025,México,Yucatán,Mérida,21.0168,-89.634,America/Merida,39+,Zorro,Arte tradicional,Telegram,0,12,35,0,0,0.146,09/11/2026,activo,si
+U000299,MikaKin24,27/11/2023,México,Tabasco,Villahermosa,17.9867,-92.8772,America/Mexico_City,18-24,Perro,Fursuit,Telegram,0,0,0,1,0,-0.152,04/09/2026,inactivo,si
+U000300,NovaKin33,21/01/2022,México,CDMX,Ciudad de México,,,America/Mexico_City,32-38,Husky,Convenciones,Telegram,0,8,25,0,0,-0.112,03/11/2026,activo,si
+U000301,SolClaw26,10/05/2024,México,CDMX,Ciudad de México,19.4738,-99.1077,America/Mexico_City,18-24,Zorro,Cómics,Telegram,0,6,22,0,0,-0.131,25/10/2026,en_riesgo,si
+U000302,FlareWolf95,28/10/2026,México,Nuevo León,Monterrey,25.641,-100.3373,America/Monterrey,18-24,Lobo,Música,Discord,0,3,5,0,0,0.243,28/10/2026,activo,si
+U000303,FlareCh'a67,24/11/2025,México,Querétaro,Querétaro,20.6614,-100.4602,America/Mexico_City,18-24,Lobo,Escritura/Historias,Telegram,0,0,0,0,0,0.513,21/07/2026,inactivo,si
+U000304,KibaPaw12,04/07/2024,México,CDMX,Ciudad de México,19.3903,-99.1974,America/Mexico_City,25-31,Perro,Música,Facebook,0,19,68,0,0,0.263,08/11/2026,activo,si
+U000305,OnixDash28,11/04/2026,México,Querétaro,Querétaro,20.6446,-100.3987,America/Mexico_City,18-24,Coyote,Música,Facebook,0,2,2,0,0,0.052,01/11/2026,activo,si
+U000306,ZetaMaya53,01/06/2025,México,Jalisco,Guadalajara,20.6015,-103.2842,America/Mexico_City,18-24,Híbrido/Otro,Cosplay,Facebook,0,2,2,4,0,0.727,13/10/2026,en_riesgo,si
+U000307,OnixClaw3,16/06/2024,Perú,Lima,Lima,-12.0184,-77.0424,America/Lima,18-24,Husky,Arte tradicional,Telegram,1,0,0,0,3,0.134,28/04/2026,inactivo,si
+U000308,PixelSpark54,02/11/2026,México,CDMX,Ciudad de México,19.4457,-99.0987,America/Mexico_City,18-24,Gato,Convenciones,Telegram,0,17,67,0,0,0.048,05/11/2026,activo,si
+U000309,NeoPaw22,18/09/2023,México,CDMX,Ciudad de México,19.4067,-99.0794,America/Mexico_City,18-24,Tigre,Música,Facebook,0,0,0,0,0,-0.116,01/09/2026,inactivo,si
+U000310,NovaDash65,23/11/2025,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,18-24,Gato,Convenciones,TikTok,0,15,47,2,0,-0.026,28/10/2026,activo,no
+U000311,CobreByte38,07/11/2023,México,Jalisco,Guadalajara,20.721,-103.3696,America/Mexico_City,25-31,Ave,Escritura/Historias,Telegram,1,4,5,0,0,0.206,05/11/2026,activo,si
+U000312,ZorriPelaje32,28/04/2023,México,Jalisco,Guadalajara,20.6357,-103.2802,America/Mexico_City,32-38,Dragón,Convenciones,TikTok,0,0,0,1,0,0.348,25/06/2026,inactivo,si
+U000313,ÁmbarDash85,25/04/2026,México,CDMX,Ciudad de México,19.4393,-99.1043,America/Mexico_City,18-24,Conejo,Música,Instagram,0,7,15,0,0,0.215,08/11/2026,activo,si
+U000314,NovaZac52,26/10/2024,México,Baja California,Tijuana,32.5754,-117.0511,America/Tijuana,25-31,Conejo,Videojuegos,TikTok,0,0,0,0,0,0.334,15/01/2026,inactivo,si
+U000315,YukiFox47,26/01/2026,México,Tabasco,Villahermosa,18.0252,-92.9698,America/Mexico_City,18-24,Coyote,Videojuegos,TikTok,0,2,5,0,0,0.348,09/11/2026,activo,si
+U000316,TalaClaw97,08/07/2024,México,Puebla,Puebla,18.9616,-98.2461,America/Mexico_City,18-24,Dragón,Cómics,TikTok,0,5,12,0,0,0.022,12/10/2026,en_riesgo,si
+U000317,BrumaCh'a63,24/05/2022,México,Baja California,Tijuana,32.4707,-116.9888,America/Tijuana,32-38,Husky,Arte digital,Twitter/X,1,0,0,0,2,0.281,08/09/2026,inactivo,si
+U000318,YukiHowl45,01/12/2025,México,CDMX,Ciudad de México,19.4079,-99.0817,America/Mexico_City,39+,Perro,Arte tradicional,Instagram,0,2,4,2,0,0.31,22/10/2026,en_riesgo,si
+U000319,NubeFang59,14/05/2026,España,Comunidad de Madrid,Madrid,40.3429,-3.6657,Europe/Madrid,18-24,Gato,Cómics,Telegram,0,5,7,0,0,0.665,18/10/2026,en_riesgo,si
+U000320,MikaCh'a78,23/02/2026,México,Yucatán,Mérida,,,America/Merida,18-24,Reptil,Arte digital,Instagram,1,3,5,0,2,-0.268,26/10/2026,activo,no
+U000321,CobreFox28,23/06/2025,México,Yucatán,Mérida,20.9701,-89.6265,America/Merida,25-31,Perro,Videojuegos,Facebook,0,10,38,0,0,0.03,17/10/2026,en_riesgo,si
+U000322,KuroClaw39,05/10/2023,México,Yucatán,Mérida,20.9947,-89.6612,America/Merida,18-24,Ave,Cosplay,Telegram,0,1,2,1,0,-0.156,20/09/2026,en_riesgo,si
+U000323,FlareFang70,14/08/2023,México,Yucatán,Mérida,20.9748,-89.6338,America/Merida,18-24,Dragón,Arte digital,Twitter/X,1,17,27,0,3,0.346,08/11/2026,activo,si
+U000324,SolMoon45,21/08/2024,México,Veracruz,Veracruz,19.14,-96.1039,America/Mexico_City,39+,Gato,Cosplay,Instagram,0,8,31,1,0,-0.065,17/10/2026,en_riesgo,si
+U000325,BrumaFang99,10/08/2026,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Gato,Streaming/Contenido,Telegram,0,2,6,0,0,0.981,25/10/2026,en_riesgo,no
+U000326,LunaTail13,06/09/2022,México,Nuevo León,Monterrey,25.6936,-100.3424,America/Monterrey,18-24,Zorro,Escritura/Historias,Facebook,0,0,0,0,0,-0.289,15/08/2026,inactivo,si
+U000327,BrunoPelaje17,09/07/2024,España,Comunidad de Madrid,Madrid,40.4919,-3.728,Europe/Madrid,18-24,Husky,Convenciones,Telegram,0,8,30,0,0,0.027,07/11/2026,activo,si
+U000328,LunaClaw40,14/04/2023,Argentina,Buenos Aires,Buenos Aires,-34.5532,-58.321,America/Argentina/Buenos_Aires,32-38,Híbrido/Otro,Cosplay,TikTok,0,0,0,0,0,-0.053,14/08/2026,inactivo,si
+U000329,SolZac54,05/07/2022,México,Yucatán,Mérida,20.9503,-89.6153,America/Merida,32-38,Tigre,Videojuegos,Facebook,0,48,100,0,0,0.283,09/11/2026,activo,si
+U000330,AshHowl12,06/04/2025,México,Querétaro,Querétaro,20.5967,-100.372,America/Mexico_City,39+,Híbrido/Otro,Videojuegos,Facebook,0,0,0,0,0,0.466,21/10/2026,en_riesgo,si
+U000331,LunaClaw92,04/05/2024,México,Nuevo León,Monterrey,25.6329,-100.3146,America/Monterrey,18-24,Zorro,Escritura/Historias,Facebook,0,3,5,0,0,0.2,07/10/2026,en_riesgo,si
+U000332,ÁmbarPelaje34,01/01/2022,México,Yucatán,Mérida,,,America/Merida,32-38,Gato,Convenciones,Telegram,0,3,8,4,0,0.602,04/11/2026,activo,no
+U000333,FlareTail54,28/10/2025,México,Baja California,Tijuana,32.494,-116.9727,America/Tijuana,32-38,Perro,Streaming/Contenido,Twitter/X,0,10,35,0,0,-0.406,26/10/2026,activo,si
+U000334,RuneKin52,10/09/2025,México,Campeche,Campeche,19.7981,-90.5094,America/Merida,25-31,Conejo,Fursuit,Telegram,0,1,2,1,2,0.019,23/10/2026,en_riesgo,si
+U000335,NovaKin49,01/03/2022,México,Puebla,Puebla,,,America/Mexico_City,18-24,Híbrido/Otro,Cómics,Facebook,0,8,28,0,0,0.254,28/10/2026,activo,si
+U000336,RuneMaya19,16/07/2024,México,Jalisco,Guadalajara,20.5968,-103.3924,America/Mexico_City,25-31,Perro,Videojuegos,Facebook,0,0,0,0,0,0.206,06/01/2026,inactivo,si
+U000337,KuroHowl68,25/01/2025,México,Yucatán,Mérida,20.9228,-89.5418,America/Merida,18-24,Perro,Música,Facebook,0,0,0,0,0,0.293,13/04/2026,inactivo,si
+U000338,RexPelaje3,11/08/2023,México,Quintana Roo,Cancún,21.0949,-86.9184,America/Cancun,25-31,Gato,Streaming/Contenido,TikTok,1,0,0,0,0,0.675,05/09/2026,inactivo,si
+U000339,KibaByte49,18/04/2024,México,Nuevo León,Monterrey,25.6527,-100.2756,America/Monterrey,18-24,Lobo,Arte tradicional,Facebook,0,2,6,1,5,-0.209,24/10/2026,en_riesgo,si
+U000340,KuroMoon32,11/03/2026,México,Nuevo León,Monterrey,25.6903,-100.2563,America/Monterrey,18-24,Lobo,Arte tradicional,Telegram,1,4,13,0,0,0.805,25/10/2026,en_riesgo,si
+U000341,PixelFang92,28/11/2025,México,Jalisco,Guadalajara,20.645,-103.2954,America/Mexico_City,32-38,Coyote,Escritura/Historias,Twitter/X,0,1,1,0,0,0.598,26/09/2026,en_riesgo,si
+U000342,NovaMaya88,25/02/2022,México,CDMX,Ciudad de México,19.492,-99.1525,America/Mexico_City,18-24,Lobo,Convenciones,Telegram,0,0,0,0,0,0.299,11/08/2026,inactivo,si
+U000343,ZetaTail19,17/06/2025,México,Nuevo León,Monterrey,25.6379,-100.2552,America/Monterrey,18-24,Perro,Música,TikTok,0,3,6,5,0,-0.238,17/10/2026,en_riesgo,si
+U000344,LunaByte6,18/08/2024,Perú,Lima,Lima,-12.004,-77.0414,America/Lima,25-31,Híbrido/Otro,Streaming/Contenido,Instagram,0,0,0,0,0,-0.215,07/03/2026,inactivo,si
+U000345,BrumaDash99,20/02/2026,México,Baja California,Tijuana,32.497,-116.9776,America/Tijuana,18-24,Coyote,Videojuegos,TikTok,0,1,2,0,0,0.63,02/10/2026,en_riesgo,si
+U000346,NubePaw80,17/12/2023,México,Puebla,Puebla,19.0943,-98.2656,America/Mexico_City,18-24,Lobo,Videojuegos,Telegram,0,0,0,0,0,0.62,21/08/2026,inactivo,si
+U000347,CobreClaw51,08/08/2022,México,Oaxaca,Oaxaca,17.0001,-96.7573,America/Mexico_City,18-24,Conejo,Fursuit,Telegram,0,0,0,4,0,0.568,16/07/2026,inactivo,si
+U000348,ZorriArt7,14/04/2024,México,Baja California,Tijuana,,,America/Tijuana,25-31,Zorro,Videojuegos,Telegram,0,2,3,0,0,0.857,19/10/2026,en_riesgo,si
+U000349,LunaInk69,30/06/2026,México,Jalisco,Guadalajara,20.6313,-103.3222,America/Mexico_City,18-24,Conejo,Cómics,Facebook,0,0,0,0,0,0.362,30/06/2026,inactivo,si
+U000350,NubePelaje88,22/06/2022,México,Yucatán,Mérida,21.0282,-89.5406,America/Merida,25-31,Reptil,Escritura/Historias,Telegram,0,8,20,1,0,0.884,05/11/2026,activo,si
+U000351,OnixWolf8,06/11/2022,España,Comunidad de Madrid,Madrid,40.3735,-3.6508,Europe/Madrid,18-24,Reptil,Escritura/Historias,Facebook,0,0,0,0,0,-0.075,10/08/2026,inactivo,si
+U000352,ÁmbarTail24,13/02/2023,Estados Unidos,California,Los Ángeles,33.9998,-118.2464,America/Los_Angeles,18-24,Dragón,Streaming/Contenido,Facebook,0,2,6,1,0,0.129,29/10/2026,activo,si
+U000353,ZorriFang8,30/11/2025,México,Yucatán,Mérida,20.9094,-89.5608,America/Merida,39+,Perro,Videojuegos,Telegram,0,0,0,0,1,-0.056,16/03/2026,inactivo,si
+U000354,RuneCh'a63,15/01/2026,México,Querétaro,Querétaro,20.5283,-100.4349,America/Mexico_City,18-24,Gato,Arte tradicional,Facebook,1,0,0,0,1,0.61,15/01/2026,inactivo,si
+U000355,KuroFox35,14/02/2026,México,Querétaro,Querétaro,,,America/Mexico_City,25-31,Conejo,Streaming/Contenido,Telegram,0,0,0,0,0,0.03,01/09/2026,inactivo,no
+U000356,BrumaFang22,21/07/2022,México,Nuevo León,Monterrey,,,America/Monterrey,25-31,Gato,Cómics,Telegram,1,9,17,0,0,0.071,30/10/2026,activo,no
+U000357,AshKin94,29/06/2023,México,Campeche,Campeche,,,America/Merida,18-24,Coyote,Arte digital,Discord,1,0,0,0,2,-0.141,04/09/2026,inactivo,si
+U000358,BrumaFang34,11/07/2025,México,Chihuahua,Chihuahua,28.5953,-106.1432,America/Chihuahua,25-31,Husky,Escritura/Historias,Facebook,0,13,29,0,1,0.508,06/11/2026,activo,si
+U000359,BrunoKin93,30/10/2024,México,Yucatán,Mérida,20.9839,-89.68,America/Merida,25-31,Gato,Videojuegos,Facebook,0,1,1,0,0,0.573,11/10/2026,en_riesgo,si
+U000360,PixelClaw88,22/08/2025,México,Jalisco,Guadalajara,,,America/Mexico_City,25-31,Husky,Música,TikTok,0,4,12,0,0,0.646,09/11/2026,activo,no
+U000361,SolHowl56,09/04/2023,México,Nuevo León,Monterrey,25.6092,-100.2911,America/Monterrey,18-24,Perro,Videojuegos,Telegram,0,9,27,0,0,0.63,12/10/2026,en_riesgo,si
+U000362,RuneArt6,30/01/2026,México,Campeche,Campeche,19.8565,-90.4503,America/Merida,25-31,Zorro,Escritura/Historias,Telegram,0,3,4,0,0,0.374,17/10/2026,en_riesgo,si
+U000363,OnixCh'a45,24/04/2023,México,CDMX,Ciudad de México,19.4422,-99.1757,America/Mexico_City,25-31,Gato,Arte digital,Instagram,1,2,4,0,0,-0.411,09/10/2026,en_riesgo,si
+U000364,NubeDash36,12/07/2022,México,Baja California,Tijuana,32.4805,-117.075,America/Tijuana,25-31,Zorro,Cosplay,Telegram,0,3,8,1,0,0.317,17/09/2026,en_riesgo,si
+U000365,ZorriArt77,11/01/2026,México,Guanajuato,León,21.0814,-101.617,America/Mexico_City,25-31,Conejo,Videojuegos,Telegram,0,0,0,0,0,0.373,05/06/2026,inactivo,si
+U000366,SolKin99,24/08/2024,México,CDMX,Ciudad de México,19.3861,-99.085,America/Mexico_City,32-38,Híbrido/Otro,Arte tradicional,Twitter/X,1,9,26,0,1,0.266,19/09/2026,en_riesgo,si
+U000367,ÁmbarTail43,11/01/2025,México,Guanajuato,León,21.1057,-101.6311,America/Mexico_City,18-24,Lobo,Arte digital,Instagram,1,2,5,0,0,-0.133,01/11/2026,activo,si
+U000368,RuneWolf5,23/10/2026,Estados Unidos,California,Los Ángeles,34.0481,-118.2935,America/Los_Angeles,18-24,Husky,Videojuegos,Instagram,0,29,63,0,0,0.155,23/10/2026,en_riesgo,si
+U000369,KuroCh'a8,14/07/2023,México,Baja California,Tijuana,,,America/Tijuana,18-24,Tigre,Cómics,Telegram,0,0,0,0,0,0.284,04/07/2026,inactivo,no
+U000370,SombraByte79,10/04/2025,México,Campeche,Campeche,19.8381,-90.5616,America/Merida,39+,Perro,Arte digital,TikTok,1,0,0,0,0,0.465,13/05/2026,inactivo,si
+U000371,OnixHowl69,11/02/2023,México,Yucatán,Mérida,,,America/Merida,18-24,Lobo,Arte digital,TikTok,1,2,6,1,1,-0.687,26/10/2026,activo,no
+U000372,CobreArt30,22/04/2023,México,Yucatán,Mérida,,,America/Merida,18-24,Zorro,Fursuit,Telegram,0,9,32,1,5,0.573,08/11/2026,activo,no
+U000373,ZetaDash32,29/09/2023,México,Campeche,Campeche,19.8494,-90.4627,America/Merida,18-24,Perro,Arte digital,Telegram,0,2,6,0,1,0.591,04/11/2026,activo,si
+U000374,ÁmbarKin3,17/12/2022,Chile,Región Metropolitana,Santiago,,,America/Santiago,18-24,Ave,Videojuegos,Telegram,0,0,0,0,0,0.427,01/09/2026,inactivo,no
+U000375,NovaMoon14,14/07/2026,México,CDMX,Ciudad de México,19.4848,-99.1213,America/Mexico_City,39+,Coyote,Videojuegos,TikTok,0,18,26,0,1,0.481,03/11/2026,activo,si
+U000376,BrumaInk54,01/11/2024,México,Nuevo León,Monterrey,25.6882,-100.2371,America/Monterrey,25-31,Reptil,Cosplay,TikTok,0,4,6,0,0,0.473,01/11/2026,activo,si
+U000377,TalaCh'a73,12/08/2023,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,18-24,Lobo,Escritura/Historias,Instagram,0,3,7,0,0,0.196,30/09/2026,en_riesgo,no
+U000378,YukiPelaje77,09/05/2026,Estados Unidos,California,Los Ángeles,34.0051,-118.2038,America/Los_Angeles,18-24,Coyote,Convenciones,Telegram,0,0,0,3,0,0.08,09/05/2026,inactivo,si
+U000379,TalaCh'a19,14/11/2024,México,Puebla,Puebla,,,America/Mexico_City,39+,Zorro,Arte digital,Telegram,1,0,0,0,5,-0.268,01/11/2025,inactivo,no
+U000380,CobreInk46,19/10/2022,México,Nuevo León,Monterrey,25.6283,-100.3662,America/Monterrey,25-31,Dragón,Videojuegos,Facebook,0,12,27,0,0,-0.468,08/11/2026,activo,si
+U000381,KuroSpark32,01/11/2024,México,Yucatán,Mérida,,,America/Merida,25-31,Zorro,Arte tradicional,Twitter/X,1,9,31,0,3,0.782,27/10/2026,activo,no
+U000382,SolInk32,28/02/2026,México,Jalisco,Guadalajara,20.7333,-103.3501,America/Mexico_City,18-24,Husky,Cómics,Telegram,0,10,38,0,0,0.435,07/11/2026,activo,si
+U000383,NovaSpark26,10/02/2024,México,Puebla,Puebla,19.0154,-98.2517,America/Mexico_City,32-38,Perro,Escritura/Historias,TikTok,0,3,6,0,0,0.175,22/10/2026,en_riesgo,si
+U000384,KuroMaya32,09/11/2023,México,Nuevo León,Monterrey,25.6725,-100.3573,America/Monterrey,32-38,Coyote,Videojuegos,TikTok,1,3,3,2,1,0.218,09/11/2026,activo,si
+U000385,KibaClaw22,02/03/2025,México,Quintana Roo,Cancún,,,America/Cancun,32-38,Híbrido/Otro,Fursuit,TikTok,1,4,8,2,0,0.272,02/11/2026,activo,si
+U000386,AshByte31,19/05/2025,México,Nuevo León,Monterrey,25.6645,-100.2611,America/Monterrey,18-24,Conejo,Cosplay,Instagram,0,11,25,1,0,0.697,07/11/2026,activo,si
+U000387,NeoPaw59,03/04/2026,México,Baja California,Tijuana,32.5859,-116.9815,America/Tijuana,18-24,Lobo,Arte digital,TikTok,1,6,20,0,5,-0.768,28/10/2026,activo,si
+U000388,ÁmbarArt55,10/06/2025,México,Baja California,Tijuana,32.4627,-117.0579,America/Tijuana,18-24,Zorro,Fursuit,Instagram,0,0,0,2,5,-0.029,05/04/2026,inactivo,si
+U000389,CobreKin72,01/12/2025,Colombia,Cundinamarca,Bogotá,4.7496,-74.0123,America/Bogota,39+,Híbrido/Otro,Arte digital,Discord,0,0,0,0,0,0.237,26/08/2026,inactivo,si
+U000390,NeoMoon97,09/10/2026,México,Guanajuato,León,21.1971,-101.6425,America/Mexico_City,18-24,Perro,Arte digital,Telegram,0,2,4,0,5,0.306,28/10/2026,activo,si
+U000391,BrumaByte89,10/10/2026,México,CDMX,Ciudad de México,19.4886,-99.0705,America/Mexico_City,18-24,Zorro,Fursuit,Facebook,0,4,7,0,0,0.052,24/10/2026,en_riesgo,si
+U000392,RuneHowl14,08/03/2024,México,Querétaro,Querétaro,,,America/Mexico_City,39+,Perro,Streaming/Contenido,Telegram,0,2,6,0,0,-0.245,05/11/2026,activo,no
+U000393,YukiDash47,18/06/2023,México,Veracruz,Veracruz,,,America/Mexico_City,18-24,Dragón,Arte digital,Facebook,1,0,0,0,0,0.026,11/08/2026,inactivo,no
+U000394,NeoTail75,23/08/2025,México,Yucatán,Mérida,,,America/Merida,18-24,Zorro,Arte tradicional,TikTok,1,4,8,0,5,-0.227,14/10/2026,en_riesgo,no
+U000395,NubePelaje79,18/07/2023,México,Nuevo León,Monterrey,25.6034,-100.2593,America/Monterrey,18-24,Zorro,Arte digital,Twitter/X,1,3,8,0,5,0.707,31/10/2026,activo,si
+U000396,SolMoon14,13/05/2026,México,Yucatán,Mérida,,,America/Merida,32-38,Ave,Streaming/Contenido,Discord,0,6,18,5,0,0.769,18/10/2026,en_riesgo,no
+U000397,NubeMaya62,19/12/2023,México,Quintana Roo,Cancún,21.2069,-86.8035,America/Cancun,32-38,Gato,Streaming/Contenido,Facebook,0,0,0,0,0,0.568,12/07/2026,inactivo,si
+U000398,NovaMaya6,26/08/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Gato,Convenciones,Discord,0,0,0,0,0,0.013,06/10/2026,en_riesgo,no
+U000399,SolCh'a45,12/09/2023,México,Baja California,Tijuana,,,America/Tijuana,25-31,Perro,Convenciones,TikTok,0,2,3,1,0,0.507,30/09/2026,en_riesgo,si
+U000400,LunaZac85,08/08/2024,México,CDMX,Ciudad de México,19.3794,-99.1565,America/Mexico_City,18-24,Dragón,Videojuegos,Telegram,0,4,15,0,0,0.112,25/10/2026,en_riesgo,si
+U000401,ZetaPelaje99,12/02/2023,México,Yucatán,Mérida,20.9427,-89.6713,America/Merida,32-38,Reptil,Música,Telegram,0,3,8,0,0,0.362,07/11/2026,activo,si
+U000402,ZetaSpark68,14/05/2026,Chile,Región Metropolitana,Santiago,,,America/Santiago,25-31,Husky,Streaming/Contenido,Facebook,0,0,0,0,0,0.384,01/06/2026,inactivo,si
+U000403,BrunoFox32,21/07/2023,México,Jalisco,Guadalajara,20.6957,-103.3022,America/Mexico_City,18-24,Husky,Convenciones,Facebook,0,0,0,1,0,0.669,31/10/2025,inactivo,si
+U000404,ÁmbarArt67,25/10/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Lobo,Convenciones,TikTok,0,0,0,3,0,0.23,25/08/2026,inactivo,no
+U000405,AshWolf67,11/05/2026,México,CDMX,Ciudad de México,19.441,-99.0994,America/Mexico_City,25-31,Conejo,Videojuegos,Discord,0,12,17,0,0,0.026,26/10/2026,activo,si
+U000406,CobreFox24,01/07/2026,México,Yucatán,Mérida,21.0251,-89.5946,America/Merida,39+,Tigre,Videojuegos,Discord,0,1,2,0,0,0.527,19/10/2026,en_riesgo,si
+U000407,TalaZac82,27/09/2025,México,Puebla,Puebla,19.0605,-98.1608,America/Mexico_City,25-31,Conejo,Cosplay,TikTok,0,6,15,0,1,-0.002,06/11/2026,activo,si
+U000408,NeoMaya3,01/09/2026,México,Yucatán,Mérida,20.9081,-89.6674,America/Merida,39+,Ave,Cómics,Instagram,0,4,13,0,1,0.166,30/10/2026,activo,si
+U000409,AshWolf54,12/07/2023,México,Chihuahua,Chihuahua,28.7049,-106.0957,America/Chihuahua,32-38,Híbrido/Otro,Arte tradicional,Telegram,1,4,12,0,3,0.548,25/10/2026,en_riesgo,si
+U000410,SombraByte34,04/11/2024,México,Campeche,Campeche,,,America/Merida,18-24,Gato,Convenciones,Instagram,0,30,47,2,0,-0.319,02/11/2026,activo,no
+U000411,AshDash99,02/07/2026,México,Jalisco,Guadalajara,20.7332,-103.334,America/Mexico_City,39+,Gato,Arte tradicional,Discord,0,12,36,0,1,0.242,02/11/2026,activo,si
+U000412,PixelWolf43,09/02/2025,México,CDMX,Ciudad de México,19.4536,-99.1041,America/Mexico_City,25-31,Gato,Videojuegos,Facebook,0,5,18,0,0,0.361,15/09/2026,en_riesgo,si
+U000413,BrunoSpark24,28/09/2023,Colombia,Cundinamarca,Bogotá,,,America/Bogota,18-24,Lobo,Fursuit,Facebook,0,4,11,1,0,0.19,25/09/2026,en_riesgo,no
+U000414,NeoTail53,08/12/2024,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Híbrido/Otro,Streaming/Contenido,Discord,0,3,8,0,0,0.059,05/11/2026,activo,no
+U000415,FlareKin89,27/03/2025,México,Yucatán,Mérida,,,America/Merida,25-31,Zorro,Escritura/Historias,Telegram,0,1,1,0,0,0.672,15/09/2026,en_riesgo,si
+U000416,NeoCh'a80,11/07/2026,México,Puebla,Puebla,19.107,-98.1815,America/Mexico_City,25-31,Husky,Arte tradicional,Discord,1,0,0,0,0,-0.052,11/07/2026,inactivo,si
+U000417,FlareArt38,29/06/2024,México,Baja California,Tijuana,,,America/Tijuana,25-31,Zorro,Convenciones,Facebook,0,1,2,0,0,-0.045,30/09/2026,en_riesgo,no
+U000418,AshZac61,01/04/2026,México,Yucatán,Mérida,21.05,-89.6401,America/Merida,18-24,Lobo,Cosplay,Instagram,0,0,0,2,0,0.768,01/04/2026,inactivo,si
+U000419,ZorriZac44,20/08/2022,México,CDMX,Ciudad de México,19.4127,-99.0913,America/Mexico_City,25-31,Coyote,Streaming/Contenido,Facebook,0,2,4,0,0,0.362,15/10/2026,en_riesgo,si
+U000420,KuroWolf25,25/04/2025,México,Querétaro,Querétaro,20.6624,-100.3753,America/Mexico_City,18-24,Zorro,Arte digital,Discord,1,3,9,0,0,0.568,01/11/2026,activo,si
+U000421,OnixArt5,03/11/2023,Colombia,Cundinamarca,Bogotá,4.7824,-73.997,America/Bogota,25-31,Dragón,Cómics,Facebook,0,0,0,0,0,0.415,06/09/2026,inactivo,si
+U000422,BrunoHowl74,24/03/2026,México,Jalisco,Guadalajara,20.6594,-103.3954,America/Mexico_City,25-31,Zorro,Arte tradicional,Facebook,1,0,0,0,1,0.329,30/08/2026,inactivo,si
+U000423,LoboPaw71,02/12/2025,México,Quintana Roo,Cancún,21.1168,-86.8708,America/Cancun,18-24,Husky,Streaming/Contenido,TikTok,1,0,0,0,0,0.289,17/08/2026,inactivo,si
+U000424,KuroCh'a50,20/01/2024,México,CDMX,Ciudad de México,19.4885,-99.1752,America/Mexico_City,18-24,Perro,Arte digital,Facebook,1,0,0,0,5,-0.166,29/06/2026,inactivo,si
+U000425,ZorriTail59,08/09/2026,México,Veracruz,Veracruz,19.2335,-96.1169,America/Mexico_City,18-24,Zorro,Videojuegos,Discord,0,4,13,0,0,0.614,17/10/2026,en_riesgo,si
+U000426,ZetaMoon23,27/07/2022,México,CDMX,Ciudad de México,19.4643,-99.0678,America/Mexico_City,25-31,Híbrido/Otro,Arte tradicional,Twitter/X,1,0,0,0,2,0.184,03/03/2026,inactivo,si
+U000427,OnixPelaje27,20/07/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Híbrido/Otro,Escritura/Historias,Telegram,0,0,0,0,0,0.242,09/10/2026,en_riesgo,no
+U000428,MikaCh'a77,09/05/2026,México,CDMX,Ciudad de México,19.5064,-99.1478,America/Mexico_City,18-24,Perro,Videojuegos,Telegram,0,5,9,0,0,-0.252,25/10/2026,en_riesgo,si
+U000429,NeoCh'a19,10/02/2026,México,Puebla,Puebla,,,America/Mexico_City,25-31,Zorro,Arte digital,Facebook,0,44,152,0,0,0.389,09/11/2026,activo,si
+U000430,NeoMaya9,23/12/2025,Colombia,Cundinamarca,Bogotá,,,America/Bogota,18-24,Conejo,Convenciones,Telegram,0,4,4,3,0,0.496,27/10/2026,activo,si
+U000431,BrumaClaw87,09/07/2024,México,CDMX,Ciudad de México,19.3955,-99.1824,America/Mexico_City,18-24,Coyote,Arte digital,Telegram,1,0,0,0,0,0.25,16/10/2026,en_riesgo,si
+U000432,SolPaw44,24/09/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Lobo,Escritura/Historias,TikTok,0,4,8,0,0,-0.092,09/10/2026,en_riesgo,si
+U000433,YukiTail63,06/06/2023,Colombia,Cundinamarca,Bogotá,4.6398,-74.1332,America/Bogota,25-31,Coyote,Streaming/Contenido,Twitter/X,0,0,0,0,0,0.462,29/09/2026,en_riesgo,si
+U000434,BrunoArt44,26/02/2026,México,Oaxaca,Oaxaca,,,America/Mexico_City,25-31,Coyote,Streaming/Contenido,Facebook,0,2,7,5,0,0.089,25/10/2026,en_riesgo,no
+U000435,ÁmbarKin42,19/12/2023,España,Comunidad de Madrid,Madrid,40.4618,-3.7419,Europe/Madrid,18-24,Perro,Streaming/Contenido,Telegram,0,0,0,1,0,0.673,01/08/2026,inactivo,si
+U000436,SombraFox18,02/11/2025,México,Yucatán,Mérida,20.962,-89.6017,America/Merida,18-24,Perro,Arte digital,Twitter/X,1,21,77,0,3,-0.134,26/10/2026,activo,si
+U000437,SombraTail79,22/08/2025,México,Jalisco,Guadalajara,20.5976,-103.3248,America/Mexico_City,18-24,Conejo,Cosplay,TikTok,0,2,2,1,0,0.274,28/09/2026,en_riesgo,si
+U000438,TalaFang62,05/12/2025,Estados Unidos,California,Los Ángeles,34.0655,-118.1718,America/Los_Angeles,32-38,Coyote,Streaming/Contenido,Instagram,0,3,4,1,0,0.104,15/10/2026,en_riesgo,si
+U000439,CobreInk44,11/04/2023,México,Oaxaca,Oaxaca,,,America/Mexico_City,18-24,Híbrido/Otro,Arte digital,Telegram,1,4,13,0,3,0.725,10/10/2026,en_riesgo,si
+U000440,NubeDash18,08/06/2024,México,CDMX,Ciudad de México,19.5039,-99.0624,America/Mexico_City,32-38,Perro,Escritura/Historias,Telegram,0,5,8,0,0,-0.042,21/10/2026,en_riesgo,si
+U000441,AshFang51,12/04/2026,México,CDMX,Ciudad de México,19.3624,-99.188,America/Mexico_City,25-31,Reptil,Videojuegos,Telegram,0,1,2,1,0,0.256,15/10/2026,en_riesgo,si
+U000442,FlareKin52,03/03/2026,México,CDMX,Ciudad de México,19.3615,-99.0545,America/Mexico_City,25-31,Conejo,Arte digital,Twitter/X,1,6,17,0,0,0.1,31/10/2026,activo,si
+U000443,ZorriSpark99,02/04/2025,México,Yucatán,Mérida,20.9933,-89.5819,America/Merida,25-31,Ave,Streaming/Contenido,Telegram,0,4,7,0,0,0.359,09/10/2026,en_riesgo,si
+U000444,AshDash18,29/05/2025,Chile,Región Metropolitana,Santiago,-33.4471,-70.6212,America/Santiago,32-38,Lobo,Videojuegos,TikTok,0,3,8,0,0,-0.074,15/10/2026,en_riesgo,si
+U000445,KibaZac84,11/11/2022,México,Puebla,Puebla,18.9654,-98.1341,America/Mexico_City,18-24,Coyote,Arte digital,Facebook,1,0,0,0,0,-0.075,13/10/2026,en_riesgo,si
+U000446,RuneFang27,03/08/2024,México,Tabasco,Villahermosa,,,America/Mexico_City,32-38,Perro,Streaming/Contenido,Twitter/X,0,3,8,0,0,0.228,05/10/2026,en_riesgo,no
+U000447,LoboKin89,04/02/2025,México,Jalisco,Guadalajara,20.662,-103.277,America/Mexico_City,25-31,Híbrido/Otro,Arte tradicional,Instagram,1,4,5,0,0,0.28,10/09/2026,en_riesgo,si
+U000448,FlarePelaje65,14/01/2026,México,CDMX,Ciudad de México,19.4716,-99.0934,America/Mexico_City,18-24,Conejo,Escritura/Historias,Twitter/X,0,4,14,0,0,-0.597,21/10/2026,en_riesgo,si
+U000449,NovaPelaje66,02/05/2022,Chile,Región Metropolitana,Santiago,-33.4109,-70.6857,America/Santiago,25-31,Tigre,Videojuegos,Telegram,0,0,0,0,0,0.255,10/12/2025,inactivo,si
+U000450,CobreFang99,09/02/2025,México,Oaxaca,Oaxaca,17.0677,-96.7311,America/Mexico_City,25-31,Zorro,Videojuegos,Telegram,0,0,0,0,0,0.305,26/06/2026,inactivo,si
+U000451,FlareMaya3,14/01/2025,México,Querétaro,Querétaro,20.5334,-100.4626,America/Mexico_City,18-24,Lobo,Streaming/Contenido,Twitter/X,0,3,9,0,0,-0.035,06/10/2026,en_riesgo,si
+U000452,AshHowl85,04/03/2025,Perú,Lima,Lima,-12.1014,-77.025,America/Lima,18-24,Zorro,Cosplay,Facebook,0,2,6,1,0,-0.004,18/10/2026,en_riesgo,si
+U000453,NeoWolf48,03/09/2026,México,Oaxaca,Oaxaca,,,America/Mexico_City,18-24,Ave,Cómics,Twitter/X,0,32,58,0,0,0.353,06/10/2026,en_riesgo,si
+U000454,ZorriArt76,23/07/2022,México,Tabasco,Villahermosa,17.9774,-92.9927,America/Mexico_City,18-24,Ave,Fursuit,Facebook,1,1,2,0,3,0.534,20/10/2026,en_riesgo,si
+U000455,AshTail99,12/03/2026,México,Nuevo León,Monterrey,25.6399,-100.2581,America/Monterrey,25-31,Coyote,Arte digital,Twitter/X,0,4,10,0,1,0.331,14/09/2026,en_riesgo,si
+U000456,LoboFox9,08/09/2023,México,Quintana Roo,Cancún,,,America/Cancun,25-31,Dragón,Arte tradicional,Telegram,1,21,55,0,2,0.475,30/10/2026,activo,si
+U000457,CobreHowl31,31/03/2025,México,Jalisco,Guadalajara,,,America/Mexico_City,32-38,Perro,Convenciones,Telegram,0,2,6,0,0,0.151,23/10/2026,en_riesgo,si
+U000458,ZetaKin20,19/11/2025,México,Yucatán,Mérida,20.9826,-89.5557,America/Merida,25-31,Husky,Convenciones,Telegram,0,5,14,0,0,-0.296,28/10/2026,activo,si
+U000459,TalaHowl41,18/10/2022,México,Guanajuato,León,21.1717,-101.6315,America/Mexico_City,25-31,Híbrido/Otro,Streaming/Contenido,Instagram,0,4,10,0,1,0.362,16/10/2026,en_riesgo,si
+U000460,LunaByte96,25/05/2025,México,Puebla,Puebla,19.0645,-98.2598,America/Mexico_City,18-24,Zorro,Música,Telegram,0,28,78,0,0,0.223,03/10/2026,en_riesgo,si
+U000461,RuneByte24,10/05/2026,México,CDMX,Ciudad de México,19.4534,-99.2087,America/Mexico_City,18-24,Perro,Arte tradicional,Telegram,1,3,9,0,0,0.507,14/10/2026,en_riesgo,si
+U000462,NeoTail29,30/04/2025,México,CDMX,Ciudad de México,19.4005,-99.1877,America/Mexico_City,25-31,Zorro,Fursuit,Facebook,0,0,0,3,1,0.432,22/11/2025,inactivo,si
+U000463,PixelPaw54,23/05/2022,Estados Unidos,California,Los Ángeles,,,America/Los_Angeles,18-24,Husky,Música,Instagram,0,1,2,1,0,0.583,19/09/2026,en_riesgo,no
+U000464,CobreCh'a42,05/09/2023,México,Jalisco,Guadalajara,20.6231,-103.2999,America/Mexico_City,25-31,Husky,Música,TikTok,0,0,0,0,0,0.432,04/09/2026,inactivo,si
+U000465,LoboClaw12,24/09/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Husky,Fursuit,Telegram,0,8,15,0,1,0.216,06/11/2026,activo,no
+U000466,RunePaw71,30/06/2024,México,Quintana Roo,Cancún,21.1087,-86.9066,America/Cancun,25-31,Híbrido/Otro,Convenciones,Instagram,0,6,14,5,0,0.382,11/10/2026,en_riesgo,si
+U000467,SombraByte19,07/07/2025,México,Jalisco,Guadalajara,20.7317,-103.317,America/Mexico_City,18-24,Dragón,Streaming/Contenido,Telegram,0,0,0,0,0,0.203,06/09/2026,inactivo,si
+U000468,LunaClaw59,03/02/2024,Argentina,Buenos Aires,Buenos Aires,-34.5892,-58.4098,America/Argentina/Buenos_Aires,18-24,Tigre,Convenciones,Facebook,0,6,14,0,0,0.192,02/11/2026,activo,si
+U000469,LunaTail73,27/06/2023,México,CDMX,Ciudad de México,19.4367,-99.0733,America/Mexico_City,18-24,Híbrido/Otro,Escritura/Historias,Facebook,0,4,6,0,0,-0.12,21/10/2026,en_riesgo,si
+U000470,NubeFang33,05/05/2026,Argentina,Buenos Aires,Buenos Aires,-34.6082,-58.3935,America/Argentina/Buenos_Aires,18-24,Conejo,Cómics,TikTok,0,3,7,0,0,-0.04,02/11/2026,activo,si
+U000471,RexFang40,12/06/2026,México,CDMX,Ciudad de México,19.5087,-99.1652,America/Mexico_City,18-24,Dragón,Fursuit,Facebook,0,35,75,1,3,0.453,28/10/2026,activo,si
+U000472,TalaMaya95,28/06/2026,México,Jalisco,Guadalajara,20.7057,-103.4182,America/Mexico_City,39+,Perro,Streaming/Contenido,Facebook,0,3,7,0,0,0.364,23/10/2026,en_riesgo,si
+U000473,TalaSpark42,21/02/2023,México,Tabasco,Villahermosa,18.0264,-92.943,America/Mexico_City,18-24,Husky,Escritura/Historias,Instagram,0,4,12,0,0,0.177,18/10/2026,en_riesgo,si
+U000474,LunaInk39,14/03/2024,México,Tabasco,Villahermosa,17.9342,-92.9919,America/Mexico_City,18-24,Híbrido/Otro,Convenciones,Telegram,0,13,45,1,0,0.198,08/11/2026,activo,si
+U000475,NubeDash32,25/08/2024,México,Nuevo León,Monterrey,25.7172,-100.3647,America/Monterrey,39+,Perro,Streaming/Contenido,Discord,0,5,10,0,0,-0.018,23/10/2026,en_riesgo,si
+U000476,TalaArt93,14/02/2025,México,Baja California,Tijuana,32.5133,-117.024,America/Tijuana,25-31,Ave,Cosplay,Telegram,0,2,5,0,1,-0.341,31/10/2026,activo,si
+U000477,PixelPaw20,08/07/2023,México,Guanajuato,León,21.1082,-101.7198,America/Mexico_City,18-24,Coyote,Cómics,Facebook,0,25,57,0,0,0.064,30/10/2026,activo,si
+U000478,ÁmbarHowl87,24/04/2026,Colombia,Cundinamarca,Bogotá,4.6487,-74.0437,America/Bogota,25-31,Gato,Arte tradicional,TikTok,1,2,3,0,0,0.421,10/10/2026,en_riesgo,si
+U000479,NovaClaw36,04/06/2024,México,Oaxaca,Oaxaca,17.1167,-96.7505,America/Mexico_City,25-31,Gato,Cosplay,TikTok,0,2,3,0,0,0.174,25/10/2026,en_riesgo,si
+U000480,MikaInk6,19/02/2025,México,CDMX,Ciudad de México,19.3589,-99.1174,America/Mexico_City,25-31,Husky,Cómics,Instagram,1,6,18,0,0,0.508,11/10/2026,en_riesgo,si
+U000481,NeoCh'a21,31/08/2023,México,Campeche,Campeche,19.8213,-90.4704,America/Merida,18-24,Lobo,Arte tradicional,Facebook,1,0,0,0,1,-0.339,08/09/2026,inactivo,si
+U000482,BrunoDash93,23/11/2023,España,Comunidad de Madrid,Madrid,,,Europe/Madrid,18-24,Zorro,Videojuegos,Instagram,0,0,0,0,1,0.593,25/12/2025,inactivo,no
+U000483,KibaMoon44,27/06/2026,México,Nuevo León,Monterrey,25.7485,-100.2829,America/Monterrey,25-31,Husky,Convenciones,Instagram,0,311,600,0,0,0.215,20/09/2026,en_riesgo,si
+U000484,FlarePelaje89,10/07/2023,México,CDMX,Ciudad de México,19.4545,-99.0632,America/Mexico_City,32-38,Perro,Convenciones,Telegram,0,7,9,2,0,-0.107,03/11/2026,activo,si
+U000485,TalaMaya62,19/08/2022,México,CDMX,Ciudad de México,19.477,-99.116,America/Mexico_City,18-24,Híbrido/Otro,Fursuit,TikTok,0,0,0,0,0,0.367,14/04/2026,inactivo,si
+U000486,LunaSpark1,17/05/2025,México,Yucatán,Mérida,20.9367,-89.5726,America/Merida,18-24,Zorro,Escritura/Historias,Facebook,0,41,107,0,1,-0.096,08/11/2026,activo,si
+U000487,RexMaya75,17/09/2023,México,Baja California,Tijuana,32.4625,-117.0514,America/Tijuana,32-38,Conejo,Arte digital,Instagram,1,13,27,0,5,0.547,30/10/2026,activo,si
+U000488,BrunoZac35,13/06/2024,México,Nuevo León,Monterrey,25.6048,-100.3438,America/Monterrey,18-24,Dragón,Arte digital,Instagram,0,0,0,0,0,0.154,27/02/2026,inactivo,si
+U000489,NubeClaw94,12/08/2025,México,Guanajuato,León,21.0834,-101.7056,America/Mexico_City,25-31,Lobo,Fursuit,Discord,0,9,13,1,2,0.538,28/10/2026,activo,si
+U000490,OnixSpark22,23/09/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Lobo,Convenciones,Telegram,0,3,6,3,0,0.35,07/11/2026,activo,si
+U000491,OnixZac50,20/01/2026,México,Guanajuato,León,21.1315,-101.6286,America/Mexico_City,18-24,Lobo,Convenciones,Facebook,0,0,0,0,1,0.343,28/07/2026,inactivo,si
+U000492,LoboTail49,21/11/2025,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Zorro,Escritura/Historias,Instagram,0,0,0,3,1,0.391,10/03/2026,inactivo,no
+U000493,CobreClaw90,23/02/2024,México,Puebla,Puebla,19.0344,-98.1941,America/Mexico_City,18-24,Tigre,Música,Telegram,0,1,1,0,0,0.349,19/09/2026,en_riesgo,si
+U000494,LoboHowl10,24/08/2023,Argentina,Buenos Aires,Buenos Aires,-34.6507,-58.4555,America/Argentina/Buenos_Aires,25-31,Lobo,Videojuegos,Telegram,0,1,1,0,0,0.237,23/10/2026,en_riesgo,si
+U000495,SolCh'a75,13/07/2026,México,Jalisco,Guadalajara,20.7457,-103.3103,America/Mexico_City,18-24,Lobo,Arte digital,Telegram,1,127,406,0,1,0.469,02/11/2026,activo,si
+U000496,KibaSpark10,31/07/2024,México,Tabasco,Villahermosa,18.054,-92.988,America/Mexico_City,25-31,Lobo,Videojuegos,Facebook,0,19,40,0,1,0.883,09/11/2026,activo,si
+U000497,AshWolf31,21/02/2023,México,Jalisco,Guadalajara,20.638,-103.3989,America/Mexico_City,25-31,Perro,Videojuegos,Facebook,0,0,0,0,0,0.083,04/02/2026,inactivo,si
+U000498,ZetaArt15,03/11/2023,México,Yucatán,Mérida,21.0041,-89.6381,America/Merida,25-31,Lobo,Arte tradicional,Telegram,1,2,3,0,5,0.304,04/10/2026,en_riesgo,si
+U000499,BrunoHowl71,05/08/2026,México,Querétaro,Querétaro,20.612,-100.4447,America/Mexico_City,25-31,Ave,Convenciones,Telegram,1,0,0,1,0,0.8,18/08/2026,inactivo,si
+U000500,ZetaKin77,18/01/2024,México,Jalisco,Guadalajara,20.6871,-103.4227,America/Mexico_City,18-24,Zorro,Streaming/Contenido,Telegram,0,3,11,0,0,0.373,13/10/2026,en_riesgo,si
+U000501,ZorriClaw73,02/01/2023,México,CDMX,Ciudad de México,19.4866,-99.0985,America/Mexico_City,25-31,Gato,Fursuit,Telegram,0,6,15,1,2,-0.169,05/11/2026,activo,si
+U000502,YukiMaya34,04/07/2024,México,Tabasco,Villahermosa,17.9298,-92.9381,America/Mexico_City,18-24,Ave,Arte tradicional,Instagram,1,1,1,0,5,-0.232,30/09/2026,en_riesgo,si
+U000503,RuneCh'a86,29/08/2022,México,Yucatán,Mérida,21.0372,-89.5468,America/Merida,39+,Perro,Streaming/Contenido,Facebook,0,5,10,1,0,0.525,01/11/2026,activo,si
+U000504,TalaPelaje66,12/03/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Lobo,Escritura/Historias,Discord,0,6,9,0,0,0.128,21/10/2026,en_riesgo,no
+U000505,ÁmbarClaw56,07/05/2023,Argentina,Buenos Aires,Buenos Aires,-34.6185,-58.3958,America/Argentina/Buenos_Aires,32-38,Perro,Convenciones,Twitter/X,0,21,63,0,0,0.391,30/10/2026,activo,si
+U000506,RuneMaya7,25/04/2024,México,CDMX,Ciudad de México,19.3725,-99.2025,America/Mexico_City,25-31,Zorro,Escritura/Historias,Telegram,0,1,2,0,0,0.19,18/09/2026,en_riesgo,si
+U000507,OnixCh'a14,05/05/2024,México,Quintana Roo,Cancún,21.2146,-86.8645,America/Cancun,25-31,Zorro,Fursuit,TikTok,0,37,95,0,2,0.114,30/10/2026,activo,si
+U000508,OnixFang26,25/02/2025,Estados Unidos,California,Los Ángeles,34.0283,-118.31,America/Los_Angeles,32-38,Lobo,Arte digital,Telegram,0,7,26,2,0,0.166,29/10/2026,activo,si
+U000509,NovaFox23,21/08/2025,México,CDMX,Ciudad de México,19.439,-99.0502,America/Mexico_City,18-24,Zorro,Cómics,Facebook,0,2,7,0,0,0.264,25/10/2026,en_riesgo,si
+U000510,SolSpark8,13/11/2023,México,Tabasco,Villahermosa,18.008,-92.9671,America/Mexico_City,25-31,Lobo,Arte digital,Facebook,1,5,6,0,0,0.486,08/11/2026,activo,si
+U000511,YukiClaw11,12/06/2025,Perú,Lima,Lima,-11.99,-77.0517,America/Lima,18-24,Gato,Música,Telegram,0,7,24,2,0,0.669,29/10/2026,activo,si
+U000512,AshClaw23,18/04/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Perro,Arte digital,Instagram,0,0,0,0,0,0.562,07/06/2026,inactivo,no
+U000513,OnixFox57,29/10/2024,México,Nuevo León,Monterrey,25.7387,-100.2321,America/Monterrey,25-31,Dragón,Streaming/Contenido,Facebook,0,9,11,0,0,0.573,27/10/2026,activo,si
+U000514,BrunoInk89,15/03/2023,México,Querétaro,Querétaro,20.5978,-100.44,America/Mexico_City,18-24,Dragón,Arte digital,TikTok,1,1,2,0,0,0.211,20/10/2026,en_riesgo,si
+U000515,FlareWolf36,18/09/2024,México,Nuevo León,Monterrey,,,America/Monterrey,18-24,Gato,Convenciones,Facebook,0,3,8,0,0,0.311,04/11/2026,activo,no
+U000516,RexMoon22,07/04/2023,España,Comunidad de Madrid,Madrid,40.3628,-3.6855,Europe/Madrid,18-24,Conejo,Arte tradicional,Instagram,1,19,31,0,1,0.188,26/10/2026,activo,si
+U000517,LoboFox71,02/05/2026,México,Puebla,Puebla,19.1179,-98.1933,America/Mexico_City,25-31,Coyote,Arte digital,Facebook,1,13,29,0,3,-0.266,05/11/2026,activo,si
+U000518,ÁmbarArt3,13/12/2023,México,Yucatán,Mérida,21.0424,-89.6,America/Merida,18-24,Tigre,Arte digital,Telegram,0,1,3,0,2,0.138,19/09/2026,en_riesgo,si
+U000519,ÁmbarZac4,27/05/2024,México,Nuevo León,Monterrey,25.7003,-100.3516,America/Monterrey,18-24,Gato,Videojuegos,Telegram,1,2,4,0,0,0.426,23/10/2026,en_riesgo,si
+U000520,SolMaya13,03/08/2025,México,Nuevo León,Monterrey,25.6588,-100.2312,America/Monterrey,25-31,Conejo,Videojuegos,Telegram,0,0,0,0,0,0.289,18/01/2026,inactivo,si
+U000521,CobreHowl11,07/05/2023,México,Baja California,Tijuana,,,America/Tijuana,32-38,Gato,Arte digital,Telegram,1,13,45,0,0,0.32,14/10/2026,en_riesgo,si
+U000522,ZorriClaw41,26/08/2023,México,Guanajuato,León,21.1742,-101.7205,America/Mexico_City,18-24,Dragón,Arte digital,Telegram,0,5,7,0,3,0.363,28/10/2026,activo,si
+U000523,NeoFox68,29/06/2025,Perú,Lima,Lima,-12.034,-76.9891,America/Lima,32-38,Perro,Cómics,Instagram,0,16,23,3,0,0.415,02/11/2026,activo,si
+U000524,SolMoon53,16/02/2024,México,Yucatán,Mérida,20.9559,-89.6934,America/Merida,25-31,Conejo,Cosplay,Telegram,0,2,4,1,0,0.264,24/09/2026,en_riesgo,si
+U000525,NubeWolf52,14/07/2023,México,Jalisco,Guadalajara,20.5952,-103.4192,America/Mexico_City,25-31,Híbrido/Otro,Arte tradicional,Twitter/X,1,1,2,0,0,0.978,16/10/2026,en_riesgo,si
+U000526,NubeTail93,03/04/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Perro,Fursuit,Facebook,0,3,4,0,0,-0.058,03/10/2026,en_riesgo,si
+U000527,KuroMaya45,08/04/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Zorro,Convenciones,Telegram,0,0,0,0,0,0.28,24/07/2026,inactivo,si
+U000528,ÁmbarInk3,26/07/2023,México,Guanajuato,León,21.0602,-101.6282,America/Mexico_City,18-24,Gato,Escritura/Historias,Facebook,0,4,12,1,0,0.598,11/10/2026,en_riesgo,si
+U000529,SolWolf69,20/10/2023,México,CDMX,Ciudad de México,19.3761,-99.0981,America/Mexico_City,25-31,Perro,Cosplay,Facebook,0,10,23,2,0,0.221,31/10/2026,activo,si
+U000530,KuroCh'a56,16/12/2022,Estados Unidos,Texas,Houston,,,America/Chicago,18-24,Lobo,Videojuegos,Discord,0,3,11,0,0,0.813,25/10/2026,en_riesgo,no
+U000531,NubeZac45,25/05/2024,Chile,Región Metropolitana,Santiago,-33.5062,-70.7417,America/Santiago,18-24,Híbrido/Otro,Cómics,Twitter/X,0,0,0,0,0,0.344,24/10/2026,en_riesgo,si
+U000532,RuneCh'a77,22/04/2026,México,Baja California,Tijuana,32.502,-117.0319,America/Tijuana,25-31,Híbrido/Otro,Fursuit,Telegram,0,0,0,0,2,0.455,17/08/2026,inactivo,si
+U000533,TalaHowl74,24/11/2022,Estados Unidos,California,Los Ángeles,33.9915,-118.3071,America/Los_Angeles,18-24,Perro,Fursuit,Telegram,0,14,37,2,0,0.052,30/10/2026,activo,si
+U000534,RexFox71,14/04/2023,México,CDMX,Ciudad de México,19.3923,-99.1385,America/Mexico_City,18-24,Zorro,Streaming/Contenido,Telegram,0,3,10,0,0,-0.032,11/09/2026,en_riesgo,si
+U000535,CobreTail28,31/05/2024,Colombia,Cundinamarca,Bogotá,,,America/Bogota,18-24,Zorro,Música,Telegram,0,17,49,0,0,0.12,30/10/2026,activo,no
+U000536,RexDash61,25/09/2024,México,Yucatán,Mérida,20.995,-89.6782,America/Merida,18-24,Husky,Escritura/Historias,TikTok,0,7,20,0,0,0.593,09/11/2026,activo,si
+U000537,CobreClaw73,25/04/2023,México,Querétaro,Querétaro,20.58,-100.3569,America/Mexico_City,25-31,Híbrido/Otro,Arte digital,Telegram,1,42,144,0,0,-0.322,31/10/2026,activo,si
+U000538,FlareArt6,10/07/2024,Argentina,Buenos Aires,Buenos Aires,-34.5279,-58.3247,America/Argentina/Buenos_Aires,18-24,Zorro,Música,TikTok,0,9,21,0,1,0.706,01/11/2026,activo,si
+U000539,ZetaPelaje73,14/09/2022,Estados Unidos,California,Los Ángeles,34.0824,-118.2867,America/Los_Angeles,32-38,Dragón,Streaming/Contenido,Facebook,0,0,0,0,1,0.25,05/09/2026,inactivo,si
+U000540,OnixMoon38,15/09/2025,México,Quintana Roo,Cancún,,,America/Cancun,25-31,Gato,Arte digital,TikTok,1,4,10,0,5,-0.096,19/10/2026,en_riesgo,no
+U000541,BrumaDash88,27/06/2026,México,Nuevo León,Monterrey,25.7472,-100.3664,America/Monterrey,18-24,Tigre,Cómics,Twitter/X,0,1,2,0,0,0.401,05/10/2026,en_riesgo,si
+U000542,NeoArt36,12/10/2023,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Husky,Arte tradicional,Telegram,1,0,0,0,1,0.409,02/04/2026,inactivo,no
+U000543,BrumaArt37,15/11/2025,México,Veracruz,Veracruz,,,America/Mexico_City,18-24,Zorro,Videojuegos,Facebook,0,30,46,0,0,0.867,27/10/2026,activo,si
+U000544,PixelInk4,20/07/2024,México,Tabasco,Villahermosa,,,America/Mexico_City,18-24,Gato,Escritura/Historias,Discord,0,7,9,0,0,0.697,29/10/2026,activo,si
+U000545,KibaPelaje51,08/03/2025,México,Querétaro,Querétaro,20.6588,-100.4488,America/Mexico_City,32-38,Reptil,Streaming/Contenido,Facebook,0,0,0,0,0,0.216,01/02/2026,inactivo,si
+U000546,RexTail75,27/09/2024,México,Nuevo León,Monterrey,25.6682,-100.298,America/Monterrey,32-38,Lobo,Videojuegos,Facebook,0,0,0,0,0,0.451,16/10/2025,inactivo,si
+U000547,ÁmbarZac78,18/03/2022,México,CDMX,Ciudad de México,19.5096,-99.1969,America/Mexico_City,18-24,Dragón,Arte digital,Telegram,1,0,0,0,0,-0.086,20/11/2025,inactivo,si
+U000548,CobreDash91,09/07/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Híbrido/Otro,Arte digital,Telegram,1,2,2,0,5,0.711,09/10/2026,en_riesgo,no
+U000549,FlareKin41,01/07/2026,México,Yucatán,Mérida,20.9148,-89.6705,America/Merida,39+,Híbrido/Otro,Convenciones,Discord,0,0,0,4,0,0.008,01/07/2026,inactivo,si
+U000550,AshByte61,17/07/2023,México,CDMX,Ciudad de México,19.4801,-99.0906,America/Mexico_City,25-31,Gato,Música,TikTok,0,2,3,2,0,0.477,18/10/2026,en_riesgo,si
+U000551,ZetaFox20,12/07/2023,México,CDMX,Ciudad de México,19.4019,-99.1325,America/Mexico_City,25-31,Coyote,Cómics,Facebook,0,4,14,0,0,0.539,14/10/2026,en_riesgo,si
+U000552,YukiPelaje89,25/12/2024,México,Yucatán,Mérida,20.9996,-89.5569,America/Merida,18-24,Zorro,Videojuegos,Facebook,0,9,24,0,0,0.879,12/10/2026,en_riesgo,si
+U000553,BrunoFang85,03/02/2025,Estados Unidos,Texas,Houston,29.7294,-95.445,America/Chicago,18-24,Ave,Cómics,TikTok,0,29,54,0,0,-0.076,26/10/2026,activo,si
+U000554,NeoMoon11,20/08/2023,México,CDMX,Ciudad de México,19.3922,-99.177,America/Mexico_City,25-31,Perro,Cómics,Instagram,0,19,27,1,0,-0.392,15/09/2026,en_riesgo,si
+U000555,RexFox44,08/12/2025,México,Yucatán,Mérida,,,America/Merida,25-31,Lobo,Escritura/Historias,TikTok,0,0,0,0,0,0.051,24/08/2026,inactivo,si
+U000556,PixelHowl2,09/02/2023,México,Puebla,Puebla,19.1072,-98.1318,America/Mexico_City,32-38,Híbrido/Otro,Escritura/Historias,Instagram,0,0,0,0,0,0.285,25/03/2026,inactivo,si
+U000557,ZorriWolf43,06/12/2023,México,CDMX,Ciudad de México,19.4689,-99.1551,America/Mexico_City,32-38,Dragón,Cómics,Discord,0,4,12,0,0,0.452,05/11/2026,activo,si
+U000558,BrumaInk87,19/09/2025,México,Quintana Roo,Cancún,21.227,-86.83,America/Cancun,18-24,Lobo,Convenciones,TikTok,0,11,41,0,0,0.254,28/10/2026,activo,si
+U000559,NubeKin64,27/09/2023,México,Nuevo León,Monterrey,25.671,-100.3307,America/Monterrey,39+,Gato,Cómics,Telegram,0,0,0,0,0,-0.242,06/05/2026,inactivo,si
+U000560,SombraFang76,31/10/2022,Estados Unidos,Texas,Houston,29.7861,-95.314,America/Chicago,18-24,Híbrido/Otro,Cómics,Facebook,0,0,0,0,0,0.35,02/08/2026,inactivo,si
+U000561,KibaByte66,17/10/2024,México,Yucatán,Mérida,20.9801,-89.675,America/Merida,25-31,Lobo,Arte tradicional,Discord,1,15,42,0,0,0.736,09/11/2026,activo,si
+U000562,KuroFang83,01/04/2025,México,Tabasco,Villahermosa,17.9732,-92.8848,America/Mexico_City,18-24,Dragón,Arte digital,Discord,1,0,0,0,2,0.424,20/04/2026,inactivo,si
+U000563,KibaTail19,06/04/2025,México,Yucatán,Mérida,20.9146,-89.5829,America/Merida,25-31,Lobo,Escritura/Historias,Telegram,0,0,0,0,0,-0.255,11/08/2026,inactivo,si
+U000564,AshByte47,19/01/2024,México,CDMX,Ciudad de México,19.4592,-99.1374,America/Mexico_City,25-31,Híbrido/Otro,Cosplay,Instagram,0,8,21,2,0,0.375,08/11/2026,activo,si
+U000565,CobreMoon85,19/05/2026,México,Guanajuato,León,21.0723,-101.6166,America/Mexico_City,32-38,Perro,Arte digital,Discord,1,3,4,0,0,-0.144,30/09/2026,en_riesgo,si
+U000566,FlareInk93,26/11/2025,México,Guanajuato,León,21.0926,-101.6831,America/Mexico_City,18-24,Gato,Streaming/Contenido,Instagram,0,4,7,0,0,0.275,06/11/2026,activo,si
+U000567,PixelHowl41,31/10/2025,México,Quintana Roo,Cancún,21.1605,-86.7974,America/Cancun,18-24,Dragón,Streaming/Contenido,Telegram,0,10,20,0,0,0.368,03/11/2026,activo,si
+U000568,LunaClaw2,06/10/2026,México,CDMX,Ciudad de México,19.3503,-99.1643,America/Mexico_City,18-24,Lobo,Videojuegos,Facebook,0,7,10,0,0,0.725,27/10/2026,activo,si
+U000569,ZetaCh'a53,31/01/2024,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Conejo,Cómics,Facebook,0,3,8,0,0,0.12,10/09/2026,en_riesgo,si
+U000570,NovaHowl4,30/04/2023,México,CDMX,Ciudad de México,19.3839,-99.1656,America/Mexico_City,25-31,Conejo,Streaming/Contenido,Telegram,0,0,0,3,0,0.562,13/11/2025,inactivo,si
+U000571,AshTail60,25/05/2024,México,Tabasco,Villahermosa,,,America/Mexico_City,18-24,Zorro,Videojuegos,Instagram,0,4,15,0,0,-0.337,01/11/2026,activo,si
+U000572,RexTail84,28/07/2022,México,CDMX,Ciudad de México,19.3653,-99.1951,America/Mexico_City,18-24,Zorro,Fursuit,Facebook,0,4,8,0,2,0.362,04/11/2026,activo,si
+U000573,BrumaMoon34,15/10/2023,México,CDMX,Ciudad de México,19.3731,-99.1738,America/Mexico_City,18-24,Gato,Convenciones,Discord,0,2,7,2,0,0.601,05/11/2026,activo,si
+U000574,OnixSpark69,20/09/2026,México,Querétaro,Querétaro,20.5143,-100.3871,America/Mexico_City,25-31,Perro,Arte digital,Twitter/X,1,5,9,0,3,0.557,10/10/2026,en_riesgo,si
+U000575,AshSpark45,20/02/2022,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Coyote,Cosplay,Instagram,0,16,36,1,1,1,04/11/2026,activo,no
+U000576,AshClaw31,19/09/2026,México,CDMX,Ciudad de México,19.43,-99.196,America/Mexico_City,32-38,Lobo,Música,Discord,0,6,14,0,0,0.181,07/11/2026,activo,si
+U000577,NeoPelaje71,18/08/2026,México,Yucatán,Mérida,,,America/Merida,25-31,Conejo,Videojuegos,Instagram,0,3,9,0,0,-0.168,04/11/2026,activo,no
+U000578,CobreSpark48,09/09/2025,México,Quintana Roo,Cancún,,,America/Cancun,18-24,Conejo,Arte digital,Instagram,0,0,0,0,0,0.972,06/11/2025,inactivo,no
+U000579,RexTail10,17/07/2024,México,Jalisco,Guadalajara,,,America/Mexico_City,25-31,Lobo,Fursuit,Facebook,0,4,14,0,0,0.311,15/10/2026,en_riesgo,si
+U000580,TalaFang60,31/05/2026,México,CDMX,Ciudad de México,19.4178,-99.0758,America/Mexico_City,25-31,Coyote,Arte digital,Facebook,1,3,5,0,5,0.328,22/10/2026,en_riesgo,si
+U000581,NubeArt52,08/10/2025,México,CDMX,Ciudad de México,19.3715,-99.0674,America/Mexico_City,18-24,Zorro,Arte tradicional,Facebook,1,3,4,0,5,0.45,11/10/2026,en_riesgo,si
+U000582,TalaArt82,26/03/2025,México,Quintana Roo,Cancún,21.2092,-86.8639,America/Cancun,18-24,Gato,Cómics,Facebook,0,0,0,0,0,0.348,23/07/2026,inactivo,si
+U000583,BrunoInk42,24/12/2024,México,Yucatán,Mérida,20.9935,-89.5998,America/Merida,18-24,Lobo,Arte tradicional,Discord,1,5,11,0,3,0.219,27/10/2026,activo,si
+U000584,SolArt60,03/05/2023,México,CDMX,Ciudad de México,19.4962,-99.1901,America/Mexico_City,32-38,Husky,Videojuegos,Telegram,0,0,0,0,1,0.532,06/09/2026,inactivo,si
+U000585,SolArt78,08/09/2025,México,Jalisco,Guadalajara,20.6352,-103.3025,America/Mexico_City,25-31,Conejo,Arte digital,Twitter/X,1,1,2,0,0,0.607,24/09/2026,en_riesgo,si
+U000586,RuneMaya46,31/03/2026,México,Guanajuato,León,,,America/Mexico_City,18-24,Coyote,Arte digital,Discord,0,0,0,0,0,0.313,31/03/2026,inactivo,no
+U000587,AshFang98,10/11/2023,México,Yucatán,Mérida,,,America/Merida,18-24,Gato,Música,Instagram,0,2,7,1,0,0.411,24/10/2026,en_riesgo,no
+U000588,RuneDash95,12/02/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Gato,Videojuegos,Twitter/X,0,3,8,0,1,-0.043,11/10/2026,en_riesgo,si
+U000589,KuroZac16,15/09/2024,Colombia,Cundinamarca,Bogotá,4.6975,-74.1091,America/Bogota,18-24,Híbrido/Otro,Convenciones,Twitter/X,0,3,10,0,0,0.167,29/09/2026,en_riesgo,si
+U000590,LunaClaw75,06/12/2023,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Perro,Cómics,Instagram,0,0,0,7,0,0.588,17/02/2026,inactivo,no
+U000591,OnixByte26,26/09/2024,México,CDMX,Ciudad de México,19.3718,-99.089,America/Mexico_City,18-24,Gato,Música,TikTok,1,0,0,0,0,0.743,28/11/2025,inactivo,si
+U000592,ZorriMaya22,28/06/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Reptil,Fursuit,Telegram,0,4,15,0,5,-0.252,31/10/2026,activo,no
+U000593,TalaArt64,04/09/2023,Colombia,Cundinamarca,Bogotá,4.7261,-74.0844,America/Bogota,39+,Conejo,Streaming/Contenido,Instagram,0,7,21,0,0,0.49,06/11/2026,activo,si
+U000594,FlarePaw70,15/11/2022,México,Campeche,Campeche,19.7942,-90.5139,America/Merida,18-24,Ave,Fursuit,Twitter/X,0,2,3,1,0,0.338,04/11/2026,activo,si
+U000595,LoboByte98,27/11/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Zorro,Música,Twitter/X,0,3,6,0,0,0.112,20/09/2026,en_riesgo,si
+U000596,BrunoDash87,31/08/2025,México,Querétaro,Querétaro,20.516,-100.438,America/Mexico_City,18-24,Zorro,Cómics,Twitter/X,0,0,0,0,1,0.664,07/09/2026,inactivo,si
+U000597,BrumaClaw30,24/12/2025,México,Nuevo León,Monterrey,25.658,-100.2797,America/Monterrey,25-31,Zorro,Arte tradicional,Telegram,1,14,30,0,2,-0.299,03/11/2026,activo,si
+U000598,KibaArt27,15/09/2024,México,Baja California,Tijuana,32.5553,-117.0594,America/Tijuana,25-31,Zorro,Escritura/Historias,Twitter/X,0,39,133,0,0,-0.283,09/11/2026,activo,si
+U000599,RexDash28,29/12/2024,Argentina,Buenos Aires,Buenos Aires,-34.6781,-58.4369,America/Argentina/Buenos_Aires,18-24,Ave,Escritura/Historias,Telegram,0,2,2,0,0,0.367,22/09/2026,en_riesgo,si
+U000600,LoboByte1,31/05/2023,Chile,Región Metropolitana,Santiago,-33.378,-70.6651,America/Santiago,25-31,Gato,Música,Instagram,0,9,31,1,0,-0.057,05/11/2026,activo,si
+U000601,LunaZac47,06/09/2026,México,Yucatán,Mérida,20.896,-89.5968,America/Merida,25-31,Husky,Escritura/Historias,Instagram,0,0,0,0,1,-0.007,06/09/2026,inactivo,si
+U000602,KuroMoon82,28/04/2025,México,Jalisco,Guadalajara,20.7462,-103.2805,America/Mexico_City,18-24,Dragón,Fursuit,Telegram,0,2,7,0,1,0.273,17/10/2026,en_riesgo,si
+U000603,RuneDash18,27/02/2022,México,Baja California,Tijuana,32.4317,-117.0667,America/Tijuana,18-24,Híbrido/Otro,Arte tradicional,Discord,1,7,15,4,5,0.051,04/11/2026,activo,si
+U000604,KibaFox26,07/04/2026,México,Nuevo León,Monterrey,25.7262,-100.2808,America/Monterrey,25-31,Reptil,Cómics,Twitter/X,0,5,19,0,0,0.312,04/11/2026,activo,si
+U000605,RuneInk82,11/12/2024,España,Comunidad de Madrid,Madrid,40.3816,-3.7265,Europe/Madrid,18-24,Zorro,Arte digital,Facebook,1,1,2,0,2,-0.039,08/10/2026,en_riesgo,si
+U000606,AshZac52,26/12/2025,México,Campeche,Campeche,19.8764,-90.578,America/Merida,25-31,Zorro,Arte digital,Discord,0,2,3,0,5,1,20/10/2026,en_riesgo,si
+U000607,FlareMoon61,22/03/2022,México,Quintana Roo,Cancún,21.1346,-86.875,America/Cancun,18-24,Tigre,Escritura/Historias,Instagram,0,3,11,0,0,0.272,24/10/2026,en_riesgo,si
+U000608,RuneMaya9,01/10/2024,México,Oaxaca,Oaxaca,,,America/Mexico_City,39+,Coyote,Videojuegos,Telegram,0,0,0,0,0,-0.092,29/11/2025,inactivo,no
+U000609,ZorriHowl97,10/05/2024,México,Nuevo León,Monterrey,25.602,-100.2587,America/Monterrey,18-24,Lobo,Convenciones,Facebook,0,3,10,0,1,0.155,22/10/2026,en_riesgo,si
+U000610,SombraPaw44,06/09/2026,México,Baja California,Tijuana,,,America/Tijuana,18-24,Reptil,Arte digital,Telegram,0,4,13,0,0,0.388,25/10/2026,en_riesgo,no
+U000611,NubeDash65,28/06/2022,Estados Unidos,California,Los Ángeles,34.0711,-118.2351,America/Los_Angeles,25-31,Perro,Videojuegos,Facebook,0,0,0,0,0,0.222,10/12/2025,inactivo,si
+U000612,ZetaWolf98,12/12/2025,México,Baja California,Tijuana,,,America/Tijuana,32-38,Zorro,Música,Telegram,0,0,0,0,0,0.614,30/08/2026,inactivo,no
+U000613,RuneSpark12,10/06/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Dragón,Arte digital,TikTok,1,0,0,0,3,0.285,06/09/2026,inactivo,no
+U000614,TalaArt88,20/09/2025,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Husky,Fursuit,Instagram,1,3,7,0,1,0.718,03/11/2026,activo,si
+U000615,CobreTail27,23/03/2025,México,CDMX,Ciudad de México,19.5087,-99.1186,America/Mexico_City,25-31,Híbrido/Otro,Videojuegos,Telegram,0,2,6,0,0,0.02,09/10/2026,en_riesgo,si
+U000616,NovaPaw78,29/05/2022,México,Baja California,Tijuana,32.4399,-117.0939,America/Tijuana,18-24,Lobo,Streaming/Contenido,Telegram,0,3,6,0,0,0.198,25/10/2026,en_riesgo,si
+U000617,ZorriWolf21,12/10/2022,España,Comunidad de Madrid,Madrid,40.4837,-3.7485,Europe/Madrid,25-31,Perro,Música,Facebook,0,4,13,0,0,0.231,18/10/2026,en_riesgo,si
+U000618,LunaFox99,30/10/2024,México,Baja California,Tijuana,32.5589,-117.0542,America/Tijuana,25-31,Reptil,Videojuegos,Twitter/X,1,0,0,0,0,0.045,08/12/2025,inactivo,si
+U000619,NovaKin67,28/06/2025,México,CDMX,Ciudad de México,19.4684,-99.2005,America/Mexico_City,18-24,Gato,Cosplay,Telegram,0,12,39,0,0,0.686,07/11/2026,activo,si
+U000620,SolDash77,24/04/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Gato,Arte digital,Telegram,1,2,2,0,1,0.615,11/10/2026,en_riesgo,no
+U000621,AshKin96,28/04/2022,México,Jalisco,Guadalajara,20.592,-103.3205,America/Mexico_City,18-24,Reptil,Arte digital,Instagram,1,3,3,0,0,0.079,30/10/2026,activo,si
+U000622,ÁmbarPaw45,06/02/2022,México,CDMX,Ciudad de México,19.3814,-99.2005,America/Mexico_City,25-31,Conejo,Fursuit,Telegram,0,8,30,0,1,0.489,05/11/2026,activo,si
+U000623,CobrePaw32,22/09/2026,México,Baja California,Tijuana,,,America/Tijuana,25-31,Tigre,Cosplay,Twitter/X,0,0,0,0,0,0.077,22/09/2026,en_riesgo,no
+U000624,ZorriSpark79,19/11/2025,México,Yucatán,Mérida,21.0048,-89.6001,America/Merida,25-31,Dragón,Fursuit,Telegram,0,7,23,1,3,0.19,03/11/2026,activo,si
+U000625,ZetaFox70,06/01/2026,México,Puebla,Puebla,18.9904,-98.2417,America/Mexico_City,25-31,Perro,Cómics,TikTok,0,3,11,0,0,0.554,30/10/2026,activo,si
+U000626,BrumaFox73,14/01/2025,México,CDMX,Ciudad de México,19.3525,-99.2084,America/Mexico_City,18-24,Perro,Videojuegos,Instagram,1,3,9,0,0,0.572,09/10/2026,en_riesgo,si
+U000627,TalaPelaje73,29/11/2022,Colombia,Cundinamarca,Bogotá,4.7643,-74.0279,America/Bogota,32-38,Gato,Escritura/Historias,Telegram,0,6,10,0,0,0.375,07/11/2026,activo,si
+U000628,TalaZac70,18/02/2023,México,Guanajuato,León,21.1643,-101.6236,America/Mexico_City,18-24,Lobo,Música,Facebook,0,0,0,0,0,0.266,30/01/2026,inactivo,si
+U000629,RexMoon46,04/01/2025,México,CDMX,Ciudad de México,19.4003,-99.0677,America/Mexico_City,18-24,Zorro,Videojuegos,Telegram,0,0,0,0,0,0.262,26/08/2026,inactivo,si
+U000630,BrunoZac28,09/12/2022,México,Campeche,Campeche,19.8971,-90.5794,America/Merida,25-31,Reptil,Música,Telegram,0,4,6,0,1,0.155,05/10/2026,en_riesgo,si
+U000631,PixelMaya29,25/02/2022,Colombia,Cundinamarca,Bogotá,4.6703,-74.1414,America/Bogota,32-38,Zorro,Convenciones,Telegram,0,4,5,1,0,0.374,28/10/2026,activo,si
+U000632,LunaTail15,17/04/2023,México,Chihuahua,Chihuahua,28.7017,-106.0331,America/Chihuahua,18-24,Dragón,Fursuit,Twitter/X,0,6,8,4,3,0.41,06/11/2026,activo,si
+U000633,ZetaPaw20,24/06/2024,México,Nuevo León,Monterrey,25.5991,-100.2956,America/Monterrey,25-31,Zorro,Escritura/Historias,TikTok,0,0,0,0,0,0.817,16/11/2025,inactivo,si
+U000634,SombraFox76,24/09/2026,México,Querétaro,Querétaro,20.643,-100.3697,America/Mexico_City,18-24,Zorro,Videojuegos,Telegram,0,9,19,0,0,0.166,01/11/2026,activo,si
+U000635,YukiFox31,27/05/2026,Colombia,Cundinamarca,Bogotá,4.7454,-74.1428,America/Bogota,25-31,Lobo,Arte digital,Instagram,1,0,0,0,1,-0.029,08/07/2026,inactivo,si
+U000636,OnixZac7,05/04/2025,España,Comunidad de Madrid,Madrid,,,Europe/Madrid,18-24,Dragón,Arte tradicional,Facebook,0,18,30,0,5,-0.168,07/11/2026,activo,no
+U000637,NeoCh'a37,28/04/2026,Estados Unidos,California,Los Ángeles,34.0639,-118.2887,America/Los_Angeles,18-24,Híbrido/Otro,Arte tradicional,Instagram,1,2,2,3,1,0.506,24/09/2026,en_riesgo,si
+U000638,ZorriPaw51,20/07/2022,México,Chihuahua,Chihuahua,28.6757,-106.0212,America/Chihuahua,18-24,Lobo,Arte digital,TikTok,1,7,15,0,3,-0.137,04/11/2026,activo,si
+U000639,BrumaKin41,20/05/2022,México,CDMX,Ciudad de México,19.4306,-99.0912,America/Mexico_City,25-31,Híbrido/Otro,Streaming/Contenido,Telegram,1,0,0,4,1,-0.513,06/09/2026,inactivo,si
+U000640,BrunoInk32,22/06/2022,México,CDMX,Ciudad de México,19.3776,-99.0922,America/Mexico_City,25-31,Dragón,Arte digital,Facebook,1,0,0,0,5,-0.265,19/03/2026,inactivo,si
+U000641,MikaMaya65,27/03/2026,México,Yucatán,Mérida,20.9223,-89.5804,America/Merida,18-24,Reptil,Convenciones,Discord,0,1,1,1,0,0.165,25/10/2026,en_riesgo,si
+U000642,MikaTail96,28/10/2026,México,Yucatán,Mérida,21.0394,-89.6091,America/Merida,25-31,Gato,Música,Discord,0,8,24,8,0,-0.353,28/10/2026,activo,si
+U000643,TalaPaw4,29/10/2026,México,Jalisco,Guadalajara,20.6605,-103.3785,America/Mexico_City,18-24,Lobo,Cosplay,Discord,0,4,15,0,0,0.056,02/11/2026,activo,si
+U000644,RexInk36,08/03/2026,México,Jalisco,Guadalajara,20.6237,-103.2885,America/Mexico_City,32-38,Coyote,Fursuit,Instagram,1,14,52,1,1,0.517,09/11/2026,activo,si
+U000645,NovaHowl32,16/02/2025,México,Jalisco,Guadalajara,20.6238,-103.3372,America/Mexico_City,18-24,Gato,Convenciones,Telegram,0,30,47,0,0,0.433,28/10/2026,activo,si
+U000646,ZetaZac11,18/08/2023,México,Puebla,Puebla,18.9818,-98.249,America/Mexico_City,32-38,Híbrido/Otro,Arte digital,Telegram,1,4,7,0,1,0.355,15/10/2026,en_riesgo,si
+U000647,ZetaPaw3,14/03/2022,México,Yucatán,Mérida,20.9321,-89.6156,America/Merida,39+,Ave,Escritura/Historias,Twitter/X,0,5,12,0,0,-0.286,06/11/2026,activo,si
+U000648,SolDash73,29/10/2026,México,Baja California,Tijuana,,,America/Tijuana,25-31,Coyote,Cómics,Discord,0,7,20,0,0,0.065,29/10/2026,activo,no
+U000649,SombraDash9,24/02/2023,México,Tabasco,Villahermosa,18.067,-93.0077,America/Mexico_City,25-31,Zorro,Convenciones,Telegram,0,0,0,3,0,0.868,01/08/2026,inactivo,si
+U000650,BrunoClaw88,25/07/2024,México,Guanajuato,León,21.0933,-101.6948,America/Mexico_City,32-38,Ave,Streaming/Contenido,Twitter/X,0,2,3,0,0,0.27,29/09/2026,en_riesgo,si
+U000651,ÁmbarMaya65,13/06/2024,México,Oaxaca,Oaxaca,,,America/Mexico_City,18-24,Husky,Escritura/Historias,Telegram,0,0,0,3,0,0.044,15/08/2026,inactivo,si
+U000652,BrunoArt47,15/05/2023,México,Yucatán,Mérida,20.9028,-89.5411,America/Merida,32-38,Híbrido/Otro,Videojuegos,Telegram,0,19,43,0,0,-0.043,30/10/2026,activo,si
+U000653,CobreByte21,06/12/2023,México,Yucatán,Mérida,20.9772,-89.5495,America/Merida,32-38,Zorro,Escritura/Historias,Telegram,0,3,10,0,0,0.651,09/11/2026,activo,si
+U000654,CobreZac11,16/01/2026,México,Jalisco,Guadalajara,20.6921,-103.3037,America/Mexico_City,25-31,Zorro,Arte digital,Instagram,1,21,57,0,3,0.406,09/11/2026,activo,si
+U000655,LunaCh'a45,16/03/2025,México,CDMX,Ciudad de México,19.4409,-99.0613,America/Mexico_City,39+,Zorro,Música,Facebook,1,8,14,0,0,0.977,01/11/2026,activo,si
+U000656,YukiMoon98,03/08/2024,México,Yucatán,Mérida,,,America/Merida,25-31,Tigre,Cosplay,TikTok,0,0,0,0,0,0.221,14/08/2026,inactivo,si
+U000657,PixelInk53,06/09/2025,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Perro,Escritura/Historias,Instagram,1,2,7,0,0,0.441,23/10/2026,en_riesgo,no
+U000658,ZorriPelaje81,19/10/2025,Colombia,Cundinamarca,Bogotá,4.7565,-74.024,America/Bogota,18-24,Dragón,Fursuit,Telegram,0,4,15,3,1,-0.008,26/09/2026,en_riesgo,si
+U000659,NeoPelaje66,18/05/2025,México,Chihuahua,Chihuahua,,,America/Chihuahua,25-31,Lobo,Música,Twitter/X,0,39,46,0,0,0.566,03/11/2026,activo,si
+U000660,AshDash17,30/04/2022,México,Querétaro,Querétaro,20.6174,-100.4518,America/Mexico_City,18-24,Lobo,Música,TikTok,0,12,15,0,0,-0.107,03/11/2026,activo,si
+U000661,NeoHowl74,26/03/2023,México,Puebla,Puebla,19.0244,-98.1975,America/Mexico_City,32-38,Híbrido/Otro,Arte digital,Instagram,1,21,60,0,0,0.923,06/11/2026,activo,si
+U000662,NovaCh'a34,07/10/2026,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Dragón,Fursuit,Facebook,0,10,28,1,3,0.343,06/11/2026,activo,no
+U000663,RexMoon12,11/12/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,32-38,Zorro,Arte digital,TikTok,1,7,20,0,3,0.238,19/10/2026,en_riesgo,si
+U000664,SombraKin73,29/08/2026,México,CDMX,Ciudad de México,19.4544,-99.191,America/Mexico_City,32-38,Tigre,Streaming/Contenido,Facebook,0,2,5,0,0,0.344,14/09/2026,en_riesgo,si
+U000665,NubePaw26,31/08/2026,México,CDMX,Ciudad de México,19.4917,-99.0844,America/Mexico_City,18-24,Híbrido/Otro,Cosplay,Instagram,0,2,3,0,0,-0.411,18/09/2026,en_riesgo,si
+U000666,BrumaZac44,08/08/2023,México,Nuevo León,Monterrey,25.6152,-100.314,America/Monterrey,25-31,Perro,Arte tradicional,Discord,1,4,14,0,3,-0.41,21/10/2026,en_riesgo,si
+U000667,LunaKin92,20/10/2024,México,Guanajuato,León,21.0647,-101.6254,America/Mexico_City,18-24,Husky,Streaming/Contenido,Twitter/X,0,15,47,0,0,0.23,02/11/2026,activo,si
+U000668,SombraTail52,21/08/2025,México,Quintana Roo,Cancún,,,America/Cancun,18-24,Zorro,Convenciones,Discord,0,2,3,0,0,0.533,31/10/2026,activo,no
+U000669,SolWolf57,20/09/2026,México,Yucatán,Mérida,21.029,-89.5558,America/Merida,25-31,Tigre,Streaming/Contenido,Telegram,0,4,9,4,0,-0.248,23/10/2026,en_riesgo,si
+U000670,ZetaZac48,03/05/2023,México,Quintana Roo,Cancún,21.0964,-86.8192,America/Cancun,25-31,Zorro,Videojuegos,Telegram,0,2,6,0,0,0.341,04/11/2026,activo,si
+U000671,TalaSpark4,05/10/2023,México,Campeche,Campeche,19.8383,-90.5479,America/Merida,25-31,Perro,Streaming/Contenido,TikTok,0,0,0,0,1,0.345,07/11/2025,inactivo,si
+U000672,MikaZac59,08/04/2024,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,18-24,Lobo,Videojuegos,Facebook,0,6,14,0,0,-0.221,29/10/2026,activo,no
+U000673,NeoInk59,07/04/2026,México,Jalisco,Guadalajara,20.6683,-103.3105,America/Mexico_City,18-24,Tigre,Cómics,Twitter/X,0,14,33,0,0,0.395,18/10/2026,en_riesgo,si
+U000674,NovaDash99,18/04/2023,México,Tabasco,Villahermosa,17.919,-92.9596,America/Mexico_City,25-31,Zorro,Videojuegos,Facebook,0,7,13,2,0,-0.257,06/11/2026,activo,si
+U000675,FlarePaw14,11/12/2024,Perú,Lima,Lima,,,America/Lima,18-24,Zorro,Videojuegos,Twitter/X,0,13,30,3,0,0.4,02/11/2026,activo,no
+U000676,RuneSpark61,14/06/2022,México,Nuevo León,Monterrey,25.6198,-100.2371,America/Monterrey,18-24,Perro,Fursuit,Facebook,0,2,6,4,0,0.266,16/10/2026,en_riesgo,si
+U000677,YukiKin60,20/04/2026,México,CDMX,Ciudad de México,19.3601,-99.2023,America/Mexico_City,39+,Zorro,Escritura/Historias,Facebook,0,0,0,0,0,0.709,20/04/2026,inactivo,si
+U000678,YukiSpark27,25/06/2023,México,Nuevo León,Monterrey,25.6843,-100.3717,America/Monterrey,25-31,Tigre,Fursuit,Facebook,0,50,157,0,1,0.209,09/11/2026,activo,si
+U000679,MikaFang96,08/03/2023,México,Campeche,Campeche,19.8458,-90.553,America/Merida,18-24,Dragón,Videojuegos,Discord,0,9,27,0,0,0.316,27/10/2026,activo,si
+U000680,NeoClaw41,18/01/2026,Chile,Región Metropolitana,Santiago,-33.4278,-70.6081,America/Santiago,18-24,Perro,Cómics,Instagram,0,7,15,3,0,0.281,29/10/2026,activo,si
+U000681,ZetaCh'a65,26/09/2022,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,39+,Gato,Videojuegos,TikTok,1,2,3,0,0,0.658,24/10/2026,en_riesgo,no
+U000682,RexZac20,20/11/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Tigre,Escritura/Historias,Twitter/X,0,1,1,3,0,0.237,14/10/2026,en_riesgo,no
+U000683,NeoClaw47,22/01/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Coyote,Arte tradicional,Telegram,0,0,0,0,0,0.331,15/05/2026,inactivo,no
+U000684,RuneWolf22,06/08/2023,México,Campeche,Campeche,19.8427,-90.5385,America/Merida,25-31,Coyote,Arte digital,TikTok,1,34,97,0,2,-0.019,21/10/2026,en_riesgo,si
+U000685,OnixInk57,06/06/2025,México,Nuevo León,Monterrey,25.7468,-100.2611,America/Monterrey,32-38,Lobo,Música,Telegram,0,1,2,0,0,0.234,10/10/2026,en_riesgo,si
+U000686,CobreZac23,03/03/2023,México,Puebla,Puebla,19.0472,-98.2681,America/Mexico_City,18-24,Perro,Arte digital,Facebook,1,1,2,0,5,0.541,24/10/2026,en_riesgo,si
+U000687,ZorriCh'a21,30/04/2023,México,Nuevo León,Monterrey,25.6394,-100.2618,America/Monterrey,18-24,Gato,Fursuit,Telegram,0,4,9,0,2,-0.422,24/10/2026,en_riesgo,si
+U000688,NovaInk5,29/08/2026,México,Yucatán,Mérida,20.9841,-89.6178,America/Merida,18-24,Lobo,Fursuit,Facebook,1,0,0,0,3,0.044,29/08/2026,inactivo,si
+U000689,SombraHowl11,11/10/2025,México,Nuevo León,Monterrey,25.6743,-100.2906,America/Monterrey,18-24,Lobo,Videojuegos,Facebook,0,24,28,0,0,0.57,23/10/2026,en_riesgo,si
+U000690,BrunoFang58,24/10/2026,México,Campeche,Campeche,19.8881,-90.451,America/Merida,32-38,Zorro,Arte digital,Telegram,1,8,20,0,3,0.051,29/10/2026,activo,si
+U000691,RuneArt29,13/01/2023,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Perro,Escritura/Historias,Instagram,0,2,2,5,0,-0.224,26/09/2026,en_riesgo,no
+U000692,SombraMaya54,10/06/2025,México,Jalisco,Guadalajara,20.6537,-103.319,America/Mexico_City,18-24,Dragón,Arte digital,TikTok,1,1,2,3,3,0.421,17/09/2026,en_riesgo,si
+U000693,TalaHowl29,26/07/2026,México,Yucatán,Mérida,,,America/Merida,18-24,Perro,Cosplay,Instagram,0,1,1,4,0,0.455,16/10/2026,en_riesgo,no
+U000694,NeoKin87,13/07/2022,México,CDMX,Ciudad de México,19.4146,-99.0798,America/Mexico_City,18-24,Híbrido/Otro,Arte digital,Discord,1,4,9,0,2,0.422,08/10/2026,en_riesgo,si
+U000695,AshPelaje95,29/06/2026,México,Quintana Roo,Cancún,21.1878,-86.8059,America/Cancun,25-31,Gato,Escritura/Historias,Instagram,0,4,10,1,0,0.796,06/11/2026,activo,si
+U000696,ZetaDash16,23/01/2022,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Gato,Convenciones,Telegram,0,0,0,2,0,-0.071,07/12/2025,inactivo,no
+U000697,BrunoCh'a95,03/10/2025,México,Yucatán,Mérida,20.9887,-89.6568,America/Merida,18-24,Lobo,Arte tradicional,Discord,1,0,0,0,3,1,16/08/2026,inactivo,si
+U000698,ÁmbarWolf26,07/03/2023,México,Puebla,Puebla,19.0938,-98.2339,America/Mexico_City,25-31,Conejo,Cosplay,Telegram,0,1,3,0,0,0.111,19/09/2026,en_riesgo,si
+U000699,KuroDash38,22/11/2022,México,Yucatán,Mérida,21.0369,-89.5541,America/Merida,18-24,Perro,Fursuit,TikTok,0,0,0,0,0,0.435,11/08/2026,inactivo,si
+U000700,PixelCh'a43,07/06/2026,México,Yucatán,Mérida,,,America/Merida,18-24,Conejo,Streaming/Contenido,Twitter/X,0,0,0,0,0,-0.012,07/06/2026,inactivo,si
+U000701,KuroInk4,06/07/2026,Chile,Región Metropolitana,Santiago,,,America/Santiago,25-31,Tigre,Fursuit,Facebook,0,4,14,1,1,0.962,14/09/2026,en_riesgo,si
+U000702,OnixDash93,23/06/2023,México,CDMX,Ciudad de México,19.3995,-99.107,America/Mexico_City,25-31,Coyote,Arte digital,Twitter/X,1,4,7,0,2,-0.109,04/10/2026,en_riesgo,si
+U000703,PixelSpark84,30/04/2024,México,Guanajuato,León,21.1472,-101.6238,America/Mexico_City,18-24,Gato,Música,Instagram,0,2,6,0,0,0.218,13/10/2026,en_riesgo,si
+U000704,CobrePelaje48,29/03/2023,México,CDMX,Ciudad de México,19.3866,-99.0747,America/Mexico_City,25-31,Dragón,Streaming/Contenido,Facebook,1,2,3,0,0,-0.041,22/10/2026,en_riesgo,si
+U000705,LoboZac80,30/08/2023,México,Quintana Roo,Cancún,21.1226,-86.8708,America/Cancun,25-31,Reptil,Streaming/Contenido,Facebook,1,4,12,0,0,0.537,17/09/2026,en_riesgo,si
+U000706,CobreZac96,13/07/2026,México,Jalisco,Guadalajara,20.7395,-103.389,America/Mexico_City,25-31,Lobo,Arte digital,Facebook,1,4,9,2,1,-0.001,22/10/2026,en_riesgo,si
+U000707,LunaFang33,28/07/2024,México,Yucatán,Mérida,,,America/Merida,18-24,Coyote,Escritura/Historias,Twitter/X,0,0,0,1,0,-0.456,13/10/2025,inactivo,no
+U000708,MikaMaya13,03/05/2024,México,Chihuahua,Chihuahua,28.5532,-106.0877,America/Chihuahua,25-31,Híbrido/Otro,Videojuegos,Twitter/X,0,3,6,0,0,-0.116,20/10/2026,en_riesgo,si
+U000709,SolMaya27,19/10/2026,México,CDMX,Ciudad de México,19.3806,-99.1289,America/Mexico_City,18-24,Ave,Arte digital,TikTok,0,3,9,0,2,0.357,22/10/2026,en_riesgo,si
+U000710,NubeHowl18,18/09/2023,México,Jalisco,Guadalajara,20.7273,-103.4126,America/Mexico_City,18-24,Dragón,Videojuegos,Telegram,0,0,0,0,0,0.388,23/01/2026,inactivo,si
+U000711,BrumaArt66,04/11/2026,México,Yucatán,Mérida,20.9145,-89.5441,America/Merida,39+,Tigre,Fursuit,Instagram,0,17,34,2,1,-0.083,04/11/2026,activo,si
+U000712,NovaInk9,25/05/2026,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,32-38,Perro,Cosplay,Facebook,0,8,19,0,0,0.08,06/11/2026,activo,no
+U000713,ZorriPaw3,09/12/2022,México,Tabasco,Villahermosa,17.9471,-92.8676,America/Mexico_City,18-24,Gato,Música,Facebook,0,8,19,0,0,0.609,28/10/2026,activo,si
+U000714,BrumaFang69,21/10/2023,Estados Unidos,Texas,Houston,29.7483,-95.439,America/Chicago,18-24,Lobo,Escritura/Historias,Twitter/X,0,0,0,0,0,-0.328,15/10/2025,inactivo,si
+U000715,RexHowl58,18/07/2023,México,Baja California,Tijuana,32.4771,-116.9962,America/Tijuana,18-24,Híbrido/Otro,Arte digital,Facebook,0,7,14,0,0,0.548,08/11/2026,activo,si
+U000716,RexWolf98,24/07/2024,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,25-31,Dragón,Cómics,Twitter/X,0,14,24,1,0,0.091,01/11/2026,activo,no
+U000717,NubeFang12,10/04/2022,México,Yucatán,Mérida,20.9765,-89.6459,America/Merida,25-31,Híbrido/Otro,Arte digital,Instagram,1,27,63,0,5,0.547,30/10/2026,activo,si
+U000718,TalaSpark44,16/04/2023,Colombia,Cundinamarca,Bogotá,,,America/Bogota,18-24,Híbrido/Otro,Convenciones,TikTok,0,6,17,1,0,0.215,26/10/2026,activo,no
+U000719,KibaByte74,15/12/2025,México,Yucatán,Mérida,,,America/Merida,18-24,Coyote,Fursuit,Telegram,0,18,38,2,2,0.161,23/10/2026,en_riesgo,si
+U000720,ZetaPelaje3,27/07/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Gato,Música,Facebook,0,0,0,0,0,0.406,31/07/2026,inactivo,no
+U000721,LoboHowl95,09/02/2025,México,Jalisco,Guadalajara,20.6587,-103.4043,America/Mexico_City,18-24,Dragón,Convenciones,Twitter/X,1,0,0,1,0,0.108,02/02/2026,inactivo,si
+U000722,RexZac81,06/10/2024,Perú,Lima,Lima,-12.1049,-77.1057,America/Lima,18-24,Zorro,Convenciones,Facebook,0,0,0,0,0,0.125,09/02/2026,inactivo,si
+U000723,TalaByte63,28/12/2024,Perú,Lima,Lima,-12.0816,-77.0747,America/Lima,18-24,Coyote,Arte digital,Telegram,1,0,0,0,1,-0.052,28/12/2025,inactivo,si
+U000724,LunaByte90,03/12/2023,México,Querétaro,Querétaro,20.5115,-100.3934,America/Mexico_City,18-24,Reptil,Cosplay,TikTok,0,7,27,4,0,0.359,21/10/2026,en_riesgo,si
+U000725,BrunoHowl85,29/12/2024,México,CDMX,Ciudad de México,19.4323,-99.1594,America/Mexico_City,25-31,Tigre,Videojuegos,Instagram,0,10,13,0,0,1,09/11/2026,activo,si
+U000726,FlareZac13,09/08/2025,México,Quintana Roo,Cancún,21.1716,-86.8078,America/Cancun,32-38,Híbrido/Otro,Arte digital,Telegram,0,0,0,0,5,0.352,29/10/2025,inactivo,si
+U000727,LoboSpark56,04/04/2023,México,Yucatán,Mérida,,,America/Merida,25-31,Reptil,Streaming/Contenido,Twitter/X,0,25,83,0,0,0.254,03/11/2026,activo,si
+U000728,RexFox11,02/04/2026,México,Querétaro,Querétaro,20.6111,-100.4403,America/Mexico_City,25-31,Husky,Streaming/Contenido,Telegram,0,3,5,0,0,0.163,12/10/2026,en_riesgo,si
+U000729,KuroSpark71,22/02/2024,México,Guanajuato,León,,,America/Mexico_City,18-24,Perro,Cómics,Instagram,0,0,0,0,0,0.692,17/02/2026,inactivo,no
+U000730,KibaSpark32,02/12/2022,México,Puebla,Puebla,,,America/Mexico_City,25-31,Conejo,Cosplay,Discord,0,0,0,1,0,0.345,25/12/2025,inactivo,no
+U000731,FlareMoon5,08/08/2023,México,Nuevo León,Monterrey,,,America/Monterrey,25-31,Coyote,Convenciones,Telegram,0,0,0,1,0,0.362,20/03/2026,inactivo,no
+U000732,PixelZac38,13/08/2026,México,Campeche,Campeche,19.8508,-90.6019,America/Merida,25-31,Coyote,Videojuegos,Facebook,0,0,0,0,0,0.229,19/08/2026,inactivo,si
+U000733,LunaArt9,28/04/2025,México,Campeche,Campeche,19.863,-90.5894,America/Merida,18-24,Lobo,Convenciones,Facebook,0,9,11,0,0,0.033,02/11/2026,activo,si
+U000734,RexKin25,15/02/2026,Estados Unidos,Texas,Houston,,,America/Chicago,18-24,Reptil,Arte digital,Telegram,1,13,50,4,3,0.185,08/11/2026,activo,no
+U000735,KuroSpark74,24/12/2023,México,Campeche,Campeche,19.9096,-90.5579,America/Merida,25-31,Híbrido/Otro,Escritura/Historias,TikTok,0,4,9,6,0,0.271,26/09/2026,en_riesgo,si
+U000736,KibaZac49,07/09/2022,México,Puebla,Puebla,18.9876,-98.1745,America/Mexico_City,18-24,Reptil,Convenciones,Telegram,0,5,11,0,1,0.155,08/11/2026,activo,si
+U000737,KuroSpark19,11/12/2025,México,Yucatán,Mérida,20.9271,-89.5461,America/Merida,18-24,Tigre,Fursuit,Facebook,0,11,19,0,1,0.867,21/10/2026,en_riesgo,si
+U000738,RexClaw20,21/09/2025,México,Campeche,Campeche,19.85,-90.4958,America/Merida,18-24,Lobo,Arte tradicional,Facebook,1,7,10,0,0,-0.025,28/10/2026,activo,si
+U000739,RuneTail59,06/10/2026,México,Guanajuato,León,21.0508,-101.6412,America/Mexico_City,18-24,Lobo,Música,Telegram,0,26,68,0,0,0.567,17/10/2026,en_riesgo,si
+U000740,KuroMaya62,13/08/2022,México,Campeche,Campeche,,,America/Merida,25-31,Coyote,Música,Instagram,0,1,1,0,0,-0.096,20/09/2026,en_riesgo,no
+U000741,BrumaInk73,20/06/2025,México,Yucatán,Mérida,20.9641,-89.6142,America/Merida,25-31,Lobo,Música,Telegram,0,0,0,0,0,0.147,18/04/2026,inactivo,si
+U000742,TalaKin45,31/03/2026,Chile,Región Metropolitana,Santiago,-33.5119,-70.7054,America/Santiago,25-31,Perro,Arte digital,TikTok,0,8,29,0,3,0.107,30/10/2026,activo,si
+U000743,ÁmbarSpark81,03/10/2022,México,Campeche,Campeche,19.8767,-90.4628,America/Merida,18-24,Perro,Videojuegos,Discord,0,0,0,0,0,0.073,22/02/2026,inactivo,si
+U000744,RuneTail89,01/07/2026,México,Yucatán,Mérida,20.9876,-89.5421,America/Merida,25-31,Ave,Convenciones,TikTok,0,10,39,2,0,0.296,01/11/2026,activo,si
+U000745,MikaZac78,24/05/2023,México,CDMX,Ciudad de México,19.3757,-99.1721,America/Mexico_City,18-24,Perro,Arte digital,Facebook,0,0,0,0,2,0.851,05/04/2026,inactivo,si
+U000746,ZorriPaw76,25/07/2023,México,Jalisco,Guadalajara,20.7219,-103.3615,America/Mexico_City,25-31,Perro,Arte digital,TikTok,1,9,30,0,0,0.656,07/11/2026,activo,si
+U000747,NubeKin94,17/02/2025,México,Nuevo León,Monterrey,25.6366,-100.3212,America/Monterrey,25-31,Ave,Arte digital,Facebook,0,2,6,0,0,0.606,17/10/2026,en_riesgo,si
+U000748,SolFox26,13/10/2023,México,Querétaro,Querétaro,20.5675,-100.3526,America/Mexico_City,32-38,Gato,Streaming/Contenido,Instagram,0,0,0,0,0,0.387,17/08/2026,inactivo,si
+U000749,KibaDash21,12/12/2024,México,Nuevo León,Monterrey,,,America/Monterrey,25-31,Zorro,Cómics,Telegram,0,18,26,3,0,-0.064,26/10/2026,activo,no
+U000750,TalaPelaje76,05/09/2023,México,Yucatán,Mérida,,,America/Merida,18-24,Zorro,Fursuit,Facebook,0,0,0,4,1,0.207,12/08/2026,inactivo,si
+U000751,KibaMaya87,12/12/2023,México,Yucatán,Mérida,,,America/Merida,18-24,Zorro,Arte tradicional,Twitter/X,1,0,0,2,2,0.413,11/04/2026,inactivo,no
+U000752,NeoInk67,03/03/2023,México,Puebla,Puebla,18.9964,-98.2614,America/Mexico_City,25-31,Perro,Arte digital,TikTok,1,4,15,0,0,0.118,21/10/2026,en_riesgo,si
+U000753,SombraWolf80,25/04/2025,México,CDMX,Ciudad de México,19.3527,-99.0528,America/Mexico_City,25-31,Ave,Arte tradicional,Telegram,1,0,0,0,1,0.622,25/10/2026,en_riesgo,si
+U000754,ZetaPaw48,15/09/2024,México,Yucatán,Mérida,20.9833,-89.564,America/Merida,18-24,Conejo,Videojuegos,Instagram,0,2,3,1,0,0.041,27/10/2026,activo,si
+U000755,LunaHowl76,03/08/2023,México,CDMX,Ciudad de México,19.4485,-99.1242,America/Mexico_City,39+,Husky,Música,Telegram,0,0,0,0,0,0.468,28/01/2026,inactivo,si
+U000756,KibaCh'a82,21/05/2025,México,Campeche,Campeche,19.8145,-90.4738,America/Merida,18-24,Zorro,Arte tradicional,Telegram,1,12,14,0,5,0.113,09/10/2026,en_riesgo,si
+U000757,PixelMoon7,05/07/2025,México,Oaxaca,Oaxaca,17.141,-96.7268,America/Mexico_City,25-31,Conejo,Arte tradicional,Telegram,1,10,36,0,2,-0.075,21/10/2026,en_riesgo,si
+U000758,LunaMaya61,21/01/2024,México,CDMX,Ciudad de México,19.4483,-99.0604,America/Mexico_City,25-31,Zorro,Arte digital,Telegram,1,3,10,0,3,0.154,27/10/2026,activo,si
+U000759,NubeKin46,05/04/2023,México,Yucatán,Mérida,20.9921,-89.6563,America/Merida,32-38,Lobo,Arte digital,Telegram,1,3,4,0,0,0.158,02/11/2026,activo,si
+U000760,NovaPaw71,12/09/2026,México,Yucatán,Mérida,21.0193,-89.6988,America/Merida,18-24,Híbrido/Otro,Cómics,Facebook,0,2,4,2,1,-0.424,12/09/2026,en_riesgo,si
+U000761,PixelArt91,18/02/2025,México,Jalisco,Guadalajara,,,America/Mexico_City,32-38,Zorro,Cómics,TikTok,0,6,20,0,1,-0.442,26/10/2026,activo,si
+U000762,ZetaPelaje12,20/11/2022,México,Yucatán,Mérida,20.9974,-89.6485,America/Merida,18-24,Lobo,Videojuegos,TikTok,0,9,21,0,0,0.681,01/11/2026,activo,si
+U000763,BrunoWolf61,27/08/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Lobo,Cosplay,Discord,0,4,5,0,0,0.109,27/10/2026,activo,si
+U000764,LunaFox15,20/03/2023,México,CDMX,Ciudad de México,19.3758,-99.0757,America/Mexico_City,18-24,Conejo,Convenciones,Twitter/X,0,1,3,0,0,0.018,15/09/2026,en_riesgo,si
+U000765,AshInk84,16/03/2023,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Perro,Streaming/Contenido,TikTok,0,1,1,0,0,0.535,01/10/2026,en_riesgo,no
+U000766,BrunoKin73,18/02/2025,México,CDMX,Ciudad de México,19.3815,-99.1079,America/Mexico_City,18-24,Lobo,Arte tradicional,Telegram,1,2,4,0,3,-0.136,30/09/2026,en_riesgo,si
+U000767,RexPelaje88,13/07/2022,Estados Unidos,California,Los Ángeles,34.041,-118.3149,America/Los_Angeles,25-31,Híbrido/Otro,Arte digital,TikTok,0,0,0,2,5,-0.584,30/08/2026,inactivo,si
+U000768,NeoKin9,30/01/2025,México,Yucatán,Mérida,20.9874,-89.5853,America/Merida,25-31,Lobo,Videojuegos,Telegram,0,16,53,0,0,-0.033,09/11/2026,activo,si
+U000769,AshCh'a57,30/03/2025,España,Comunidad de Madrid,Madrid,40.3573,-3.7234,Europe/Madrid,32-38,Dragón,Escritura/Historias,Telegram,0,3,11,0,0,0.143,09/10/2026,en_riesgo,si
+U000770,SombraPaw63,22/08/2026,México,Baja California,Tijuana,32.5202,-117.0094,America/Tijuana,25-31,Conejo,Streaming/Contenido,Discord,0,1,3,0,0,0.624,15/10/2026,en_riesgo,si
+U000771,NeoHowl81,25/09/2023,México,Quintana Roo,Cancún,21.2146,-86.8661,America/Cancun,25-31,Conejo,Streaming/Contenido,Telegram,0,0,0,0,0,0.394,30/10/2025,inactivo,si
+U000772,MikaInk9,06/03/2026,México,Yucatán,Mérida,20.9618,-89.6935,America/Merida,18-24,Zorro,Arte tradicional,Facebook,1,3,7,0,0,0.45,22/10/2026,en_riesgo,si
+U000773,NovaHowl15,10/10/2025,México,Puebla,Puebla,19.0773,-98.1775,America/Mexico_City,25-31,Perro,Arte tradicional,Discord,0,0,0,1,0,0.599,03/09/2026,inactivo,si
+U000774,ZorriByte36,18/04/2022,México,CDMX,Ciudad de México,19.4073,-99.1257,America/Mexico_City,18-24,Reptil,Arte digital,Facebook,1,4,12,0,0,-0.097,09/11/2026,activo,si
+U000775,AshKin25,10/01/2025,México,Yucatán,Mérida,20.9074,-89.5709,America/Merida,25-31,Gato,Fursuit,Instagram,0,0,0,0,0,0.364,14/08/2026,inactivo,si
+U000776,BrumaDash2,30/09/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Perro,Fursuit,Instagram,0,3,10,0,1,-0.532,30/09/2026,en_riesgo,si
+U000777,RuneWolf33,01/04/2026,México,Yucatán,Mérida,20.9897,-89.573,America/Merida,18-24,Dragón,Convenciones,Instagram,0,4,10,2,0,0.456,23/10/2026,en_riesgo,si
+U000778,SombraPaw15,29/04/2022,México,Oaxaca,Oaxaca,17.1215,-96.7436,America/Mexico_City,18-24,Perro,Arte digital,Facebook,0,4,9,0,3,0.535,04/10/2026,en_riesgo,si
+U000779,ÁmbarMaya62,15/01/2025,Argentina,Buenos Aires,Buenos Aires,-34.6267,-58.333,America/Argentina/Buenos_Aires,39+,Reptil,Convenciones,Instagram,0,1,1,0,0,-0.075,18/10/2026,en_riesgo,si
+U000780,YukiPaw90,22/09/2026,México,Baja California,Tijuana,32.5258,-117.1086,America/Tijuana,25-31,Zorro,Videojuegos,Telegram,0,12,30,0,0,0.035,04/11/2026,activo,si
+U000781,FlareFox19,11/12/2022,México,Jalisco,Guadalajara,20.6151,-103.3258,America/Mexico_City,39+,Zorro,Arte digital,TikTok,1,4,6,0,3,0.369,21/10/2026,en_riesgo,si
+U000782,SombraMaya96,28/10/2024,México,Tabasco,Villahermosa,17.9366,-92.8584,America/Mexico_City,32-38,Dragón,Cómics,TikTok,0,2,2,0,0,-0.416,25/10/2026,en_riesgo,si
+U000783,KibaFox30,18/07/2023,Estados Unidos,California,Los Ángeles,34.0295,-118.1746,America/Los_Angeles,32-38,Híbrido/Otro,Cómics,Instagram,0,25,61,0,0,0.437,23/09/2026,en_riesgo,si
+U000784,KibaPelaje64,03/09/2024,Perú,Lima,Lima,,,America/Lima,25-31,Híbrido/Otro,Arte digital,Telegram,1,0,0,1,0,0.506,07/09/2026,inactivo,no
+U000785,ZorriDash14,25/12/2024,México,Campeche,Campeche,19.8629,-90.4735,America/Merida,25-31,Husky,Escritura/Historias,TikTok,0,3,8,0,0,-0.14,28/09/2026,en_riesgo,si
+U000786,BrunoTail2,02/03/2022,Estados Unidos,California,Los Ángeles,,,America/Los_Angeles,18-24,Coyote,Arte tradicional,TikTok,1,6,18,0,0,0.272,19/10/2026,en_riesgo,no
+U000787,SombraCh'a68,12/10/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Dragón,Fursuit,Discord,0,9,32,0,0,0.002,08/11/2026,activo,si
+U000788,CobreTail92,25/06/2026,Argentina,Buenos Aires,Buenos Aires,-34.6573,-58.3041,America/Argentina/Buenos_Aires,25-31,Reptil,Cosplay,Telegram,1,0,0,0,0,0.275,25/06/2026,inactivo,si
+U000789,NovaSpark46,26/10/2024,México,CDMX,Ciudad de México,19.431,-99.098,America/Mexico_City,39+,Husky,Streaming/Contenido,Telegram,0,0,0,0,0,0.492,13/07/2026,inactivo,si
+U000790,MikaKin70,14/07/2023,México,Tabasco,Villahermosa,17.9738,-92.9456,America/Mexico_City,18-24,Gato,Streaming/Contenido,Telegram,0,4,10,0,0,0.213,19/10/2026,en_riesgo,si
+U000791,OnixPaw91,30/08/2026,México,Quintana Roo,Cancún,,,America/Cancun,18-24,Conejo,Videojuegos,TikTok,0,10,31,0,0,0.012,26/10/2026,activo,si
+U000792,SombraInk46,19/08/2022,México,Querétaro,Querétaro,,,America/Mexico_City,39+,Lobo,Convenciones,Facebook,0,3,10,0,0,-0.177,15/10/2026,en_riesgo,si
+U000793,NeoHowl16,12/09/2025,México,Nuevo León,Monterrey,,,America/Monterrey,39+,Gato,Cosplay,Discord,0,2,5,1,0,0.756,23/10/2026,en_riesgo,no
+U000794,ZorriHowl14,16/10/2026,México,Yucatán,Mérida,,,America/Merida,25-31,Gato,Cómics,TikTok,0,1,3,2,0,0.531,16/10/2026,en_riesgo,si
+U000795,BrumaTail52,30/07/2022,Chile,Región Metropolitana,Santiago,,,America/Santiago,18-24,Ave,Arte tradicional,Telegram,1,2,5,0,1,0.308,24/10/2026,en_riesgo,si
+U000796,CobreKin70,16/01/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Gato,Videojuegos,Telegram,0,0,0,0,0,0.199,21/07/2026,inactivo,no
+U000797,NubeByte13,18/02/2025,México,Nuevo León,Monterrey,,,America/Monterrey,25-31,Perro,Arte digital,Twitter/X,0,13,19,1,3,0.627,28/10/2026,activo,no
+U000798,LunaMoon55,21/01/2023,México,CDMX,Ciudad de México,19.381,-99.1255,America/Mexico_City,18-24,Gato,Arte tradicional,Telegram,1,6,15,0,5,0.015,08/11/2026,activo,si
+U000799,BrumaByte49,17/06/2024,México,Yucatán,Mérida,,,America/Merida,18-24,Gato,Arte digital,TikTok,1,0,0,0,0,0.469,07/08/2026,inactivo,no
+U000800,LunaKin42,05/05/2026,España,Comunidad de Madrid,Madrid,40.4902,-3.6696,Europe/Madrid,25-31,Zorro,Arte digital,Telegram,1,1,1,0,5,-0.024,15/10/2026,en_riesgo,si
+U000801,LunaArt1,04/03/2022,México,Yucatán,Mérida,20.971,-89.5777,America/Merida,25-31,Dragón,Arte digital,Facebook,1,6,22,0,0,0.485,09/11/2026,activo,si
+U000802,PixelCh'a52,05/11/2026,Estados Unidos,Texas,Houston,29.6973,-95.3996,America/Chicago,25-31,Zorro,Arte tradicional,TikTok,1,11,22,0,5,-0.029,05/11/2026,activo,si
+U000803,CobreWolf57,22/06/2022,México,Quintana Roo,Cancún,21.1991,-86.9262,America/Cancun,25-31,Perro,Cosplay,TikTok,0,10,28,0,0,0.094,31/10/2026,activo,si
+U000804,RuneArt26,30/01/2024,México,Yucatán,Mérida,20.9488,-89.5948,America/Merida,18-24,Dragón,Streaming/Contenido,TikTok,0,3,4,0,0,0.511,22/10/2026,en_riesgo,si
+U000805,SombraPelaje50,19/02/2023,México,Puebla,Puebla,19.0137,-98.2394,America/Mexico_City,18-24,Conejo,Streaming/Contenido,Facebook,0,4,9,0,0,0.184,23/10/2026,en_riesgo,si
+U000806,RuneFang51,24/02/2026,México,Guanajuato,León,21.1467,-101.6501,America/Mexico_City,18-24,Husky,Fursuit,Facebook,0,0,0,0,1,-0.371,01/09/2026,inactivo,si
+U000807,NeoMoon46,07/11/2023,Estados Unidos,Texas,Houston,29.7097,-95.3858,America/Chicago,25-31,Zorro,Convenciones,Telegram,0,0,0,0,0,-0.13,11/10/2025,inactivo,si
+U000808,PixelPelaje43,02/12/2025,México,Yucatán,Mérida,20.9724,-89.6809,America/Merida,25-31,Coyote,Fursuit,Telegram,0,0,0,0,3,-0.506,29/07/2026,inactivo,si
+U000809,RuneSpark90,08/03/2024,México,CDMX,Ciudad de México,19.492,-99.1844,America/Mexico_City,25-31,Híbrido/Otro,Videojuegos,Facebook,0,0,0,0,0,-0.017,13/07/2026,inactivo,si
+U000810,KuroFox20,24/09/2024,México,Nuevo León,Monterrey,25.5992,-100.3481,America/Monterrey,32-38,Coyote,Streaming/Contenido,TikTok,0,10,29,0,1,0.726,28/10/2026,activo,si
+U000811,LoboMaya96,03/07/2025,México,Veracruz,Veracruz,,,America/Mexico_City,18-24,Perro,Cosplay,Telegram,1,9,14,4,0,0.191,08/11/2026,activo,no
+U000812,NovaFox62,25/11/2023,México,Baja California,Tijuana,,,America/Tijuana,18-24,Lobo,Arte digital,Facebook,1,0,0,0,2,0.312,24/07/2026,inactivo,no
+U000813,BrumaFox33,22/07/2024,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Coyote,Videojuegos,Telegram,0,1,3,2,0,0.141,17/09/2026,en_riesgo,si
+U000814,OnixByte15,25/04/2024,México,Yucatán,Mérida,20.8973,-89.5894,America/Merida,25-31,Tigre,Escritura/Historias,Twitter/X,0,0,0,0,0,0.212,08/07/2026,inactivo,si
+U000815,RunePelaje67,06/11/2026,México,Oaxaca,Oaxaca,,,America/Mexico_City,32-38,Conejo,Videojuegos,Facebook,1,7,25,0,0,-0.261,06/11/2026,activo,no
+U000816,PixelDash97,16/08/2024,México,Campeche,Campeche,19.899,-90.5251,America/Merida,32-38,Zorro,Escritura/Historias,Facebook,0,18,55,0,0,0.039,03/11/2026,activo,si
+U000817,NubeKin13,11/12/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Conejo,Arte digital,Telegram,1,0,0,0,2,0.42,12/08/2026,inactivo,no
+U000818,LoboArt5,14/01/2025,Perú,Lima,Lima,-12.065,-76.998,America/Lima,18-24,Dragón,Arte digital,Telegram,1,0,0,0,0,0.387,10/07/2026,inactivo,si
+U000819,NovaPelaje41,09/09/2022,México,Campeche,Campeche,,,America/Merida,25-31,Zorro,Cosplay,Telegram,0,3,5,1,1,0.381,12/10/2026,en_riesgo,si
+U000820,LunaMoon3,07/10/2025,Colombia,Cundinamarca,Bogotá,4.6346,-74.0371,America/Bogota,18-24,Dragón,Arte digital,TikTok,1,11,33,0,2,0.693,29/10/2026,activo,si
+U000821,CobreCh'a16,01/06/2023,México,Tabasco,Villahermosa,17.9259,-92.976,America/Mexico_City,25-31,Dragón,Arte digital,Facebook,1,7,27,0,0,0.816,01/11/2026,activo,si
+U000822,OnixKin89,03/06/2022,México,Nuevo León,Monterrey,25.724,-100.267,America/Monterrey,18-24,Dragón,Arte tradicional,Telegram,1,4,13,0,2,0.353,03/11/2026,activo,si
+U000823,TalaZac59,06/07/2026,México,Jalisco,Guadalajara,,,America/Mexico_City,25-31,Perro,Arte digital,Facebook,1,0,0,0,0,0.394,21/07/2026,inactivo,si
+U000824,NubeSpark56,13/09/2022,Colombia,Cundinamarca,Bogotá,,,America/Bogota,32-38,Coyote,Videojuegos,Twitter/X,0,4,12,0,0,0.292,09/11/2026,activo,si
+U000825,LunaMoon33,28/06/2026,México,CDMX,Ciudad de México,19.4214,-99.2056,America/Mexico_City,18-24,Husky,Streaming/Contenido,TikTok,0,1,1,0,0,0.57,04/10/2026,en_riesgo,si
+U000826,FlareWolf74,20/01/2024,Argentina,Buenos Aires,Buenos Aires,-34.6526,-58.4294,America/Argentina/Buenos_Aires,32-38,Lobo,Convenciones,Telegram,0,7,19,0,0,1,04/11/2026,activo,si
+U000827,PixelPaw12,12/11/2022,México,Quintana Roo,Cancún,,,America/Cancun,25-31,Perro,Música,Instagram,1,36,77,0,0,0.425,31/10/2026,activo,si
+U000828,YukiDash87,25/07/2025,México,Quintana Roo,Cancún,,,America/Cancun,39+,Perro,Arte digital,Telegram,1,15,26,0,0,0.02,05/11/2026,activo,no
+U000829,LoboFox37,14/03/2024,México,Yucatán,Mérida,21.0145,-89.6955,America/Merida,18-24,Tigre,Arte tradicional,Telegram,1,0,0,0,0,0.715,10/05/2026,inactivo,si
+U000830,SombraHowl43,02/01/2025,México,CDMX,Ciudad de México,19.378,-99.1572,America/Mexico_City,18-24,Lobo,Convenciones,Discord,0,0,0,1,0,0.186,14/02/2026,inactivo,si
+U000831,AshSpark52,29/10/2025,México,Yucatán,Mérida,21.0487,-89.6048,America/Merida,32-38,Perro,Videojuegos,Discord,0,51,182,0,0,0.35,26/10/2026,activo,si
+U000832,BrumaZac81,03/07/2023,México,Nuevo León,Monterrey,,,America/Monterrey,18-24,Perro,Videojuegos,Facebook,0,0,0,0,0,0.184,26/06/2026,inactivo,no
+U000833,YukiHowl69,06/05/2026,México,Chihuahua,Chihuahua,28.6675,-106.0739,America/Chihuahua,18-24,Conejo,Convenciones,Telegram,0,3,4,0,0,1,28/09/2026,en_riesgo,si
+U000834,ZetaMoon91,26/03/2026,México,Jalisco,Guadalajara,20.6082,-103.4119,America/Mexico_City,18-24,Zorro,Videojuegos,Discord,0,4,10,0,0,0.12,29/09/2026,en_riesgo,si
+U000835,PixelPelaje15,24/09/2024,México,Yucatán,Mérida,21.029,-89.6968,America/Merida,18-24,Reptil,Cómics,Telegram,0,5,19,0,0,0.038,03/11/2026,activo,si
+U000836,ZetaInk80,08/01/2025,México,CDMX,Ciudad de México,19.3838,-99.1219,America/Mexico_City,18-24,Lobo,Convenciones,Telegram,1,2,4,1,1,0.119,29/09/2026,en_riesgo,si
+U000837,FlareKin65,22/10/2023,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Lobo,Cómics,Facebook,0,8,24,0,0,0.383,08/11/2026,activo,si
+U000838,LoboMaya3,22/03/2024,México,CDMX,Ciudad de México,19.4101,-99.1289,America/Mexico_City,32-38,Husky,Streaming/Contenido,Telegram,0,16,39,0,0,0.631,05/11/2026,activo,si
+U000839,TalaFang84,16/06/2022,México,Jalisco,Guadalajara,20.6132,-103.3158,America/Mexico_City,18-24,Ave,Streaming/Contenido,Telegram,0,4,6,0,0,-0.114,21/09/2026,en_riesgo,si
+U000840,NubeInk70,19/06/2024,México,Nuevo León,Monterrey,25.6596,-100.3327,America/Monterrey,32-38,Lobo,Arte digital,Facebook,1,7,24,0,0,0.808,01/11/2026,activo,si
+U000841,LunaCh'a41,16/07/2023,México,CDMX,Ciudad de México,19.3755,-99.1255,America/Mexico_City,32-38,Zorro,Streaming/Contenido,Facebook,0,0,0,0,0,0.659,08/06/2026,inactivo,si
+U000842,MikaPelaje44,01/01/2025,México,Baja California,Tijuana,32.4933,-116.9972,America/Tijuana,25-31,Conejo,Fursuit,Telegram,0,2,3,1,0,-0.038,18/09/2026,en_riesgo,si
+U000843,BrumaMoon91,28/02/2026,Argentina,Buenos Aires,Buenos Aires,-34.6472,-58.3216,America/Argentina/Buenos_Aires,18-24,Perro,Arte tradicional,Instagram,1,8,29,1,5,-0.277,03/11/2026,activo,si
+U000844,LunaPelaje9,31/05/2025,México,Campeche,Campeche,19.9181,-90.6056,America/Merida,25-31,Dragón,Escritura/Historias,Instagram,0,10,22,0,0,0.488,22/10/2026,en_riesgo,si
+U000845,KibaZac51,08/09/2026,México,Veracruz,Veracruz,19.1479,-96.0522,America/Mexico_City,25-31,Coyote,Cosplay,Facebook,0,7,9,1,0,0.358,01/10/2026,en_riesgo,si
+U000846,BrunoClaw68,12/09/2022,México,CDMX,Ciudad de México,19.3826,-99.188,America/Mexico_City,25-31,Ave,Arte tradicional,Facebook,0,3,11,0,3,-0.293,20/10/2026,en_riesgo,si
+U000847,BrumaMoon20,21/05/2022,México,Jalisco,Guadalajara,20.7039,-103.4009,America/Mexico_City,25-31,Híbrido/Otro,Fursuit,Discord,1,0,0,4,0,0.266,23/10/2026,en_riesgo,si
+U000848,PixelPaw75,15/05/2025,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,25-31,Zorro,Arte tradicional,Telegram,0,3,5,0,1,0.753,13/10/2026,en_riesgo,si
+U000849,YukiInk62,10/04/2023,México,Nuevo León,Monterrey,25.6358,-100.2885,America/Monterrey,25-31,Tigre,Arte digital,Discord,0,65,203,3,2,0.047,28/10/2026,activo,si
+U000850,TalaWolf68,19/01/2024,México,Nuevo León,Monterrey,25.7205,-100.361,America/Monterrey,18-24,Perro,Arte tradicional,Instagram,1,11,30,0,2,-0.15,30/10/2026,activo,si
+U000851,MikaCh'a31,26/03/2022,México,Yucatán,Mérida,20.9859,-89.5759,America/Merida,18-24,Lobo,Cómics,TikTok,0,0,0,0,0,0.422,23/10/2026,en_riesgo,si
+U000852,NeoPelaje18,03/07/2023,México,Yucatán,Mérida,20.9066,-89.6843,America/Merida,32-38,Perro,Escritura/Historias,Facebook,0,47,137,0,0,-0.119,23/10/2026,en_riesgo,si
+U000853,CobreMoon67,26/05/2025,México,Jalisco,Guadalajara,20.6204,-103.3164,America/Mexico_City,32-38,Husky,Videojuegos,TikTok,0,3,7,0,0,0.829,09/10/2026,en_riesgo,si
+U000854,KibaHowl44,31/08/2026,México,Guanajuato,León,21.0539,-101.6315,America/Mexico_City,32-38,Lobo,Arte digital,Twitter/X,1,5,9,0,5,0.321,13/10/2026,en_riesgo,si
+U000855,CobreFang86,08/02/2025,México,CDMX,Ciudad de México,19.4949,-99.1554,America/Mexico_City,18-24,Zorro,Convenciones,Telegram,0,4,6,3,0,0.16,20/10/2026,en_riesgo,si
+U000856,LoboPelaje83,17/01/2024,Perú,Lima,Lima,,,America/Lima,25-31,Ave,Streaming/Contenido,Telegram,0,14,45,0,0,0.539,07/11/2026,activo,no
+U000857,ZorriCh'a28,08/05/2025,México,Quintana Roo,Cancún,21.135,-86.7941,America/Cancun,25-31,Zorro,Streaming/Contenido,TikTok,0,3,5,2,0,0.278,02/10/2026,en_riesgo,si
+U000858,MikaFang6,23/04/2025,Estados Unidos,California,Los Ángeles,,,America/Los_Angeles,18-24,Zorro,Arte digital,Twitter/X,1,0,0,0,2,0.004,17/10/2026,en_riesgo,no
+U000859,NovaPelaje25,03/03/2025,Perú,Lima,Lima,,,America/Lima,18-24,Zorro,Fursuit,Facebook,0,5,7,4,0,0.131,25/10/2026,en_riesgo,si
+U000860,YukiCh'a39,30/08/2025,México,Querétaro,Querétaro,20.5669,-100.3687,America/Mexico_City,18-24,Híbrido/Otro,Arte digital,Facebook,1,0,0,0,0,0.793,26/07/2026,inactivo,si
+U000861,TalaFox23,14/12/2025,México,Puebla,Puebla,18.9784,-98.2379,America/Mexico_City,18-24,Gato,Arte tradicional,Telegram,1,3,5,0,0,-0.073,13/10/2026,en_riesgo,si
+U000862,YukiClaw14,30/03/2026,México,Puebla,Puebla,19.0031,-98.1507,America/Mexico_City,32-38,Gato,Arte digital,Telegram,1,0,0,0,0,0.324,08/09/2026,inactivo,si
+U000863,CobrePaw45,14/09/2026,México,CDMX,Ciudad de México,19.5019,-99.1379,America/Mexico_City,32-38,Dragón,Convenciones,Discord,0,16,62,2,0,-0.159,08/11/2026,activo,si
+U000864,LunaClaw13,05/07/2025,México,CDMX,Ciudad de México,19.4045,-99.0593,America/Mexico_City,25-31,Lobo,Arte tradicional,TikTok,1,4,8,0,5,0.2,06/11/2026,activo,si
+U000865,SombraCh'a96,27/01/2024,México,CDMX,Ciudad de México,19.4803,-99.1427,America/Mexico_City,18-24,Lobo,Convenciones,Discord,1,101,207,1,0,0.084,25/10/2026,en_riesgo,si
+U000866,PixelFang75,16/07/2024,México,Puebla,Puebla,19.0067,-98.1342,America/Mexico_City,32-38,Perro,Streaming/Contenido,Telegram,0,6,8,0,0,0.637,28/10/2026,activo,si
+U000867,TalaPaw7,12/11/2023,México,Yucatán,Mérida,20.9246,-89.6018,America/Merida,39+,Híbrido/Otro,Cómics,Instagram,0,7,14,0,0,0.362,07/10/2026,en_riesgo,si
+U000868,RuneFang52,23/09/2023,México,Nuevo León,Monterrey,,,America/Monterrey,18-24,Gato,Convenciones,Twitter/X,0,9,17,1,0,0.165,03/11/2026,activo,no
+U000869,RexKin32,28/05/2025,México,CDMX,Ciudad de México,19.3978,-99.1714,America/Mexico_City,18-24,Coyote,Videojuegos,TikTok,0,18,68,0,0,0.011,10/10/2026,en_riesgo,si
+U000870,AshWolf13,21/08/2024,México,Jalisco,Guadalajara,20.6361,-103.3139,America/Mexico_City,18-24,Lobo,Cosplay,Twitter/X,0,13,17,1,0,0.347,20/10/2026,en_riesgo,si
+U000871,LunaZac94,02/01/2024,México,CDMX,Ciudad de México,19.4972,-99.1657,America/Mexico_City,25-31,Ave,Convenciones,Telegram,1,6,14,0,0,0.178,27/10/2026,activo,si
+U000872,SombraTail57,14/03/2025,México,CDMX,Ciudad de México,19.437,-99.159,America/Mexico_City,25-31,Gato,Convenciones,Telegram,0,0,0,0,0,1,19/03/2026,inactivo,si
+U000873,BrunoTail90,31/07/2026,México,Yucatán,Mérida,20.8963,-89.5484,America/Merida,32-38,Husky,Cosplay,Telegram,0,2,5,2,0,0.122,19/10/2026,en_riesgo,si
+U000874,OnixMoon24,27/01/2022,México,Querétaro,Querétaro,,,America/Mexico_City,32-38,Conejo,Streaming/Contenido,TikTok,0,4,7,0,1,0.16,19/10/2026,en_riesgo,si
+U000875,NubeFang55,13/03/2024,Chile,Región Metropolitana,Santiago,-33.5184,-70.6707,America/Santiago,18-24,Zorro,Música,Telegram,0,0,0,0,0,0.203,22/08/2026,inactivo,si
+U000876,SolMoon54,14/11/2024,México,Campeche,Campeche,19.7989,-90.4772,America/Merida,25-31,Perro,Arte digital,Facebook,1,3,3,2,3,-0.121,22/10/2026,en_riesgo,si
+U000877,YukiArt46,01/06/2025,México,Nuevo León,Monterrey,25.6106,-100.347,America/Monterrey,25-31,Gato,Música,TikTok,0,0,0,0,0,0.223,23/12/2025,inactivo,si
+U000878,SombraHowl81,09/08/2024,México,Querétaro,Querétaro,20.5326,-100.459,America/Mexico_City,18-24,Híbrido/Otro,Fursuit,Twitter/X,0,5,12,1,5,0.382,19/10/2026,en_riesgo,si
+U000879,RuneWolf41,04/10/2026,México,CDMX,Ciudad de México,19.4917,-99.1169,America/Mexico_City,18-24,Coyote,Streaming/Contenido,Instagram,0,2,3,0,1,0.486,04/11/2026,activo,si
+U000880,BrumaHowl81,25/05/2024,México,CDMX,Ciudad de México,19.4593,-99.174,America/Mexico_City,18-24,Zorro,Cómics,Facebook,0,1,2,0,0,0.123,25/10/2026,en_riesgo,si
+U000881,KuroCh'a78,15/09/2022,México,Chihuahua,Chihuahua,28.7031,-106.128,America/Chihuahua,18-24,Gato,Videojuegos,Telegram,0,16,20,0,0,0.199,25/10/2026,en_riesgo,si
+U000882,MikaDash60,08/05/2022,México,Yucatán,Mérida,20.947,-89.6553,America/Merida,18-24,Dragón,Arte digital,Instagram,1,0,0,0,1,0.88,23/10/2025,inactivo,si
+U000883,YukiClaw26,01/05/2025,México,Baja California,Tijuana,32.5399,-117.0941,America/Tijuana,18-24,Lobo,Fursuit,Telegram,0,0,0,1,5,0.168,20/07/2026,inactivo,si
+U000884,NeoPelaje43,28/11/2022,México,Baja California,Tijuana,,,America/Tijuana,32-38,Zorro,Arte digital,Twitter/X,1,6,23,0,0,-0.019,21/10/2026,en_riesgo,no
+U000885,OnixTail36,26/06/2024,Perú,Lima,Lima,-12.1266,-76.9704,America/Lima,25-31,Lobo,Cómics,Discord,0,0,0,0,1,-0.141,03/09/2026,inactivo,si
+U000886,KibaClaw19,08/10/2024,México,Jalisco,Guadalajara,20.7147,-103.2747,America/Mexico_City,39+,Lobo,Convenciones,Instagram,0,11,15,1,1,0.869,26/10/2026,activo,si
+U000887,KibaWolf87,17/08/2026,México,Quintana Roo,Cancún,21.1926,-86.8758,America/Cancun,32-38,Zorro,Arte digital,TikTok,1,16,59,0,0,0.878,04/11/2026,activo,si
+U000888,ZorriKin41,09/06/2026,México,Yucatán,Mérida,20.9853,-89.6886,America/Merida,39+,Híbrido/Otro,Videojuegos,Twitter/X,0,10,35,0,0,0.404,23/10/2026,en_riesgo,si
+U000889,AshCh'a85,14/08/2024,México,Guanajuato,León,,,America/Mexico_City,18-24,Gato,Arte tradicional,Discord,1,14,45,0,5,-0.428,10/10/2026,en_riesgo,no
+U000890,SolPelaje30,24/09/2023,México,Oaxaca,Oaxaca,17.0264,-96.7882,America/Mexico_City,18-24,Zorro,Cómics,Instagram,0,2,7,0,0,0.629,29/09/2026,en_riesgo,si
+U000891,KibaClaw97,11/09/2022,México,Quintana Roo,Cancún,21.0801,-86.7895,America/Cancun,39+,Dragón,Videojuegos,TikTok,0,3,9,0,0,0.134,01/11/2026,activo,si
+U000892,CobrePaw34,20/06/2024,México,CDMX,Ciudad de México,19.4584,-99.1536,America/Mexico_City,18-24,Conejo,Fursuit,Telegram,0,3,10,1,0,0.113,01/11/2026,activo,si
+U000893,SombraKin40,26/08/2026,Colombia,Cundinamarca,Bogotá,4.7017,-74.0254,America/Bogota,18-24,Gato,Videojuegos,Telegram,0,5,12,0,0,0.3,02/10/2026,en_riesgo,si
+U000894,CobreMoon79,17/08/2024,México,Nuevo León,Monterrey,25.6604,-100.2696,America/Monterrey,32-38,Lobo,Streaming/Contenido,Twitter/X,0,0,0,0,0,0.835,03/02/2026,inactivo,si
+U000895,NubeByte81,27/05/2026,México,CDMX,Ciudad de México,19.3794,-99.1022,America/Mexico_City,18-24,Husky,Videojuegos,Facebook,0,2,4,0,0,-0.592,14/10/2026,en_riesgo,si
+U000896,ZorriPaw49,18/05/2022,Estados Unidos,California,Los Ángeles,33.9972,-118.205,America/Los_Angeles,18-24,Perro,Videojuegos,Telegram,0,9,29,0,0,0.244,31/10/2026,activo,si
+U000897,ZorriDash39,13/09/2023,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Dragón,Streaming/Contenido,TikTok,0,0,0,0,0,0.232,17/10/2026,en_riesgo,si
+U000898,RexPelaje93,03/02/2023,México,Puebla,Puebla,19.0106,-98.2455,America/Mexico_City,18-24,Gato,Cómics,Telegram,0,0,0,1,1,0.598,17/08/2026,inactivo,si
+U000899,TalaFox59,15/04/2026,México,Yucatán,Mérida,20.9743,-89.563,America/Merida,18-24,Dragón,Videojuegos,Instagram,0,5,11,0,0,0.286,22/09/2026,en_riesgo,si
+U000900,KibaPelaje79,27/08/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Dragón,Música,Facebook,1,0,0,0,0,0.391,29/07/2026,inactivo,no
+U000901,NubeWolf3,19/06/2024,México,Jalisco,Guadalajara,20.6449,-103.331,America/Mexico_City,25-31,Perro,Arte digital,Telegram,1,0,0,0,5,0.107,20/06/2026,inactivo,si
+U000902,NeoCh'a76,23/08/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Perro,Escritura/Historias,Instagram,0,1,1,2,0,-0.151,17/09/2026,en_riesgo,si
+U000903,NeoByte55,04/07/2025,México,Quintana Roo,Cancún,,,America/Cancun,39+,Gato,Arte tradicional,Telegram,1,2,3,0,2,-0.132,16/09/2026,en_riesgo,si
+U000904,ZetaSpark65,22/04/2023,México,Jalisco,Guadalajara,20.7281,-103.4051,America/Mexico_City,32-38,Dragón,Música,Telegram,0,3,8,0,0,-0.165,05/11/2026,activo,si
+U000905,KibaFox71,16/04/2022,México,CDMX,Ciudad de México,19.4921,-99.1479,America/Mexico_City,18-24,Conejo,Arte tradicional,Telegram,1,21,79,0,0,0.379,30/10/2026,activo,si
+U000906,ZorriMoon65,02/11/2025,México,Yucatán,Mérida,21.0106,-89.6294,America/Merida,18-24,Lobo,Convenciones,TikTok,0,0,0,1,0,0.294,05/10/2026,en_riesgo,si
+U000907,YukiMoon81,01/09/2026,Colombia,Cundinamarca,Bogotá,4.7059,-74.0556,America/Bogota,18-24,Gato,Arte digital,Telegram,1,18,69,0,0,0.655,31/10/2026,activo,si
+U000908,ÁmbarInk25,19/05/2024,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Lobo,Streaming/Contenido,TikTok,0,15,20,0,0,0.117,09/11/2026,activo,no
+U000909,RuneFang31,09/12/2024,México,Quintana Roo,Cancún,21.1111,-86.9044,America/Cancun,18-24,Conejo,Fursuit,Telegram,0,1,2,0,5,0.067,09/10/2026,en_riesgo,si
+U000910,LunaMoon75,31/10/2026,México,Yucatán,Mérida,21.0028,-89.6832,America/Merida,18-24,Gato,Convenciones,Telegram,0,5,11,1,0,0.729,31/10/2026,activo,si
+U000911,ÁmbarFang82,15/04/2026,México,Yucatán,Mérida,,,America/Merida,25-31,Zorro,Arte digital,TikTok,1,4,5,0,3,0.702,27/09/2026,en_riesgo,si
+U000912,BrumaKin7,20/03/2023,México,Puebla,Puebla,19.0858,-98.1837,America/Mexico_City,18-24,Husky,Videojuegos,Facebook,0,4,5,0,0,0.546,05/11/2026,activo,si
+U000913,YukiArt81,09/08/2025,México,Yucatán,Mérida,,,America/Merida,18-24,Gato,Arte tradicional,Telegram,1,9,22,0,1,0.089,04/11/2026,activo,si
+U000914,LunaWolf23,07/08/2024,México,Guanajuato,León,21.0791,-101.727,America/Mexico_City,18-24,Perro,Arte digital,TikTok,0,82,283,0,2,-0.218,05/11/2026,activo,si
+U000915,MikaTail88,12/03/2024,México,CDMX,Ciudad de México,19.5019,-99.1921,America/Mexico_City,25-31,Coyote,Arte tradicional,Facebook,0,1,3,0,3,0.785,13/10/2026,en_riesgo,si
+U000916,FlareClaw54,19/07/2024,México,Quintana Roo,Cancún,,,America/Cancun,18-24,Zorro,Escritura/Historias,Facebook,0,31,83,0,0,0.013,04/11/2026,activo,no
+U000917,RuneCh'a31,19/07/2024,México,Yucatán,Mérida,21.0169,-89.6175,America/Merida,25-31,Zorro,Fursuit,TikTok,0,120,391,0,3,0.382,18/10/2026,en_riesgo,si
+U000918,BrunoMaya54,15/01/2026,México,Baja California,Tijuana,,,America/Tijuana,32-38,Reptil,Arte digital,Instagram,1,1,2,0,0,1,25/09/2026,en_riesgo,si
+U000919,MikaZac11,26/04/2025,México,Querétaro,Querétaro,,,America/Mexico_City,25-31,Perro,Videojuegos,Telegram,0,25,56,0,1,0.15,08/11/2026,activo,si
+U000920,RexClaw74,18/03/2025,México,CDMX,Ciudad de México,19.4927,-99.0933,America/Mexico_City,18-24,Gato,Fursuit,Telegram,0,0,0,0,3,0.258,15/10/2026,en_riesgo,si
+U000921,ÁmbarKin57,27/03/2023,México,Jalisco,Guadalajara,20.6529,-103.35,America/Mexico_City,32-38,Gato,Cosplay,Facebook,0,0,0,1,0,-0.057,03/07/2026,inactivo,si
+U000922,KuroByte5,31/07/2025,México,Yucatán,Mérida,21.0118,-89.5617,America/Merida,32-38,Híbrido/Otro,Arte digital,Instagram,0,4,5,0,2,0.234,22/09/2026,en_riesgo,si
+U000923,LoboByte39,20/06/2025,México,Nuevo León,Monterrey,,,America/Monterrey,18-24,Perro,Cosplay,Facebook,0,0,0,0,0,0.011,05/06/2026,inactivo,si
+U000924,ÁmbarFang30,01/10/2024,México,Quintana Roo,Cancún,,,America/Cancun,18-24,Perro,Videojuegos,TikTok,0,81,322,0,0,0.177,09/11/2026,activo,si
+U000925,SombraKin13,04/03/2024,Estados Unidos,California,Los Ángeles,34.0515,-118.1786,America/Los_Angeles,18-24,Híbrido/Otro,Música,Discord,0,11,33,0,0,0.238,08/11/2026,activo,si
+U000926,LoboPaw47,17/12/2025,México,Yucatán,Mérida,20.9623,-89.5468,America/Merida,32-38,Lobo,Arte tradicional,Instagram,1,0,0,0,2,0.13,09/01/2026,inactivo,si
+U000927,RexTail82,19/01/2025,México,CDMX,Ciudad de México,19.4124,-99.1824,America/Mexico_City,39+,Lobo,Convenciones,Instagram,1,0,0,1,0,0.401,03/11/2025,inactivo,si
+U000928,ZorriByte1,05/09/2025,México,Puebla,Puebla,,,America/Mexico_City,18-24,Gato,Arte digital,Facebook,0,0,0,0,1,-0.037,25/08/2026,inactivo,no
+U000929,NovaClaw55,10/05/2024,México,Yucatán,Mérida,20.9469,-89.5828,America/Merida,18-24,Coyote,Música,Facebook,0,3,9,0,0,0.431,13/10/2026,en_riesgo,si
+U000930,SolMoon66,22/07/2026,México,Yucatán,Mérida,20.9641,-89.5455,America/Merida,32-38,Zorro,Música,Discord,0,8,27,0,0,1,27/10/2026,activo,si
+U000931,AshPaw62,06/12/2024,México,Yucatán,Mérida,21.0454,-89.6124,America/Merida,18-24,Zorro,Música,Telegram,0,0,0,0,0,-0.056,08/09/2026,inactivo,si
+U000932,NovaCh'a78,07/02/2023,México,CDMX,Ciudad de México,19.4391,-99.1722,America/Mexico_City,18-24,Coyote,Fursuit,TikTok,0,0,0,1,5,0.393,11/10/2025,inactivo,si
+U000933,KibaClaw92,20/02/2024,Argentina,Buenos Aires,Buenos Aires,-34.6485,-58.4398,America/Argentina/Buenos_Aires,18-24,Lobo,Arte tradicional,Twitter/X,0,6,19,0,3,0.205,07/11/2026,activo,si
+U000934,TalaZac30,05/03/2026,México,Querétaro,Querétaro,20.5351,-100.4545,America/Mexico_City,25-31,Lobo,Cómics,Facebook,0,0,0,0,0,0.042,23/10/2026,en_riesgo,si
+U000935,LunaByte3,21/06/2025,México,CDMX,Ciudad de México,19.3869,-99.1814,America/Mexico_City,18-24,Gato,Música,Facebook,0,0,0,0,0,0.24,29/06/2026,inactivo,si
+U000936,TalaWolf63,29/11/2023,Estados Unidos,California,Los Ángeles,34.0865,-118.2205,America/Los_Angeles,25-31,Híbrido/Otro,Escritura/Historias,Instagram,0,0,0,0,0,0.249,16/08/2026,inactivo,si
+U000937,BrunoPelaje51,18/09/2026,México,Chihuahua,Chihuahua,28.6065,-106.1229,America/Chihuahua,18-24,Lobo,Convenciones,Telegram,0,3,10,2,0,0.733,18/09/2026,en_riesgo,si
+U000938,FlareMoon3,17/09/2023,México,Jalisco,Guadalajara,20.7262,-103.4034,America/Mexico_City,32-38,Híbrido/Otro,Videojuegos,Telegram,0,9,16,1,0,0.061,09/11/2026,activo,si
+U000939,OnixFang64,03/05/2026,México,Quintana Roo,Cancún,21.1546,-86.8977,America/Cancun,18-24,Husky,Fursuit,TikTok,0,3,6,0,5,-0.191,01/11/2026,activo,si
+U000940,NubeMoon60,09/06/2025,México,Veracruz,Veracruz,19.1101,-96.1561,America/Mexico_City,32-38,Husky,Streaming/Contenido,Telegram,0,0,0,0,0,0.877,27/06/2026,inactivo,si
+U000941,LoboSpark32,04/09/2023,México,Yucatán,Mérida,20.92,-89.6284,America/Merida,25-31,Perro,Arte digital,Instagram,1,11,19,0,1,0.482,03/11/2026,activo,si
+U000942,FlareKin71,12/05/2026,México,Jalisco,Guadalajara,20.6832,-103.2999,America/Mexico_City,18-24,Coyote,Arte tradicional,Telegram,1,3,4,0,3,0.657,02/10/2026,en_riesgo,si
+U000943,RexKin70,10/09/2023,México,CDMX,Ciudad de México,19.4599,-99.1426,America/Mexico_City,25-31,Perro,Arte digital,Discord,1,13,47,0,0,-0.02,31/10/2026,activo,si
+U000944,AshCh'a38,21/06/2024,México,Nuevo León,Monterrey,25.6849,-100.2796,America/Monterrey,25-31,Husky,Cómics,Discord,0,12,46,0,0,0.605,02/10/2026,en_riesgo,si
+U000945,YukiMoon78,12/10/2023,México,Oaxaca,Oaxaca,17.0965,-96.7843,America/Mexico_City,18-24,Lobo,Streaming/Contenido,Facebook,0,1,2,0,0,0.009,09/10/2026,en_riesgo,si
+U000946,BrunoCh'a22,28/02/2025,México,Tabasco,Villahermosa,18.02,-92.8518,America/Mexico_City,18-24,Zorro,Streaming/Contenido,TikTok,0,7,17,0,0,0.563,20/09/2026,en_riesgo,si
+U000947,NeoZac35,22/10/2024,México,CDMX,Ciudad de México,19.3613,-99.1763,America/Mexico_City,25-31,Gato,Convenciones,Facebook,0,0,0,1,1,0.31,21/02/2026,inactivo,si
+U000948,ÁmbarZac31,27/07/2026,México,Yucatán,Mérida,21.0332,-89.6583,America/Merida,18-24,Lobo,Convenciones,Facebook,0,2,4,0,0,0.073,11/10/2026,en_riesgo,si
+U000949,NovaArt26,02/05/2024,México,Quintana Roo,Cancún,21.1221,-86.7784,America/Cancun,18-24,Zorro,Arte tradicional,Telegram,1,9,14,0,5,0.537,07/11/2026,activo,si
+U000950,ZorriWolf40,16/11/2022,México,Quintana Roo,Cancún,21.1473,-86.9129,America/Cancun,39+,Dragón,Videojuegos,Instagram,0,1,3,1,0,0.216,05/10/2026,en_riesgo,si
+U000951,LunaDash18,13/07/2024,México,Yucatán,Mérida,20.9408,-89.6787,America/Merida,18-24,Perro,Videojuegos,Telegram,0,6,20,0,0,0.088,01/11/2026,activo,si
+U000952,TalaMaya4,24/02/2024,México,Yucatán,Mérida,,,America/Merida,18-24,Gato,Videojuegos,TikTok,0,3,8,0,0,0.687,19/09/2026,en_riesgo,si
+U000953,TalaPelaje30,23/06/2026,México,Quintana Roo,Cancún,21.1753,-86.805,America/Cancun,18-24,Zorro,Cómics,Telegram,0,20,50,0,0,0.377,05/11/2026,activo,si
+U000954,KuroPelaje18,25/08/2023,México,Quintana Roo,Cancún,21.2077,-86.8502,America/Cancun,39+,Gato,Arte digital,Telegram,0,4,5,0,5,0.062,26/09/2026,en_riesgo,si
+U000955,ZorriByte53,26/06/2025,México,Yucatán,Mérida,,,America/Merida,18-24,Conejo,Videojuegos,Instagram,0,12,25,0,0,0.478,20/10/2026,en_riesgo,si
+U000956,TalaFang1,08/10/2022,México,Jalisco,Guadalajara,20.7381,-103.4201,America/Mexico_City,18-24,Dragón,Escritura/Historias,Facebook,0,5,13,0,0,-0.015,23/10/2026,en_riesgo,si
+U000957,NeoMaya73,28/05/2025,México,Oaxaca,Oaxaca,,,America/Mexico_City,18-24,Lobo,Fursuit,Facebook,0,2,2,0,2,0.784,01/10/2026,en_riesgo,no
+U000958,TalaMaya91,01/02/2025,México,Guanajuato,León,21.0488,-101.6675,America/Mexico_City,25-31,Husky,Videojuegos,Facebook,0,3,11,0,0,0.674,01/11/2026,activo,si
+U000959,KibaKin88,23/03/2022,Colombia,Cundinamarca,Bogotá,4.6871,-74.1179,America/Bogota,25-31,Coyote,Música,Twitter/X,0,1,2,1,0,0.615,22/09/2026,en_riesgo,si
+U000960,OnixZac67,24/06/2024,México,Baja California,Tijuana,32.5575,-116.9983,America/Tijuana,18-24,Conejo,Arte tradicional,Instagram,1,7,20,0,0,0.239,02/11/2026,activo,si
+U000961,YukiSpark3,14/08/2024,México,Quintana Roo,Cancún,21.1673,-86.8105,America/Cancun,32-38,Zorro,Arte digital,Discord,1,1,3,0,1,-0.605,18/10/2026,en_riesgo,si
+U000962,AshKin58,22/01/2024,México,CDMX,Ciudad de México,19.4342,-99.1524,America/Mexico_City,18-24,Dragón,Cómics,Facebook,0,4,14,0,1,0.181,21/10/2026,en_riesgo,si
+U000963,PixelDash9,14/06/2023,México,Nuevo León,Monterrey,25.7295,-100.3801,America/Monterrey,18-24,Husky,Videojuegos,Facebook,0,8,17,5,0,0.149,09/10/2026,en_riesgo,si
+U000964,ÁmbarPaw57,19/09/2024,México,Jalisco,Guadalajara,20.5992,-103.4021,America/Mexico_City,32-38,Conejo,Arte digital,Facebook,1,0,0,0,0,-0.457,23/05/2026,inactivo,si
+U000965,FlareHowl71,23/12/2023,México,Querétaro,Querétaro,,,America/Mexico_City,25-31,Conejo,Arte tradicional,Telegram,1,2,2,0,1,0.348,17/09/2026,en_riesgo,no
+U000966,LunaArt83,21/03/2023,México,Quintana Roo,Cancún,,,America/Cancun,32-38,Perro,Arte digital,Telegram,1,8,15,0,3,0.173,02/10/2026,en_riesgo,no
+U000967,YukiWolf19,05/07/2025,México,CDMX,Ciudad de México,19.3801,-99.1966,America/Mexico_City,18-24,Dragón,Videojuegos,TikTok,1,2,7,1,0,0.634,23/09/2026,en_riesgo,si
+U000968,NubeFox13,21/10/2024,Argentina,Buenos Aires,Buenos Aires,-34.563,-58.3716,America/Argentina/Buenos_Aires,25-31,Perro,Escritura/Historias,TikTok,0,4,15,0,0,0.142,24/10/2026,en_riesgo,si
+U000969,BrumaDash23,06/06/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Gato,Música,Twitter/X,0,0,0,0,0,0.138,30/07/2026,inactivo,no
+U000970,YukiArt97,20/08/2024,México,Querétaro,Querétaro,20.5264,-100.4689,America/Mexico_City,18-24,Reptil,Cómics,TikTok,0,4,14,1,0,0.3,08/11/2026,activo,si
+U000971,NeoCh'a57,05/06/2025,México,CDMX,Ciudad de México,19.4985,-99.1391,America/Mexico_City,18-24,Lobo,Escritura/Historias,Instagram,0,8,17,0,0,-0.038,02/11/2026,activo,si
+U000972,LunaFang88,06/04/2025,México,Yucatán,Mérida,,,America/Merida,18-24,Lobo,Convenciones,Facebook,0,2,4,4,0,-0.247,03/10/2026,en_riesgo,no
+U000973,NovaWolf84,08/05/2024,México,CDMX,Ciudad de México,19.4468,-99.1478,America/Mexico_City,32-38,Dragón,Videojuegos,Telegram,0,3,11,1,0,0.64,13/10/2026,en_riesgo,si
+U000974,TalaMaya86,09/02/2026,México,CDMX,Ciudad de México,19.4491,-99.1854,America/Mexico_City,18-24,Reptil,Cómics,Twitter/X,0,4,11,0,0,0.892,25/10/2026,en_riesgo,si
+U000975,ZetaFox88,14/08/2026,México,Yucatán,Mérida,20.9406,-89.6285,America/Merida,25-31,Híbrido/Otro,Arte digital,Facebook,1,3,10,0,2,0.13,15/10/2026,en_riesgo,si
+U000976,CobreMoon29,29/12/2025,Perú,Lima,Lima,-12.0921,-77.0193,America/Lima,25-31,Perro,Arte digital,Twitter/X,0,7,9,0,3,0.969,29/10/2026,activo,si
+U000977,TalaSpark80,03/02/2023,México,Yucatán,Mérida,20.9396,-89.5479,America/Merida,25-31,Ave,Fursuit,Telegram,0,4,14,1,0,-0.109,06/11/2026,activo,si
+U000978,TalaPaw76,07/03/2022,Argentina,Buenos Aires,Buenos Aires,,,America/Argentina/Buenos_Aires,18-24,Husky,Convenciones,TikTok,0,3,3,2,0,0.168,25/10/2026,en_riesgo,no
+U000979,SombraDash81,22/04/2023,México,CDMX,Ciudad de México,19.4065,-99.1247,America/Mexico_City,18-24,Perro,Fursuit,Facebook,0,0,0,0,0,-0.116,13/06/2026,inactivo,si
+U000980,ZetaZac80,10/11/2025,México,Querétaro,Querétaro,20.5361,-100.3668,America/Mexico_City,18-24,Coyote,Música,Telegram,0,9,12,0,0,-0.004,09/10/2026,en_riesgo,si
+U000981,OnixInk56,21/07/2024,México,Puebla,Puebla,,,America/Mexico_City,18-24,Reptil,Arte digital,Telegram,1,3,10,0,3,0.3,14/10/2026,en_riesgo,si
+U000982,BrunoCh'a3,12/12/2025,México,Veracruz,Veracruz,,,America/Mexico_City,25-31,Reptil,Arte digital,Facebook,1,3,4,2,1,-0.158,08/11/2026,activo,si
+U000983,NubeDash49,04/01/2025,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Lobo,Videojuegos,Telegram,0,3,8,0,0,0.103,25/09/2026,en_riesgo,no
+U000984,SolFang86,29/07/2024,México,Puebla,Puebla,19.0517,-98.2154,America/Mexico_City,18-24,Lobo,Cómics,Telegram,1,29,63,1,0,0.029,26/10/2026,activo,si
+U000985,ZorriHowl88,09/02/2025,México,CDMX,Ciudad de México,19.3925,-99.1272,America/Mexico_City,18-24,Coyote,Convenciones,Discord,0,12,30,0,0,0.089,31/10/2026,activo,si
+U000986,BrunoMoon60,26/01/2023,Argentina,Buenos Aires,Buenos Aires,-34.5253,-58.3636,America/Argentina/Buenos_Aires,18-24,Lobo,Videojuegos,TikTok,0,4,6,0,0,-0.104,02/10/2026,en_riesgo,si
+U000987,BrunoInk11,07/08/2023,México,Quintana Roo,Cancún,21.2016,-86.7929,America/Cancun,32-38,Lobo,Videojuegos,Telegram,0,2,5,0,0,0.506,09/10/2026,en_riesgo,si
+U000988,ÁmbarMoon92,13/10/2025,México,CDMX,Ciudad de México,19.4976,-99.1957,America/Mexico_City,18-24,Lobo,Arte tradicional,Telegram,1,9,33,0,3,0.292,19/10/2026,en_riesgo,si
+U000989,SolSpark76,21/09/2025,España,Comunidad de Madrid,Madrid,40.3738,-3.7011,Europe/Madrid,18-24,Gato,Arte digital,Telegram,1,7,12,0,1,0.324,09/11/2026,activo,si
+U000990,SolWolf97,19/02/2026,Colombia,Cundinamarca,Bogotá,4.7577,-74.02,America/Bogota,25-31,Lobo,Cómics,TikTok,0,0,0,0,0,0.364,22/04/2026,inactivo,si
+U000991,NubePelaje46,17/05/2024,México,Yucatán,Mérida,21.0412,-89.6566,America/Merida,25-31,Lobo,Música,TikTok,0,0,0,0,0,0.487,01/04/2026,inactivo,si
+U000992,NubeMaya7,24/04/2023,México,Yucatán,Mérida,20.9888,-89.621,America/Merida,39+,Reptil,Streaming/Contenido,Instagram,0,4,10,1,0,-0.079,11/10/2026,en_riesgo,si
+U000993,LunaWolf15,18/07/2023,México,Querétaro,Querétaro,20.6415,-100.4321,America/Mexico_City,18-24,Gato,Cómics,Discord,0,0,0,0,0,0.307,24/07/2026,inactivo,si
+U000994,CobrePelaje66,23/03/2023,México,Tabasco,Villahermosa,,,America/Mexico_City,25-31,Lobo,Escritura/Historias,Facebook,0,6,22,0,0,0.269,25/10/2026,en_riesgo,no
+U000995,ZetaMoon31,03/08/2022,México,Chihuahua,Chihuahua,28.6241,-106.1227,America/Chihuahua,18-24,Híbrido/Otro,Convenciones,Telegram,0,3,5,1,0,0.301,09/11/2026,activo,si
+U000996,MikaWolf68,31/08/2023,México,Nuevo León,Monterrey,25.7088,-100.3498,America/Monterrey,25-31,Híbrido/Otro,Cosplay,Telegram,0,2,6,0,0,-0.075,11/10/2026,en_riesgo,si
+U000997,NovaByte3,04/10/2025,México,Veracruz,Veracruz,19.1258,-96.1611,America/Mexico_City,25-31,Zorro,Arte digital,Facebook,0,4,14,0,5,0.064,08/10/2026,en_riesgo,si
+U000998,TalaFang51,09/02/2024,México,Puebla,Puebla,,,America/Mexico_City,25-31,Híbrido/Otro,Escritura/Historias,Telegram,0,0,0,0,0,-0.156,23/08/2026,inactivo,no
+U000999,NovaPelaje42,13/06/2022,México,Jalisco,Guadalajara,20.7306,-103.2816,America/Mexico_City,25-31,Dragón,Videojuegos,Twitter/X,0,7,14,0,0,0.515,28/10/2026,activo,si
+U001000,BrumaByte20,06/03/2023,México,CDMX,Ciudad de México,19.4596,-99.1883,America/Mexico_City,18-24,Híbrido/Otro,Videojuegos,Telegram,0,68,202,1,0,-0.001,05/11/2026,activo,si
+U001001,KuroHowl40,24/01/2025,México,Oaxaca,Oaxaca,17.1277,-96.7836,America/Mexico_City,25-31,Coyote,Streaming/Contenido,TikTok,0,0,0,0,0,0.566,05/02/2026,inactivo,si
+U001002,BrunoCh'a31,11/09/2022,México,Guanajuato,León,21.1681,-101.7022,America/Mexico_City,18-24,Coyote,Convenciones,Facebook,0,0,0,1,0,-0.579,08/10/2026,en_riesgo,si
+U001003,LunaClaw82,05/07/2023,Argentina,Buenos Aires,Buenos Aires,-34.6462,-58.4329,America/Argentina/Buenos_Aires,18-24,Gato,Fursuit,TikTok,0,10,36,1,1,0.212,28/10/2026,activo,si
+U001004,AshMaya58,15/06/2026,Colombia,Cundinamarca,Bogotá,4.7345,-74.0966,America/Bogota,18-24,Reptil,Cómics,Facebook,0,2,4,0,0,0.515,05/11/2026,activo,si
+U001005,ZorriClaw4,26/07/2024,México,Yucatán,Mérida,20.937,-89.6185,America/Merida,32-38,Perro,Fursuit,Telegram,0,7,24,0,3,0.087,02/11/2026,activo,si
+U001006,SolPaw51,20/07/2023,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Lobo,Música,Telegram,0,2,4,0,0,-0.143,30/09/2026,en_riesgo,no
+U001007,LoboFang67,12/02/2025,México,Yucatán,Mérida,21.0443,-89.6388,America/Merida,32-38,Coyote,Videojuegos,Twitter/X,0,2,6,0,0,0.258,23/10/2026,en_riesgo,si
+U001008,ZetaDash51,28/05/2024,México,Puebla,Puebla,18.9605,-98.2242,America/Mexico_City,25-31,Gato,Cómics,TikTok,0,15,40,2,0,0.153,04/11/2026,activo,si
+U001009,RuneSpark14,04/07/2023,México,Yucatán,Mérida,20.9129,-89.625,America/Merida,18-24,Lobo,Videojuegos,Twitter/X,0,5,15,0,0,1,05/11/2026,activo,si
+U001010,RuneFang70,24/11/2025,México,Nuevo León,Monterrey,25.6332,-100.3027,America/Monterrey,18-24,Híbrido/Otro,Música,Telegram,0,9,27,0,0,-0.269,06/11/2026,activo,si
+U001011,MikaFox43,22/08/2024,México,Jalisco,Guadalajara,20.6127,-103.4116,America/Mexico_City,25-31,Híbrido/Otro,Música,Instagram,0,0,0,1,0,-0.341,09/02/2026,inactivo,si
+U001012,ÁmbarKin97,20/04/2022,México,Querétaro,Querétaro,20.6287,-100.3675,America/Mexico_City,18-24,Ave,Videojuegos,Telegram,0,13,26,0,0,0.726,05/11/2026,activo,si
+U001013,TalaTail55,03/10/2024,México,Quintana Roo,Cancún,21.1867,-86.8633,America/Cancun,25-31,Reptil,Arte digital,Facebook,0,0,0,1,0,0.232,04/03/2026,inactivo,si
+U001014,OnixArt12,17/07/2023,México,Nuevo León,Monterrey,,,America/Monterrey,18-24,Dragón,Arte digital,Facebook,1,11,27,0,3,-0.274,09/11/2026,activo,no
+U001015,LunaPelaje12,06/07/2022,México,Campeche,Campeche,19.7832,-90.4769,America/Merida,18-24,Lobo,Arte tradicional,Telegram,0,0,0,0,0,0.149,05/05/2026,inactivo,si
+U001016,OnixByte86,12/02/2026,México,Quintana Roo,Cancún,21.1157,-86.8836,America/Cancun,18-24,Perro,Arte digital,Facebook,0,0,0,3,0,0.08,04/09/2026,inactivo,si
+U001017,ZetaMaya47,09/05/2023,México,CDMX,Ciudad de México,19.4156,-99.1032,America/Mexico_City,39+,Lobo,Arte digital,Instagram,0,0,0,0,3,0.042,23/06/2026,inactivo,si
+U001018,KuroHowl87,14/02/2026,México,Guanajuato,León,21.139,-101.6364,America/Mexico_City,25-31,Lobo,Arte digital,Telegram,1,2,5,0,5,0.618,04/11/2026,activo,si
+U001019,RexPaw63,21/07/2024,México,Oaxaca,Oaxaca,17.1241,-96.6629,America/Mexico_City,32-38,Zorro,Arte digital,Facebook,1,3,7,0,5,0.496,16/10/2026,en_riesgo,si
+U001020,RexWolf87,22/04/2022,Chile,Región Metropolitana,Santiago,-33.4025,-70.6805,America/Santiago,18-24,Coyote,Streaming/Contenido,Instagram,0,4,13,0,1,0.399,08/10/2026,en_riesgo,si
+U001021,NovaFox59,21/04/2025,México,Tabasco,Villahermosa,,,America/Mexico_City,39+,Lobo,Cosplay,Twitter/X,0,0,0,1,0,0.565,07/12/2025,inactivo,no
+U001022,TalaFang86,22/01/2025,México,Yucatán,Mérida,20.966,-89.668,America/Merida,18-24,Perro,Convenciones,Instagram,0,2,4,0,0,0.083,23/10/2026,en_riesgo,si
+U001023,YukiZac64,02/09/2025,México,Quintana Roo,Cancún,21.231,-86.8934,America/Cancun,25-31,Zorro,Videojuegos,Twitter/X,0,0,0,0,0,-0.103,18/03/2026,inactivo,si
+U001024,SombraFox14,06/09/2024,Argentina,Buenos Aires,Buenos Aires,-34.5974,-58.399,America/Argentina/Buenos_Aires,18-24,Lobo,Cosplay,Facebook,0,17,43,1,0,-0.39,31/10/2026,activo,si
+U001025,MikaPaw35,23/01/2026,Chile,Región Metropolitana,Santiago,-33.5093,-70.7172,America/Santiago,18-24,Lobo,Videojuegos,TikTok,1,0,0,0,0,0.624,23/01/2026,inactivo,si
+U001026,ZorriClaw36,10/02/2026,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Ave,Fursuit,Discord,0,2,3,3,0,0.087,23/09/2026,en_riesgo,no
+U001027,CobreTail81,09/03/2023,México,Baja California,Tijuana,32.5758,-117.0073,America/Tijuana,32-38,Perro,Arte digital,Facebook,1,5,10,2,2,-0.143,02/11/2026,activo,si
+U001028,YukiCh'a16,21/06/2023,México,Nuevo León,Monterrey,25.6804,-100.2964,America/Monterrey,25-31,Híbrido/Otro,Arte digital,Twitter/X,1,18,22,0,0,0.194,03/11/2026,activo,si
+U001029,PixelByte77,14/12/2025,México,Jalisco,Guadalajara,,,America/Mexico_City,18-24,Lobo,Cómics,Telegram,0,1,2,0,1,-0.021,14/09/2026,en_riesgo,si
+U001030,TalaClaw65,14/07/2025,México,Quintana Roo,Cancún,,,America/Cancun,25-31,Ave,Música,TikTok,0,2,6,0,0,0.034,06/11/2026,activo,no
+U001031,BrumaInk33,21/10/2025,Perú,Lima,Lima,-11.9792,-77.0218,America/Lima,18-24,Zorro,Fursuit,Facebook,0,5,18,2,0,0.247,01/11/2026,activo,si
+U001032,CobreArt69,08/11/2026,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Gato,Música,TikTok,0,21,47,0,0,0.631,08/11/2026,activo,no
+U001033,TalaInk29,04/02/2026,México,Puebla,Puebla,19.0788,-98.2039,America/Mexico_City,39+,Husky,Arte digital,Telegram,1,0,0,0,5,0.486,25/06/2026,inactivo,si
+U001034,RexPelaje41,03/05/2026,México,Nuevo León,Monterrey,25.7391,-100.3107,America/Monterrey,25-31,Conejo,Arte tradicional,Instagram,1,11,36,0,1,0.401,04/11/2026,activo,si
+U001035,BrunoClaw61,28/02/2025,México,Guanajuato,León,,,America/Mexico_City,32-38,Dragón,Cómics,Instagram,0,0,0,0,0,0.457,06/01/2026,inactivo,si
+U001036,ÁmbarCh'a50,04/12/2024,México,Veracruz,Veracruz,,,America/Mexico_City,18-24,Coyote,Fursuit,Facebook,0,0,0,1,0,0.462,19/02/2026,inactivo,no
+U001037,ZorriClaw29,24/01/2025,Perú,Lima,Lima,-12.0759,-77.0555,America/Lima,25-31,Husky,Arte digital,TikTok,1,22,84,0,3,0.298,03/10/2026,en_riesgo,si
+U001038,ZetaPelaje38,09/01/2025,México,Jalisco,Guadalajara,20.6425,-103.2729,America/Mexico_City,18-24,Husky,Arte tradicional,TikTok,1,4,13,6,5,0.064,17/10/2026,en_riesgo,si
+U001039,PixelByte54,19/08/2026,Chile,Región Metropolitana,Santiago,-33.3806,-70.6792,America/Santiago,18-24,Husky,Streaming/Contenido,Telegram,0,4,15,0,1,0.023,06/11/2026,activo,si
+U001040,RuneKin95,16/08/2026,México,CDMX,Ciudad de México,19.4313,-99.1918,America/Mexico_City,18-24,Zorro,Arte digital,TikTok,1,10,16,0,5,-0.143,04/11/2026,activo,si
+U001041,YukiInk5,06/07/2023,México,CDMX,Ciudad de México,,,America/Mexico_City,18-24,Híbrido/Otro,Videojuegos,Discord,0,2,7,0,0,-0.115,15/09/2026,en_riesgo,no
+U001042,FlareFox82,17/02/2024,México,Querétaro,Querétaro,,,America/Mexico_City,18-24,Lobo,Convenciones,Discord,0,11,24,0,1,-0.003,26/10/2026,activo,no
+U001043,KibaInk65,13/02/2026,Estados Unidos,California,Los Ángeles,34.0602,-118.2746,America/Los_Angeles,18-24,Dragón,Arte digital,Telegram,1,4,12,0,0,0.786,07/11/2026,activo,si
+U001044,TalaByte30,03/06/2022,México,Yucatán,Mérida,20.9812,-89.5438,America/Merida,32-38,Perro,Videojuegos,Facebook,0,23,29,5,1,0.671,07/10/2026,en_riesgo,si
+U001045,ZetaTail89,13/07/2026,México,Tabasco,Villahermosa,17.9111,-92.9143,America/Mexico_City,39+,Gato,Arte digital,Facebook,1,0,0,2,1,0.128,13/07/2026,inactivo,si
+U001046,BrumaMoon96,06/06/2022,México,Nuevo León,Monterrey,25.6273,-100.2864,America/Monterrey,25-31,Gato,Cómics,Telegram,0,12,28,0,0,0.078,28/10/2026,activo,si
+U001047,MikaHowl89,20/10/2022,Colombia,Cundinamarca,Bogotá,,,America/Bogota,18-24,Híbrido/Otro,Videojuegos,Instagram,0,5,16,0,0,0.566,05/11/2026,activo,no
+U001048,ZorriCh'a76,28/02/2025,México,Yucatán,Mérida,,,America/Merida,39+,Coyote,Streaming/Contenido,Instagram,0,2,7,0,0,0.226,23/09/2026,en_riesgo,no
+U001049,ZetaHowl60,15/06/2024,México,Oaxaca,Oaxaca,17.0969,-96.6992,America/Mexico_City,25-31,Conejo,Cosplay,Discord,0,0,0,0,0,0.397,24/08/2026,inactivo,si
+U001050,BrunoMaya1,04/07/2024,México,Guanajuato,León,21.1623,-101.7479,America/Mexico_City,18-24,Gato,Arte tradicional,Telegram,1,6,13,0,5,0.354,14/10/2026,en_riesgo,si
+U001051,MikaHowl13,25/04/2023,Chile,Región Metropolitana,Santiago,-33.4149,-70.6143,America/Santiago,39+,Dragón,Streaming/Contenido,Facebook,0,0,0,0,0,0.219,23/10/2025,inactivo,si
+U001052,LunaHowl33,07/02/2024,México,Yucatán,Mérida,20.9246,-89.6089,America/Merida,25-31,Perro,Cómics,Telegram,0,4,14,0,0,0.75,07/10/2026,en_riesgo,si
+U001053,BrumaInk78,21/03/2025,México,Nuevo León,Monterrey,25.6814,-100.3599,America/Monterrey,18-24,Perro,Arte digital,Instagram,0,4,10,0,5,0.436,29/10/2026,activo,si
+U001054,YukiTail89,30/12/2025,México,CDMX,Ciudad de México,,,America/Mexico_City,25-31,Reptil,Videojuegos,Facebook,0,2,3,0,0,0.456,10/10/2026,en_riesgo,si
+U001055,PixelClaw73,24/02/2026,México,Guanajuato,León,21.1381,-101.6694,America/Mexico_City,32-38,Perro,Videojuegos,Telegram,0,69,97,0,0,-0.007,05/11/2026,activo,si
+U001056,LoboDash55,23/09/2023,Colombia,Cundinamarca,Bogotá,4.642,-74.0846,America/Bogota,39+,Gato,Arte digital,TikTok,1,10,13,0,0,0.769,06/11/2026,activo,si
+U001057,FlareArt63,20/08/2024,México,Jalisco,Guadalajara,,,America/Mexico_City,25-31,Dragón,Arte digital,Facebook,1,186,493,0,1,0.497,07/11/2026,activo,si
+U001058,FlareMaya72,08/04/2026,México,Yucatán,Mérida,20.9144,-89.6813,America/Merida,32-38,Zorro,Escritura/Historias,TikTok,0,4,12,0,0,-0.313,07/11/2026,activo,si
+U001059,KibaDash46,12/01/2026,México,Nuevo León,Monterrey,25.6737,-100.2831,America/Monterrey,18-24,Gato,Arte tradicional,Facebook,1,7,8,0,3,0.726,05/11/2026,activo,si
+U001060,TalaMoon67,29/01/2023,Chile,Región Metropolitana,Santiago,-33.3731,-70.6083,America/Santiago,18-24,Lobo,Videojuegos,Facebook,1,6,7,0,1,0.439,27/10/2026,activo,si
+U001061,SolFang69,07/08/2025,México,CDMX,Ciudad de México,19.3715,-99.0591,America/Mexico_City,32-38,Gato,Arte tradicional,Instagram,1,7,19,0,1,0.457,29/10/2026,activo,si
+U001062,YukiInk94,26/08/2022,México,Tabasco,Villahermosa,,,America/Mexico_City,18-24,Gato,Fursuit,Instagram,0,26,42,0,0,0.127,30/10/2026,activo,no
+U001063,RexMaya47,29/11/2022,México,Nuevo León,Monterrey,25.7144,-100.2612,America/Monterrey,18-24,Híbrido/Otro,Cómics,Twitter/X,0,5,8,0,0,0.484,05/10/2026,en_riesgo,si
+U001064,ÁmbarInk38,09/12/2025,México,Quintana Roo,Cancún,21.173,-86.8083,America/Cancun,39+,Gato,Arte digital,TikTok,1,7,25,0,0,-0.129,31/10/2026,activo,si
+U001065,TalaArt47,01/03/2022,México,Jalisco,Guadalajara,20.6636,-103.3943,America/Mexico_City,39+,Lobo,Arte digital,Telegram,1,0,0,0,2,0.368,13/11/2025,inactivo,si
+U001066,YukiByte23,12/07/2024,México,Chihuahua,Chihuahua,28.6082,-106.1217,America/Chihuahua,18-24,Híbrido/Otro,Cómics,Instagram,0,8,29,0,1,0.938,09/11/2026,activo,si
+U001067,CobreInk45,26/06/2022,México,Jalisco,Guadalajara,20.7463,-103.4182,America/Mexico_City,18-24,Zorro,Arte digital,Facebook,1,0,0,0,2,0.825,18/07/2026,inactivo,si
+U001068,MikaTail95,23/11/2023,México,Jalisco,Guadalajara,20.6297,-103.3213,America/Mexico_City,18-24,Lobo,Cosplay,Instagram,0,2,6,0,0,0.159,15/10/2026,en_riesgo,si

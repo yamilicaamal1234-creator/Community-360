@@ -1,0 +1,4 @@
+node_modules/
+.env
+datos_depurados/
+salida_etl/

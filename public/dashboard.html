@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="es" class="text-[19px] md:text-[20px]">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Community 360 — Observatorio Analítico</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="/socket.io/socket.io.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Outfit', sans-serif;
+      background-color: #07080A;
+      background-image:
+        radial-gradient(circle at 12% 10%, rgba(16, 185, 129, 0.11), transparent 35%),
+        radial-gradient(circle at 88% 15%, rgba(6, 182, 212, 0.11), transparent 35%),
+        radial-gradient(circle at 50% 90%, rgba(139, 92, 246, 0.09), transparent 40%);
+      background-attachment: fixed;
+    }
+    .mono { font-family: 'JetBrains Mono', monospace; }
+    .glass-card {
+      background: rgba(16, 18, 24, 0.82);
+      backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow: 0 12px 35px -15px rgba(0, 0, 0, 0.75);
+    }
+  </style>
+</head>
+<body class="text-zinc-100 min-h-screen flex flex-col">
+
+  <!-- Barra Superior Flotante -->
+  <div class="sticky top-3 z-30 px-4">
+    <header class="max-w-[1560px] mx-auto glass-card rounded-2xl px-6 py-4 flex flex-wrap items-center justify-between gap-4">
+      <div class="flex items-center gap-3.5">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-emerald-400 to-cyan-400 flex items-center justify-center text-zinc-950 font-extrabold text-base">
+          C3
+        </div>
+        <div>
+          <span class="font-bold text-xl tracking-tight text-white">Community<span class="text-emerald-400">360</span></span>
+          <p class="text-xs text-zinc-300">TiDB Cloud (Histórico SQL) + Redis Cloud (Tiempo Real)</p>
+        </div>
+      </div>
+
+      <nav class="hidden xl:flex items-center gap-2 text-sm font-semibold">
+        <a href="#sec-kpis" class="px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 text-zinc-100 transition">KPIs en Vivo</a>
+        <a href="#sec-historicos" class="px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 text-zinc-100 transition">Histórico y Calor</a>
+        <a href="#sec-tabla" class="px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 text-zinc-100 transition">Registros</a>
+        <button onclick="toggleFormulas()" class="px-3.5 py-2 rounded-xl bg-cyan-500/20 hover:bg-cyan-500/30 text-cyan-300 border border-cyan-400/40 font-semibold transition cursor-pointer">
+          📐 Fórmulas Matemáticas
+        </button>
+      </nav>
+
+      <div class="flex items-center gap-4">
+        <span class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/15 border border-emerald-400/30 text-emerald-300 text-sm font-semibold">
+          <span class="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-ping"></span> WebSocket Activo
+        </span>
+        <span class="text-sm text-zinc-200 hidden sm:inline">Operador: <strong id="operadorNombre" class="text-cyan-300">admin</strong></span>
+        <button onclick="cerrarSesion()" class="px-4 py-2 text-sm font-bold bg-rose-500/20 hover:bg-rose-500/35 text-rose-200 border border-rose-500/40 rounded-xl transition cursor-pointer">
+          Salir
+        </button>
+      </div>
+    </header>
+  </div>
+
+  <!-- Aviso flotante temporal WebSocket -->
+  <div id="toastWs" class="fixed bottom-6 right-6 glass-card border-emerald-400/50 text-emerald-300 px-5 py-4 rounded-2xl shadow-2xl text-sm font-semibold hidden z-50"></div>
+
+  <!-- Contenedor Principal -->
+  <main class="max-w-[1560px] w-full mx-auto px-4 pt-6 pb-12 space-y-8 flex-1">
+
+    <!-- Panel Desplegable: Definición Matemática -->
+    <section id="panelFormulas" class="hidden glass-card rounded-2xl p-6 border-cyan-400/40">
+      <div class="flex items-center justify-between pb-3 border-b border-white/15 mb-4">
+        <h2 class="text-lg font-bold text-cyan-300">Definición Matemática y Consistencia de Indicadores (Fase 6.A)</h2>
+        <button onclick="toggleFormulas()" class="text-zinc-300 hover:text-white text-lg font-bold cursor-pointer">✕</button>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
+        <div class="p-4 rounded-xl bg-zinc-950/90 border border-white/15">
+          <p class="font-bold text-white">1. Padrón de Usuarios (U)</p>
+          <p class="mono text-emerald-400 text-sm my-1.5">U = COUNT(DISTINCT id_usuario)</p>
+          <p class="text-zinc-300 text-xs">Usuarios únicos validados tras depuración ETL.</p>
+        </div>
+        <div class="p-4 rounded-xl bg-zinc-950/90 border border-white/15">
+          <p class="font-bold text-white">2. Interacciones Válidas (N)</p>
+          <p class="mono text-emerald-400 text-sm my-1.5">N = Σ 1 (con id_usuario ∈ U)</p>
+          <p class="text-zinc-300 text-xs">Contador en Redis (HINCRBY +1 / -1) vía WebSocket.</p>
+        </div>
+        <div class="p-4 rounded-xl bg-zinc-950/90 border border-white/15">
+          <p class="font-bold text-white">3. Cuarentena ETL (Q)</p>
+          <p class="mono text-amber-300 text-sm my-1.5">Q = Σ 1 (con id_usuario ∉ U)</p>
+          <p class="text-zinc-300 text-xs">Registros huérfanos aislados para auditoría.</p>
+        </div>
+        <div class="p-4 rounded-xl bg-zinc-950/90 border border-white/15">
+          <p class="font-bold text-white">4. Sentimiento Medio (S̄)</p>
+          <p class="mono text-cyan-300 text-sm my-1.5">S̄ = (Σ s_i) / N,  s_i ∈ [-1, 1]</p>
+          <p class="text-zinc-300 text-xs">Recalculado ante cada POST, PUT o DELETE.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECCIÓN 1: KPIs EN TIEMPO REAL -->
+    <section id="sec-kpis" class="space-y-6">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+        <div class="glass-card rounded-2xl p-6">
+          <div class="flex items-center justify-between">
+            <span class="text-base font-bold text-zinc-200">Usuarios Padrón</span>
+            <span class="mono text-xs px-2.5 py-1 rounded-md bg-white/10 text-zinc-200">TiDB 3FN</span>
+          </div>
+          <p id="kpiUsuarios" class="mono text-4xl font-extrabold text-white mt-3">--</p>
+          <p class="text-sm text-zinc-300 mt-1.5">Identidades únicas verificadas</p>
+        </div>
+
+        <div class="glass-card rounded-2xl p-6 relative overflow-hidden border-emerald-500/40">
+          <div class="absolute inset-x-0 bottom-0 h-1 bg-gradient-to-r from-emerald-400 to-cyan-400"></div>
+          <div class="flex items-center justify-between">
+            <span class="text-base font-bold text-emerald-300">Interacciones Válidas</span>
+            <span class="mono text-xs px-2.5 py-1 rounded-md bg-emerald-500/20 text-emerald-300 font-bold">REDIS LIVE</span>
+          </div>
+          <p id="kpiInteracciones" class="mono text-4xl font-extrabold text-emerald-400 mt-3">--</p>
+          <p class="text-sm text-zinc-200 mt-1.5">Sincronizado vía WebSocket</p>
+        </div>
+
+        <div class="glass-card rounded-2xl p-6">
+          <div class="flex items-center justify-between">
+            <span class="text-base font-bold text-zinc-200">Cuarentena ETL</span>
+            <span class="mono text-xs px-2.5 py-1 rounded-md bg-amber-500/15 text-amber-300 font-bold">AISLADOS</span>
+          </div>
+          <p id="kpiCuarentena" class="mono text-4xl font-extrabold text-amber-300 mt-3">--</p>
+          <p class="text-sm text-zinc-300 mt-1.5">Registros huérfanos auditados</p>
+        </div>
+
+        <div class="glass-card rounded-2xl p-6 relative overflow-hidden border-cyan-500/40">
+          <div class="absolute inset-x-0 bottom-0 h-1 bg-gradient-to-r from-cyan-400 to-violet-400"></div>
+          <div class="flex items-center justify-between">
+            <span class="text-base font-bold text-cyan-300">Sentimiento Medio</span>
+            <span class="mono text-xs px-2.5 py-1 rounded-md bg-cyan-500/20 text-cyan-300 font-bold">[-1 a +1]</span>
+          </div>
+          <p id="kpiSentimiento" class="mono text-4xl font-extrabold text-cyan-300 mt-3">--</p>
+          <p class="text-sm text-zinc-200 mt-1.5">Polaridad media acumulada</p>
+        </div>
+      </div>
+
+      <!-- Gráficas Dinámicas en Vivo -->
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+        <div class="lg:col-span-6 glass-card rounded-2xl p-6">
+          <h2 class="text-lg font-bold text-white">Actividad por Tema (En Vivo)</h2>
+          <p class="text-sm text-zinc-300 mb-4">Conteo acumulado en Hash <span class="mono text-emerald-400">kpi:temas</span></p>
+          <canvas id="chartTemas" height="220"></canvas>
+        </div>
+
+        <div class="lg:col-span-3 glass-card rounded-2xl p-6">
+          <h3 class="text-lg font-bold text-white">Canales</h3>
+          <p class="text-sm text-zinc-300 mb-4">Hash <span class="mono text-cyan-300">kpi:canales</span></p>
+          <canvas id="chartCanales" height="250"></canvas>
+        </div>
+
+        <div class="lg:col-span-3 glass-card rounded-2xl p-6">
+          <h3 class="text-lg font-bold text-white">Dispositivos</h3>
+          <p class="text-sm text-zinc-300 mb-4">Hash <span class="mono text-violet-300">kpi:dispositivos</span></p>
+          <canvas id="chartDispositivos" height="250"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECCIÓN 2: MAPA DE CALOR E HISTÓRICOS SQL -->
+    <section id="sec-historicos" class="space-y-6">
+      <div class="glass-card rounded-2xl p-6">
+        <div class="flex flex-wrap items-center justify-between gap-2 mb-4">
+          <div>
+            <h2 class="text-lg font-bold text-white">Mapa de Calor: Intensidad Canal × Tema</h2>
+            <p class="text-sm text-zinc-300">Cruce multidimensional consultado desde TiDB Cloud SQL</p>
+          </div>
+          <div class="flex items-center gap-2 text-sm text-zinc-200 font-semibold">
+            <span>Baja</span>
+            <span class="w-5 h-5 rounded bg-emerald-950 border border-white/20"></span>
+            <span class="w-5 h-5 rounded bg-emerald-800/70"></span>
+            <span class="w-5 h-5 rounded bg-emerald-500/80"></span>
+            <span class="w-5 h-5 rounded bg-emerald-400"></span>
+            <span>Alta</span>
+          </div>
+        </div>
+        <div id="heatmapContainer" class="overflow-x-auto"></div>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        <div class="glass-card rounded-2xl p-6">
+          <h3 class="text-lg font-bold text-white">Evolución Temporal</h3>
+          <p class="text-sm text-zinc-300 mb-4">Interacciones diarias (TiDB SQL)</p>
+          <canvas id="chartFechas" height="210"></canvas>
+        </div>
+
+        <div class="glass-card rounded-2xl p-6">
+          <h3 class="text-lg font-bold text-white">Usuarios por País</h3>
+          <p class="text-sm text-zinc-300 mb-4">Solo con consentimiento activo</p>
+          <canvas id="chartPaises" height="210"></canvas>
+        </div>
+
+        <div class="glass-card rounded-2xl p-6">
+          <h3 class="text-lg font-bold text-white">Top Especies Comunidad</h3>
+          <p class="text-sm text-zinc-300 mb-4">Demografía del padrón (TiDB SQL)</p>
+          <canvas id="chartEspecies" height="210"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECCIÓN 3: BITÁCORA FILTRABLE -->
+    <section id="sec-tabla" class="glass-card rounded-2xl overflow-hidden">
+      <div class="p-6 border-b border-white/15 flex flex-wrap items-center justify-between gap-4">
+        <div>
+          <h2 class="text-lg font-bold text-white">Bitácora de Interacciones (Solo Lectura — Gestión vía Postman)</h2>
+          <p class="text-sm text-zinc-300">Haz clic en cualquier fila para inspeccionar el registro completo.</p>
+        </div>
+
+        <div class="flex flex-wrap items-center gap-3">
+          <input type="text" id="filtroTexto" oninput="filtrarTabla()" placeholder="Buscar ID, alias o mensaje..."
+            class="px-4 py-2.5 bg-zinc-950/90 border border-zinc-700 rounded-xl text-sm text-white placeholder-zinc-400 focus:outline-none focus:border-emerald-400">
+          <select id="filtroCanal" onchange="filtrarTabla()"
+            class="px-4 py-2.5 bg-zinc-950/90 border border-zinc-700 rounded-xl text-sm text-zinc-100 focus:outline-none focus:border-cyan-400">
+            <option value="">Todos los canales</option>
+            <option value="Telegram">Telegram</option>
+            <option value="Facebook">Facebook</option>
+            <option value="Instagram">Instagram</option>
+            <option value="TikTok">TikTok</option>
+            <option value="Twitter/X">Twitter/X</option>
+            <option value="Discord">Discord</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-sm">
+          <thead class="bg-white/[0.06] text-zinc-200 uppercase text-xs border-b border-white/15">
+            <tr>
+              <th class="px-4 py-3.5 font-bold">ID</th>
+              <th class="px-4 py-3.5 font-bold">Usuario</th>
+              <th class="px-4 py-3.5 font-bold">Canal</th>
+              <th class="px-4 py-3.5 font-bold">Tema</th>
+              <th class="px-4 py-3.5 font-bold">Dispositivo</th>
+              <th class="px-4 py-3.5 font-bold">Sentimiento</th>
+              <th class="px-4 py-3.5 font-bold">Contenido</th>
+            </tr>
+          </thead>
+          <tbody id="tablaInteracciones" class="divide-y divide-white/10 text-zinc-100"></tbody>
+        </table>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Modal Detalle -->
+  <div id="modalDetalle" class="fixed inset-0 bg-black/80 backdrop-blur-sm hidden items-center justify-center p-4 z-50">
+    <div class="glass-card border-emerald-400/40 rounded-2xl max-w-lg w-full p-6 shadow-2xl">
+      <div class="flex items-center justify-between border-b border-white/15 pb-3">
+        <h3 class="font-bold text-lg text-white">Detalle de Interacción <span id="detId" class="mono text-emerald-400"></span></h3>
+        <button onclick="cerrarModal()" class="text-zinc-300 hover:text-white font-bold text-lg cursor-pointer">✕</button>
+      </div>
+      <div id="detCuerpo" class="mt-4 space-y-3 text-sm text-zinc-200"></div>
+      <div class="mt-6 text-right">
+        <button onclick="cerrarModal()" class="px-5 py-2.5 bg-gradient-to-r from-emerald-400 to-cyan-400 text-zinc-950 font-bold text-sm rounded-xl cursor-pointer">
+          Cerrar
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const token = localStorage.getItem('token_c360');
+    if (!token) window.location.href = '/index.html';
+    document.getElementById('operadorNombre').textContent = localStorage.getItem('user_c360') || 'admin';
+
+    function cerrarSesion() {
+      localStorage.removeItem('token_c360');
+      localStorage.removeItem('user_c360');
+      window.location.href = '/index.html';
+    }
+
+    function toggleFormulas() {
+      document.getElementById('panelFormulas').classList.toggle('hidden');
+    }
+
+    const headersAuth = { 'Authorization': `Bearer ${token}` };
+    let chartTemas, chartCanales, chartDispositivos, chartFechas, chartPaises, chartEspecies;
+    let interaccionesCache = [];
+
+    function renderKPIs(kpis) {
+      document.getElementById('kpiUsuarios').textContent = kpis.resumen.total_usuarios;
+      document.getElementById('kpiInteracciones').textContent = kpis.resumen.total_interacciones;
+      document.getElementById('kpiCuarentena').textContent = kpis.resumen.total_cuarentena;
+      document.getElementById('kpiSentimiento').textContent = kpis.resumen.sentimiento_promedio.toFixed(3);
+
+      // Barras Temas
+      const tLabels = Object.keys(kpis.temas);
+      const tData = Object.values(kpis.temas).map(Number);
+      if (chartTemas) {
+        chartTemas.data.labels = tLabels;
+        chartTemas.data.datasets[0].data = tData;
+        chartTemas.update();
+      } else {
+        const ctx = document.getElementById('chartTemas').getContext('2d');
+        const grad = ctx.createLinearGradient(0, 0, 0, 260);
+        grad.addColorStop(0, '#34d399');
+        grad.addColorStop(1, '#06b6d4');
+
+        chartTemas = new Chart(ctx, {
+          type: 'bar',
+          data: { labels: tLabels, datasets: [{ label: 'Interacciones', data: tData, backgroundColor: grad, borderRadius: 8 }] },
+          options: {
+            plugins: { legend: { display: false } },
+            scales: {
+              x: { ticks: { color: '#f4f4f5', font: { size: 14, weight: '600' } }, grid: { display: false } },
+              y: { ticks: { color: '#d4d4d8', font: { size: 14 } }, grid: { color: 'rgba(255,255,255,0.08)' } }
+            }
+          }
+        });
+      }
+
+      // Dona Canales
+      const cLabels = Object.keys(kpis.canales);
+      const cData = Object.values(kpis.canales).map(Number);
+      if (chartCanales) {
+        chartCanales.data.labels = cLabels;
+        chartCanales.data.datasets[0].data = cData;
+        chartCanales.update();
+      } else {
+        chartCanales = new Chart(document.getElementById('chartCanales'), {
+          type: 'doughnut',
+          data: { labels: cLabels, datasets: [{ data: cData, backgroundColor: ['#10b981', '#06b6d4', '#8b5cf6', '#f59e0b', '#ec4899', '#64748b'], borderWidth: 2, borderColor: '#101218' }] },
+          options: { cutout: '60%', plugins: { legend: { position: 'bottom', labels: { color: '#ffffff', font: { size: 14 }, padding: 12 } } } }
+        });
+      }
+
+      // Dona Dispositivos
+      const dLabels = Object.keys(kpis.dispositivos);
+      const dData = Object.values(kpis.dispositivos).map(Number);
+      if (chartDispositivos) {
+        chartDispositivos.data.labels = dLabels;
+        chartDispositivos.data.datasets[0].data = dData;
+        chartDispositivos.update();
+      } else {
+        chartDispositivos = new Chart(document.getElementById('chartDispositivos'), {
+          type: 'doughnut',
+          data: { labels: dLabels, datasets: [{ data: dData, backgroundColor: ['#22d3ee', '#34d399', '#a78bfa', '#fbbf24'], borderWidth: 2, borderColor: '#101218' }] },
+          options: { cutout: '60%', plugins: { legend: { position: 'bottom', labels: { color: '#ffffff', font: { size: 14 }, padding: 12 } } } }
+        });
+      }
+    }
+
+    function pintarTabla(lista) {
+      const tbody = document.getElementById('tablaInteracciones');
+      tbody.innerHTML = lista.map(i => `
+        <tr onclick='abrirModal(${JSON.stringify(i).replace(/'/g, "&#39;")})' class="hover:bg-white/[0.06] transition cursor-pointer">
+          <td class="px-4 py-3.5 mono font-bold text-emerald-400">${i.id_interaccion}</td>
+          <td class="px-4 py-3.5 font-semibold text-white">${i.alias} <span class="text-zinc-300 font-normal">(${i.id_usuario})</span></td>
+          <td class="px-4 py-3.5 text-zinc-100">${i.canal}</td>
+          <td class="px-4 py-3.5"><span class="px-2.5 py-1 rounded-lg bg-white/10 text-cyan-300 font-semibold">${i.tema}</span></td>
+          <td class="px-4 py-3.5 text-zinc-200">${i.dispositivo}</td>
+          <td class="px-4 py-3.5 mono font-bold ${Number(i.sentimiento) >= 0 ? 'text-emerald-400' : 'text-rose-400'}">${i.sentimiento}</td>
+          <td class="px-4 py-3.5 max-w-md truncate text-zinc-200">${i.texto || '<span class="italic text-zinc-400">Sin texto (reacción)</span>'}</td>
+        </tr>
+      `).join('');
+    }
+
+    function filtrarTabla() {
+      const q = document.getElementById('filtroTexto').value.toLowerCase();
+      const canal = document.getElementById('filtroCanal').value;
+      const filtradas = interaccionesCache.filter(i => {
+        const matchTexto = !q || i.id_interaccion.toLowerCase().includes(q) || i.alias.toLowerCase().includes(q) || (i.texto && i.texto.toLowerCase().includes(q));
+        const matchCanal = !canal || i.canal === canal;
+        return matchTexto && matchCanal;
+      });
+      pintarTabla(filtradas);
+    }
+
+    function abrirModal(item) {
+      document.getElementById('detId').textContent = item.id_interaccion;
+      document.getElementById('detCuerpo').innerHTML = `
+        <p><strong class="text-zinc-300">Usuario:</strong> ${item.alias} (${item.id_usuario})</p>
+        <p><strong class="text-zinc-300">Canal / Dispositivo:</strong> ${item.canal} • ${item.dispositivo}</p>
+        <p><strong class="text-zinc-300">Tema / Tipo:</strong> ${item.tema} (${item.tipo})</p>
+        <p><strong class="text-zinc-300">Sentimiento:</strong> <span class="mono font-bold text-emerald-400">${item.sentimiento}</span></p>
+        <p><strong class="text-zinc-300">Timestamp:</strong> ${item.timestamp}</p>
+        <div class="p-4 bg-zinc-950/90 rounded-xl border border-white/15 mt-2">
+          <p class="font-semibold text-zinc-300 mb-1">Contenido registrado:</p>
+          <p class="text-white text-base">${item.texto || 'Reacción sin texto'}</p>
+        </div>
+      `;
+      document.getElementById('modalDetalle').classList.remove('hidden');
+      document.getElementById('modalDetalle').classList.add('flex');
+    }
+
+    function cerrarModal() {
+      document.getElementById('modalDetalle').classList.add('hidden');
+      document.getElementById('modalDetalle').classList.remove('flex');
+    }
+
+    async function cargarHistoricosYTabla() {
+      const [resHist, resInter] = await Promise.all([
+        fetch('/api/historicos', { headers: headersAuth }),
+        fetch('/api/interacciones', { headers: headersAuth })
+      ]);
+
+      if (resHist.status === 401 || resHist.status === 403) return cerrarSesion();
+
+      const hist = await resHist.json();
+      interaccionesCache = await resInter.json();
+      filtrarTabla();
+
+      // Serie Histórica
+      if (chartFechas) chartFechas.destroy();
+      chartFechas = new Chart(document.getElementById('chartFechas'), {
+        type: 'line',
+        data: {
+          labels: hist.porFecha.map(r => r.fecha),
+          datasets: [{ label: 'Interacciones', data: hist.porFecha.map(r => r.total), borderColor: '#22d3ee', backgroundColor: 'rgba(34, 211, 238, 0.14)', fill: true, tension: 0.35 }]
+        },
+        options: {
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { ticks: { color: '#f4f4f5', font: { size: 13 } }, grid: { display: false } },
+            y: { ticks: { color: '#d4d4d8', font: { size: 13 } }, grid: { color: 'rgba(255,255,255,0.08)' } }
+          }
+        }
+      });
+
+      // Países
+      if (chartPaises) chartPaises.destroy();
+      chartPaises = new Chart(document.getElementById('chartPaises'), {
+        type: 'bar',
+        data: {
+          labels: hist.porPais.map(r => r.pais),
+          datasets: [{ label: 'Usuarios', data: hist.porPais.map(r => r.total), backgroundColor: '#a78bfa', borderRadius: 6 }]
+        },
+        options: {
+          indexAxis: 'y',
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { ticks: { color: '#d4d4d8', font: { size: 13 } }, grid: { color: 'rgba(255,255,255,0.08)' } },
+            y: { ticks: { color: '#ffffff', font: { size: 14, weight: '600' } }, grid: { display: false } }
+          }
+        }
+      });
+
+      // Top Especies
+      if (chartEspecies) chartEspecies.destroy();
+      chartEspecies = new Chart(document.getElementById('chartEspecies'), {
+        type: 'bar',
+        data: {
+          labels: hist.porEspecie.map(r => r.especie_fursona),
+          datasets: [{ label: 'Usuarios', data: hist.porEspecie.map(r => r.total), backgroundColor: '#34d399', borderRadius: 6 }]
+        },
+        options: {
+          indexAxis: 'y',
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { ticks: { color: '#d4d4d8', font: { size: 13 } }, grid: { color: 'rgba(255,255,255,0.08)' } },
+            y: { ticks: { color: '#ffffff', font: { size: 14, weight: '600' } }, grid: { display: false } }
+          }
+        }
+      });
+
+      // Mapa de Calor con tipografía grande
+      const canalesUnicos = [...new Set(hist.mapaCalor.map(r => r.canal))];
+      const temasUnicos = [...new Set(hist.mapaCalor.map(r => r.tema))];
+      const maxVal = Math.max(...hist.mapaCalor.map(r => Number(r.total)), 1);
+
+      let htmlMap = '<table class="w-full text-sm text-center border-collapse"><thead><tr><th class="p-3.5 text-left text-zinc-200 font-bold bg-white/[0.06]">Canal \\ Tema</th>';
+      temasUnicos.forEach(t => { htmlMap += `<th class="p-3.5 text-white font-bold bg-white/[0.06]">${t}</th>`; });
+      htmlMap += '</tr></thead><tbody>';
+
+      canalesUnicos.forEach(c => {
+        htmlMap += `<tr><td class="p-3.5 text-left font-bold text-white border-t border-white/15 bg-white/[0.03]">${c}</td>`;
+        temasUnicos.forEach(t => {
+          const found = hist.mapaCalor.find(r => r.canal === c && r.tema === t);
+          const val = found ? Number(found.total) : 0;
+          const intensity = val / maxVal;
+          const bg = val === 0 ? 'rgba(255,255,255,0.03)' : `rgba(16, 185, 129, ${(0.18 + intensity * 0.78).toFixed(2)})`;
+          const textColor = intensity > 0.5 ? '#052e16' : '#ffffff';
+          htmlMap += `<td class="mono p-3.5 border border-white/15 font-extrabold text-base" style="background:${bg}; color:${textColor}">${val}</td>`;
+        });
+        htmlMap += '</tr>';
+      });
+      htmlMap += '</tbody></table>';
+      document.getElementById('heatmapContainer').innerHTML = htmlMap;
+    }
+
+    async function iniciar() {
+      const resKpi = await fetch('/api/kpis', { headers: headersAuth });
+      if (resKpi.status === 401 || resKpi.status === 403) return cerrarSesion();
+      const kpis = await resKpi.json();
+      renderKPIs(kpis);
+      await cargarHistoricosYTabla();
+    }
+
+    // WebSocket en vivo
+    const socket = io();
+    socket.on('actualizacion_kpis', (payload) => {
+      renderKPIs(payload.kpis);
+      cargarHistoricosYTabla();
+
+      const toast = document.getElementById('toastWs');
+      toast.textContent = `⚡ WebSocket (${payload.accion}): Interacción ${payload.id_interaccion} sincronizada`;
+      toast.classList.remove('hidden');
+      setTimeout(() => toast.classList.add('hidden'), 3500);
+    });
+
+    iniciar();
+  </script>
+</body>
+</html>
