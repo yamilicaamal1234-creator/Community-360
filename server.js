@@ -45,7 +45,7 @@ await redis.connect();
 
 // Helper: Obtener o crear ID en tablas catálogo (canales, temas, dispositivos)
 async function getOrCreateCatalogId(conn, tabla, colId, nombre) {
-  const [rows] = await conn.execute(`SELECT ${colId} AS id FROM${tabla} WHERE nombre = ?`, [nombre]);
+  const [rows] = await conn.execute(`SELECT ${colId} AS id FROM ${tabla} WHERE nombre = ?`, [nombre]);
   if (rows.length > 0) return rows[0].id;
   const [res] = await conn.execute(`INSERT INTO ${tabla} (nombre) VALUES (?)`, [nombre]);
   return res.insertId;
