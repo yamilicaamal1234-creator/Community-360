@@ -46,9 +46,6 @@
         <a href="#sec-kpis" class="px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 text-zinc-100 transition">Indicadores</a>
         <a href="#sec-historicos" class="px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 text-zinc-100 transition">Histórico y Calor</a>
         <a href="#sec-tabla" class="px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 text-zinc-100 transition">Registros</a>
-        <button onclick="toggleFormulas()" class="px-3.5 py-2 rounded-xl bg-cyan-500/20 hover:bg-cyan-500/30 text-cyan-300 border border-cyan-400/40 font-semibold transition cursor-pointer">
-          📐 Fórmulas Matemáticas
-        </button>
       </nav>
 
       <div class="flex items-center gap-4">
@@ -68,32 +65,6 @@
 
   <!-- Contenedor Principal -->
   <main class="max-w-[1560px] w-full mx-auto px-4 pt-6 pb-12 space-y-8 flex-1">
-
-    <!-- Panel Desplegable: Definición Matemática -->
-    <section id="panelFormulas" class="hidden glass-card rounded-2xl p-6 border-cyan-400/40">
-      <div class="flex items-center justify-between pb-3 border-b border-white/15 mb-4">
-        <h2 class="text-lg font-bold text-cyan-300">Definición Matemática de Indicadores</h2>
-        <button onclick="toggleFormulas()" class="text-zinc-300 hover:text-white text-lg font-bold cursor-pointer">✕</button>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
-        <div class="p-4 rounded-xl bg-zinc-950/90 border border-white/15">
-          <p class="font-bold text-white">1. Usuarios Registrados (U)</p>
-          <p class="mono text-emerald-400 text-sm my-1.5">U = COUNT(DISTINCT id_usuario)</p>
-        </div>
-        <div class="p-4 rounded-xl bg-zinc-950/90 border border-white/15">
-          <p class="font-bold text-white">2. Interacciones Válidas (N)</p>
-          <p class="mono text-emerald-400 text-sm my-1.5">N = Σ 1 (con id_usuario ∈ U)</p>
-        </div>
-        <div class="p-4 rounded-xl bg-zinc-950/90 border border-white/15">
-          <p class="font-bold text-white">3. Registros en Cuarentena (Q)</p>
-          <p class="mono text-amber-300 text-sm my-1.5">Q = Σ 1 (con id_usuario ∉ U)</p>
-        </div>
-        <div class="p-4 rounded-xl bg-zinc-950/90 border border-white/15">
-          <p class="font-bold text-white">4. Sentimiento Medio (S̄)</p>
-          <p class="mono text-cyan-300 text-sm my-1.5">S̄ = (Σ s_i) / N,  s_i ∈ [-1, 1]</p>
-        </div>
-      </div>
-    </section>
 
     <!-- SECCIÓN 1: INDICADORES PRINCIPALES -->
     <section id="sec-kpis" class="space-y-6">
@@ -121,28 +92,28 @@
         </div>
       </div>
 
-      <!-- Gráficas Dinámicas en Vivo (Canales y Dispositivos centrados) -->
+      <!-- Gráficas Dinámicas en Vivo (Canales y Dispositivos ampliados y centrados) -->
       <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-stretch">
         <div class="lg:col-span-6 glass-card rounded-2xl p-6 flex flex-col justify-between">
           <h2 class="text-lg font-bold text-white mb-4">Actividad por Tema</h2>
           <div class="flex-1 flex items-center">
-            <canvas id="chartTemas" height="230"></canvas>
+            <canvas id="chartTemas" height="235"></canvas>
           </div>
         </div>
 
         <div class="lg:col-span-3 glass-card rounded-2xl p-6 flex flex-col">
-          <h3 class="text-lg font-bold text-white mb-2">Canales</h3>
-          <div class="flex-1 flex items-center justify-center my-auto py-4">
-            <div class="w-full max-w-[270px]">
+          <h3 class="text-lg font-bold text-white mb-3">Canales</h3>
+          <div class="flex-1 flex items-center justify-center my-auto">
+            <div class="w-full px-1">
               <canvas id="chartCanales"></canvas>
             </div>
           </div>
         </div>
 
         <div class="lg:col-span-3 glass-card rounded-2xl p-6 flex flex-col">
-          <h3 class="text-lg font-bold text-white mb-2">Dispositivos</h3>
-          <div class="flex-1 flex items-center justify-center my-auto py-4">
-            <div class="w-full max-w-[270px]">
+          <h3 class="text-lg font-bold text-white mb-3">Dispositivos</h3>
+          <div class="flex-1 flex items-center justify-center my-auto">
+            <div class="w-full px-1">
               <canvas id="chartDispositivos"></canvas>
             </div>
           </div>
@@ -253,10 +224,6 @@
       window.location.href = '/index.html';
     }
 
-    function toggleFormulas() {
-      document.getElementById('panelFormulas').classList.toggle('hidden');
-    }
-
     // Formateador de temas para presentar texto limpio sin guiones bajos
     const nombresTemas = {
       musica: 'Música',
@@ -327,8 +294,8 @@
           options: {
             responsive: true,
             maintainAspectRatio: true,
-            cutout: '60%',
-            plugins: { legend: { position: 'bottom', labels: { color: '#ffffff', font: { size: 13 }, padding: 14 } } }
+            cutout: '52%',
+            plugins: { legend: { position: 'bottom', labels: { color: '#ffffff', font: { size: 13 }, padding: 12 } } }
           }
         });
       }
@@ -347,8 +314,8 @@
           options: {
             responsive: true,
             maintainAspectRatio: true,
-            cutout: '60%',
-            plugins: { legend: { position: 'bottom', labels: { color: '#ffffff', font: { size: 13 }, padding: 14 } } }
+            cutout: '52%',
+            plugins: { legend: { position: 'bottom', labels: { color: '#ffffff', font: { size: 13 }, padding: 12 } } }
           }
         });
       }
